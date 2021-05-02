@@ -1,2 +1,3 @@
 # sammelsurium
-A sammelsurium of dev stuff
+
+Als Sammelsurium wird heutzutage eine ungeordnete, unsystematisch angelegte Sammlung bezeichnet.
