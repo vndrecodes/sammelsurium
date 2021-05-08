@@ -25,6 +25,10 @@ author: vndrecodes
 * https://goalkicker.com/ - Free Programming Books
 
 
+## Bash
+* https://misc.flogisoft.com/bash/tip_colors_and_formatting - Colors and formatting
+* https://linuxcommandlibrary.com/basic/oneliners.html - A lot of bash oneliners
+
 ## Colors
 * http://paletton.com/ - Color palettes
 * https://colourco.de/ - Color palettes
@@ -47,6 +51,12 @@ author: vndrecodes
 * https://iconscout.com/ - Icons
 
 
+## Media
+* https://www.covermytunes.com - Largest CD Covers & iTunes Album Artwork Search Engine
+* https://fanart.tv - Logos, Backgrounds, Posters and more for your TV, Movie and Music collections
+* https://bendodson.com/projects/itunes-artwork-finder/ - iTunes Artwork Finder
+
+
 ## Other lists
 * https://github.com/sindresorhus/awesome - The holy grail of lists
 * https://github.com/cdterry87/Resources - Mostly web development stuff
@@ -58,6 +68,7 @@ author: vndrecodes
 * https://github.com/lk-geimfari/awesomo - Open Source Projects list for different languages
 * https://github.com/trimstray/the-book-of-secret-knowledge - Big collection of manuals, cheatsheets, tools
 * https://github.com/alebcay/awesome-shell - List of shell stuff
+* https://github.com/ripienaar/free-for-dev - A list of SaaS, PaaS and IaaS
 
 
 ## Online Editors
@@ -66,6 +77,7 @@ author: vndrecodes
 
 ## Other
 * https://code2art.jetbrains.com/ - Jetbrains Wallpaper Generator
+* https://namingmyfunction.vercel.app - I don't know how to name my function
 
 
 ## Placeholder
