@@ -1,0 +1,10 @@
+# RUN, COPY, ADD create layers!
+
+FROM ubuntu:18.04
+LABEL version="0.0.1"
+RUN apt-get update \
+  && apt-get upgrade -y \
+  && apt-get install curl -y
+RUN useradd -ms /bin/bash myuser
+USER myuser
+WORKDIR /home/myuser

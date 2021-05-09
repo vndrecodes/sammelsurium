@@ -1,0 +1,26 @@
+# Docker compose template
+version: '3'
+services:
+  app:
+    build: .
+    container_name: mycontainer-app
+    restart: always
+    ports:
+      - 8080:80
+    volumes:
+      - ./mount:/home
+    links:
+      - database
+
+  database:
+    image: mariadb:latest
+    container_name: mycontainer-db
+    restart: always
+    environment:
+      MYSQL_DATABASE: database
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+    # Executed on container startup.
+    volumes:
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
