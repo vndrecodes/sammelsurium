@@ -32,10 +32,21 @@ author: vndrecodes
 ## Colors
 * http://paletton.com/ - Color palettes
 * https://colourco.de/ - Color palettes
+* https://www.conic.style - CSS gradients
+* https://cssgradient.io - Gradient Backgrounds
+* https://coolbackgrounds.io - Image Background Generator
+* https://www.gradientmagic.com/ - CSS gradient gallery
+* https://hue360.herokuapp.com/ - Color Wheel
+* https://www.canva.com/colors/color-wheel/ - Color Wheel
+* https://neumorphism.io/ - Neumorphism Generator
+* https://bansal.io/pattern-css - CSS Pattern generator
+* https://mybrandnewlogo.com/de/farbverlaufsgenerator - Gradient generator
 
 
 ## Data
 * https://www.isic-archive.com/ - The International Skin Imaging Collaboration
+* https://copypastelist.com/ - Lists
+*
 
 
 ## Dev Resources
@@ -57,6 +68,7 @@ author: vndrecodes
 * https://bendodson.com/projects/itunes-artwork-finder/ - iTunes Artwork Finder
 
 
+
 ## Other lists
 * https://github.com/sindresorhus/awesome - The holy grail of lists
 * https://github.com/cdterry87/Resources - Mostly web development stuff
@@ -69,20 +81,30 @@ author: vndrecodes
 * https://github.com/trimstray/the-book-of-secret-knowledge - Big collection of manuals, cheatsheets, tools
 * https://github.com/alebcay/awesome-shell - List of shell stuff
 * https://github.com/ripienaar/free-for-dev - A list of SaaS, PaaS and IaaS
+* https://appydev.co/- Collection of tools, resources and products.
 
 
 ## Online Editors
 * https://jsbin.com/ - Javscript, HTML, CSS, Console
 * https://stackedit.io - Markdown w. UML & Latex support
+* https://readme.so/ - Online clickagle markdown editor
 
 
 ## Other
 * https://code2art.jetbrains.com/ - Jetbrains Wallpaper Generator
 * https://namingmyfunction.vercel.app - I don't know how to name my function
+* https://lookup.design/ - Find design examples
 
 
 ## Placeholder
 * https://jsonplaceholder.typicode.com/ - JSON test REST API
+
+
+## SEO
+* https://metatags.io/ - Meta Tags generator
+* https://www.toptal.com/developers/webdevchecklist - Web Developer checklist
+* https://developers.google.com/speed/pagespeed/insights/ - Google Page Speed Analyzer
+* https://gtmetrix.com/reports/studiosoco.com/tpUOXLhG/ - Page Speed Analyzer
 
 
 ## Stock
@@ -94,6 +116,8 @@ author: vndrecodes
 * https://www.reshot.com/ - Stock Photos
 * https://focastock.com/ - Photos, Videos, Templates
 * https://undraw.co/ - Illustrations
+* https://uppbeat.io/ - Free Music
+* https://coverr.co/ - Free Videos
 
 
 ## Tools
@@ -103,6 +127,15 @@ author: vndrecodes
 * https://www.desmos.com/calculator - Graph Calculator
 * https://dbdiagram.io/ - Draw ER Diagrams w. code
 * https://draw.io - Flowchart Maker
+* https://compressor.io/ - Compress images
+* https://billdogg.com/ - Create Invoices Online
+* https://getmanta.app/ - Invocing Application
+* https://undesign.learn.uno/ - Collection of design tools and resources for developers
+* https://formito.com/tools/favicon - Favicon maker
+* https://formito.com/tools/logo - Logo maker
+* https://patternpad.com/ - Pattern generator
+* https://ihateregex.io/ - Regex generator
+* https://stevecat.net/table-magic/table-magic - Markdown to SQL to CSV to FORM to HTML
 
 
 ## Tutorials
