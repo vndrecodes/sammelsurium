@@ -27,8 +27,10 @@ author: vndrecodes
 * https://awesomelists.top - Search
 * https://awesome.digitalbunker.dev - Search
 
+
 ## Books
 * https://goalkicker.com/ - Free Programming Books
+* https://github.com/EbookFoundation/free-programming-books - Freely available programming books
 
 
 ## Bash
@@ -38,6 +40,13 @@ author: vndrecodes
 
 ## Cheatsheets
 * https://github.com/kettanaito/naming-cheatsheet - Naming Cheatsheet
+
+
+## Checklists
+* https://frontendchecklist.io - Frontend Checklist
+* https://www.toptal.com/developers/webdevchecklist - Web Developer Checklist
+
+
 
 ## Colors
 * https://hue360.herokuapp.com/ - Color Wheel
@@ -337,7 +346,6 @@ author: vndrecodes
 
 ## SEO
 * https://metatags.io/ - Meta Tags Generator
-* https://www.toptal.com/developers/webdevchecklist - Web Developer Checklist
 * https://developers.google.com/speed/pagespeed/insights/ - Google Page Speed Analyzer
 * https://gtmetrix.com/reports/studiosoco.com/tpUOXLhG/ - Page Speed Analyzer
 * https://www.seoptimer.com/meta-tag-generator - Meta Tag Generator
