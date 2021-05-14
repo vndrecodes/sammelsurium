@@ -249,6 +249,7 @@ https://keyframes.app/animate/
 ## Data
 * https://www.isic-archive.com/ - The International Skin Imaging Collaboration
 * https://copypastelist.com/ - Lists
+* https://www.mockaroo.com/ - JSON, SQL, XML, CSV mock data generator
 
 
 ## Dev Resources
