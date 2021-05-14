@@ -80,3 +80,19 @@ $ docker container rm $(docker container ls -a -q)  # Remove all containers
 $ docker image rm $(docker image ls -a -q)          # Remove all images from this machine
 $ docker rmi $(docker images -q)                    # Remove all images from this machine
 ```
+
+
+## Migrating
+### Move container
+```shell
+$ docker export <container> | gzip > <container>.gz   # Export
+
+$ zcat <container>.gz | docker import - <container>   # Import
+```
+
+### Move image
+```shell
+$ docker save <image> > <image>.tar   # Export
+
+$ cat <image>.tar | docker load       # Import
+```
