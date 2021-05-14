@@ -20,6 +20,12 @@ author: vndrecodes
 ## Avatar
 * https://getavataaars.com/ - Avatars Generator
 
+## Awesome Universe
+* https://github.com/sindresorhus/awesome - Repo
+* https://project-awesome.org - Web
+* https://awesome-indexed.mathew-davies.co.uk - Search
+* https://awesomelists.top - Search
+* https://awesome.digitalbunker.dev - Search
 
 ## Books
 * https://goalkicker.com/ - Free Programming Books
@@ -29,6 +35,9 @@ author: vndrecodes
 * https://misc.flogisoft.com/bash/tip_colors_and_formatting - Colors and formatting
 * https://linuxcommandlibrary.com/basic/oneliners.html - A lot of bash oneliners
 
+
+## Cheatsheets
+* https://github.com/kettanaito/naming-cheatsheet - Naming Cheatsheet
 
 ## Colors
 * https://hue360.herokuapp.com/ - Color Wheel
