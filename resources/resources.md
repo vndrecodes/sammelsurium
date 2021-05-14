@@ -41,25 +41,25 @@ author: vndrecodes
 
 ## CSS
 ### Animation
-https://www.theappguruz.com/tag-tools/web/CSSAnimations/
-https://cssanimate.com/
-https://gibbok.github.io/animatelo/
-https://all-animation.github.io/
-https://elrumordelaluz.github.io/csshake/
-http://cssanimation.io/
-https://ianlunn.github.io/Hover/
-https://tilomitra.github.io/infinite/
-https://shakrmedia.github.io/tuesday/
-https://www.minimamente.com/project/magic/
-https://webkul.github.io/micron/
-https://zurb.com/playground/motion-ui
-https://tholman.com/obnoxious/
-https://dwarcher.github.io/reboundgen/examples/
-https://minimamente.com/example/rocket/
-https://kristofferandreasen.github.io/wickedCSS/
-https://animista.net/play/basic
-https://animate.style/
-https://keyframes.app/animate/
+* https://www.theappguruz.com/tag-tools/web/CSSAnimations/
+* https://cssanimate.com/
+* https://gibbok.github.io/animatelo/
+* https://all-animation.github.io/
+* https://elrumordelaluz.github.io/csshake/
+* http://cssanimation.io/
+* https://ianlunn.github.io/Hover/
+* https://tilomitra.github.io/infinite/
+* https://shakrmedia.github.io/tuesday/
+* https://www.minimamente.com/project/magic/
+* https://webkul.github.io/micron/
+* https://zurb.com/playground/motion-ui
+* https://tholman.com/obnoxious/
+* https://dwarcher.github.io/reboundgen/examples/
+* https://minimamente.com/example/rocket/
+* https://kristofferandreasen.github.io/wickedCSS/
+* https://animista.net/play/basic
+* https://animate.style/
+* https://keyframes.app/animate/
 
 ### Box Shadows
 * https://getcssscan.com/css-box-shadow-examples
