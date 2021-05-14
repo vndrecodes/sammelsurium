@@ -136,6 +136,39 @@ $ docker load -i <import_file.tar>
 
 ## References
 
-[Deliver Oracle Database 18c Express Edition in Containers](https://blogs.oracle.com/oraclemagazine/deliver-oracle-database-18c-express-edition-in-containers)
+[Deliver Oracle Database 18c Express Edition in Containers][ora1]
 
-[Oracle Database on Docker](https://github.com/oracle/docker-images/tree/master/)
+[Oracle Docker][ora2]
+
+[Why the Oracle database is slow when using the docker?][ora3]
+
+[xe-11g Custom DB Initialization Example][ora4]
+
+[Initialization of schema during oracle initialization using docker file][ora5]
+
+[Update instructions for Oracle-XE to create a new image after first-run of Oracle XE][ora6]
+
+[Oracle Database on Docker - Best Practices][ora7]
+
+[Dockerizing Oracle Database][ora8]
+
+
+
+
+
+
+[ora1]: https://blogs.oracle.com/oraclemagazine/deliver-oracle-database-18c-express-edition-in-containers "Deliver Oracle Database 18c Express Edition in Containers"
+
+[ora2]: https://github.com/oracle/docker-images/tree/master/ "Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects"
+
+[ora3]: https://bigdata-etl.com/solved-why-is-the-oracle-database-is-slow-when-using-the-docker/amp/ "Why the Oracle database is slow when using the docker?"
+
+[ora4]: https://github.com/burakince/docker-oracle-xe-11g-custom-db-Initialization-example "xe-11g Custom DB Initialization Example"
+
+[ora5]: https://stackoverflow.com/questions/32033998/initialization-of-schema-during-oracle-initialization-using-docker-file "Initialization of schema during oracle initialization using docker file"
+
+[ora6]: https://github.com/testcontainers/testcontainers-java/issues/1892 "Update instructions for Oracle-XE to create a new image after first-run of Oracle XE"
+
+[ora7]: https://de.slideshare.net/gvenzl/oracle-database-on-docker-best-practices-92806097 "Oracle Database on Docker - Best Practices"
+
+[ora8]: https://de.slideshare.net/gvenzl/dockerizing-oracle-database "Dockerizing Oracle Database"
