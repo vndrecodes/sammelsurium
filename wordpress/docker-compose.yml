@@ -1,0 +1,31 @@
+version: '3.1'
+
+services:
+
+  wordpress:
+    image: wordpress
+    #restart: always
+    ports:
+      - 8080:80
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: staff
+      WORDPRESS_DB_PASSWORD: passwd
+      WORDPRESS_DB_NAME: wpdb
+    volumes:
+      - wordpress:/var/www/html
+
+  db:
+    image: mariadb:latest
+    restart: always
+    environment:
+      MYSQL_DATABASE: wpdb
+      MYSQL_USER: staff
+      MYSQL_PASSWORD: passwd
+      MYSQL_ROOT_PASSWORD: passwd
+    volumes:
+      - db:/var/lib/mysql
+
+volumes:
+  wordpress:
+  db:
