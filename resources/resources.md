@@ -39,6 +39,7 @@ author: vndrecodes
 
 
 ## Cheatsheets
+* https://devhints.io - Nice to use cheatsheet collection
 * https://github.com/kettanaito/naming-cheatsheet - Naming Cheatsheet
 
 
