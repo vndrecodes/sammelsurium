@@ -20,6 +20,7 @@ author: vndrecodes
 ## Avatar
 * https://getavataaars.com/ - Avatars Generator
 
+
 ## Awesome Universe
 * https://github.com/sindresorhus/awesome - Repo
 * https://project-awesome.org - Web
@@ -40,13 +41,16 @@ author: vndrecodes
 
 ## Cheatsheets
 * https://devhints.io - Nice to use cheatsheet collection
+* https://devdocs.io - Multiple developer documentations in a clean and organized web UI
+* https://overapi.com - Cheatsheets / Quick References
 * https://github.com/kettanaito/naming-cheatsheet - Naming Cheatsheet
+* https://grid.malven.co/ - CSS grid cheatsheet
+
 
 
 ## Checklists
 * https://frontendchecklist.io - Frontend Checklist
 * https://www.toptal.com/developers/webdevchecklist - Web Developer Checklist
-
 
 
 ## Colors
@@ -212,7 +216,7 @@ author: vndrecodes
 * https://icons8.com/cssload/en/spinners
 * https://brandmark.io/font-generator/
 
-## SVG Shapes / Patterns
+### SVG Shapes / Patterns
 * https://www.blobmaker.app/
 * https://squircley.app/
 * https://www.softr.io/tools/svg-shape-generator
@@ -269,6 +273,11 @@ author: vndrecodes
 * https://www.isic-archive.com/ - The International Skin Imaging Collaboration
 * https://copypastelist.com/ - Lists
 * https://www.mockaroo.com/ - JSON, SQL, XML, CSV mock data generator
+* https://www.onlinedatagenerator.com - CSV, Json, SQL
+* http://www.randat.com - CSV random data generator
+* https://www.generatedata.com - CSV, HTML, JSON, JS, SQL, XML
+* https://www.databasetestdata.com - Mock Data JSON, XML, CSV
+* https://random-data-api.com - random fake data
 
 
 ## Dev Resources
@@ -302,6 +311,12 @@ author: vndrecodes
 * https://www.svgrepo.com/
 * https://mariodelvalle.github.io/CaptainIconWeb/
 * https://www.smplkit.com/
+
+
+## Inspiration
+* https://collectui.com/ - Daily inspiration collected from daily ui archive
+* https://dribbble.com/ - Well known design destination
+* https://screenlane.com/ - Latest mobile & web UI design inspiration
 
 
 
@@ -365,9 +380,14 @@ author: vndrecodes
 * https://coverr.co/ - Free Videos
 
 
+## Styleguide
+* https://google.github.io/styleguide/ - Google Style Guides, shell, JavaScript, java, html, css
+* https://github.com/airbnb/javascript - JavaScript
+
 ## Tools
 * https://ss64.com/ - Linux, macos, Windows Swiss Army Knife
 * https://toolbox.googleapps.com/ - Dig, Kodierer, JSON Formatter
+* https://www.appdevtools.com - Text, Validatiors, Formatters, Converters, Encoders, Network Tools
 * https://httpstatuses.com/ - Status overview
 * https://www.desmos.com/calculator - Graph Calculator
 * https://dbdiagram.io/ - Draw ER Diagrams w. code
