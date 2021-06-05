@@ -3,11 +3,8 @@ id: wsl-install
 summary: Install wsl (2) on windows 10
 categories: windows
 tags: windows, wsl, linux
-difficulty: 1
-status: draft
-feedback_url: https://github.com/vndrecodes/sammelsurium
 published: 2020-09-11
-author: <vndrecodes@outlook.com>
+author: vndrecodes
 
 ---
 

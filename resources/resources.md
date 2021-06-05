@@ -387,7 +387,7 @@ author: vndrecodes
 ## Tools
 * https://ss64.com/ - Linux, macos, Windows Swiss Army Knife
 * https://toolbox.googleapps.com/ - Dig, Kodierer, JSON Formatter
-* https://www.appdevtools.com - Text, Validatiors, Formatters, Converters, Encoders, Network Tools
+* https://www.appdevtools.com - Text, Validatiors, Formatters, Converters, Encoders, Network Tools, Password generator
 * https://httpstatuses.com/ - Status overview
 * https://www.desmos.com/calculator - Graph Calculator
 * https://dbdiagram.io/ - Draw ER Diagrams w. code
@@ -408,6 +408,12 @@ author: vndrecodes
 * https://pfpmaker.com/ - Profile Picture Maker
 * https://profilepicturemaker.com/ - Profile Picture Maker
 * https://badgen.net/ - Badge Generator
+* https://jspaint.app/ - Online MS Paint
+* https://canvaspaint.org/ - Online MS Paint
+* https://kleki.com/ - Canvas always within reach
+* https://www.youidraw.com/apps/painter/ - Another canvas
+* https://sketch.io/sketchpad/ - And another canvas
+
 
 
 ## Tutorials
