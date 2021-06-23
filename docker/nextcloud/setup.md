@@ -93,6 +93,8 @@ $ ./occ files:scan --all --verbose
 
 [Installation on Linux][nc3]
 
+[Nextcloud 21 Installationsanleitung v. 3.2][nc5]
+
 [nc1]: https://github.com/evertramos/docker-nextcloud-letsencrypt "Automated docker nextcloud for nginx proxy (webproxy) integrated with LetsEncrypt"
 
 [nc2]: https://scan.nextcloud.com/ "Check the security of your private Nextcloud server"
@@ -100,3 +102,5 @@ $ ./occ files:scan --all --verbose
 [nc3]: https://docs.nextcloud.com/server/21/admin_manual/installation/source_installation.html#installation-wizard "Installation on Linux"
 
 [nc4]: https://github.com/nextcloud/docker "Docker Image of Nextcloud"
+
+[nc5]: https://www.c-rieger.de/nextcloud-installationsanleitung/
