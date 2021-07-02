@@ -333,6 +333,7 @@ author: vndrecodes
 * https://github.com/cdterry87/Resources - Mostly web development stuff
 * https://github.com/public-apis/public-apis - Public APIs
 * https://apis.guru - Wikipedia for WEB APIs
+* https://rapidapi.com/de/collection/list-of-free-apis - Free Public & Open Rest APIs 
 * https://trolologuy.github.io/useful-tools/ - Well structured list
 * https://github.com/kahun/awesome-sysadmin - Sysadmin list
 * http://cb.vu/unixtoolbox.xhtml - Useful unix commands
