@@ -13,18 +13,17 @@ CREATE USER <user> IDENTIFIED BY <password>
   DEFAULT TABLESPACE users
   TEMPORARY TABLESPACE temp
   QUOTA UNLIMITED ON users;
-GRANT CREATE TABLE TO <user>;
 GRANT CREATE SESSION TO <user>;
+GRANT CREATE TABLE TO <user>;
+GRANT CREATE VIEW TO <user>;
+GRANT CREATE ANY TRIGGER TO <user>;
+GRANT CREATE ANY PROCEDURE TO <user>;
+GRANT CREATE SEQUENCE TO <user>;
+GRANT CREATE SYNONYM TO <user>;
+
 SELECT username, account_status FROM dba_users;
 
 
-GRANT create session TO <user>;
-GRANT create table TO <user>;
-GRANT create view TO <user>;
-GRANT create any trigger TO <user>;
-GRANT create any procedure TO <user>;
-GRANT create sequence TO <user>;
-GRANT create synonym TO <user>;
 
 ALTER USER <user> quota unlimited on <tablespace name>;
 ```
