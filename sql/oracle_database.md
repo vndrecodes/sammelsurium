@@ -3,9 +3,23 @@
 
 
 ## Create schema
-Create a new Database Schema as `sysdba` user.
+### SYS, SYSTEM, SYSDBA:
+* "sys" ist ein Benutzer ("user") mit der Rolle "DBA" (mit Administratorrechten), der bei der Installation eingerichtet wird und die meisten Rechte hat ("Owner of the Database and Owner of the Data Dictionary"). "sys" kann sich mit "sysdba"-Privilegien mit der Datenbank verbinden ("connect sys/<password> as sysdba").
+* "system" ist ein Benutzer ("user") mit der Rolle "DBA" (mit Administratorrechten), der bei der Installation eingerichtet wird und die zweitmeisten Rechte hat. Administrative Aufgaben sollten bevorzugt als "system"-Benutzer ausgeführt werden.
+* "sysdba" ist weder ein Benutzer noch eine Rolle, sondern ist ein "Privileg" (also eine besondere Berechtigung). Wenn sich der "sys"-Benutzer "as sysdba" anmeldet, verfügt er über weitreichendste Rechte (z.B. Erzeugung der Datenbank, Herunterfahren, Backup und Recovery).
+
+[Oracle Database XE][ora1]
+
+Create a new Database Schema with `sysdba` privilege.
 ```sql
-show con_name;
+/*
+ * 99.9% of the time the error ORA-65096: invalid common user or role name
+ * means you are logged into the CDB when you should be logged into a PDB.
+ *
+ * Connect with sysdba privilege to a PDB (or alter session in CBD)
+ */
+show con_name; -- root container(CDB)
+show pdbs; -- pluggable databases(PDB)
 show user;
 
 ALTER SESSION SET "_oracle_script"=true;
@@ -63,3 +77,8 @@ You could also use IMMEDIATE clause:
 ALTER SYSTEM KILL SESSION 'sid,serial#' IMMEDIATE;
 -- https://stackoverflow.com/questions/31201693/how-to-kill-all-active-and-inactive-oracle-sessions-for-user/31202140
 ```
+
+## References
+[Oracle Database XE][ora1]
+
+[ora1]: https://www.torsten-horn.de/techdocs/oraclexe-db.htm "Oracle Database XE"
