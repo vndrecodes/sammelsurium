@@ -416,6 +416,9 @@ author: vndrecodes
 * https://kleki.com/ - Canvas always within reach
 * https://www.youidraw.com/apps/painter/ - Another canvas
 * https://sketch.io/sketchpad/ - And another canvas
+* https://www.askapache.com/online-tools/ - ASCII Figlets, htpasswd generator, CSS compressor, JS code beautifier
+* https://htpasswdgenerator.de/ - htpasswd generator
+* https://all-inkl.com/wichtig/htaccessgenerator/ - .htaccess Generator
 
 
 
