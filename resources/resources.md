@@ -430,6 +430,9 @@ author: vndrecodes
 * https://whois.cynthia.re/whois/ - Online whois
 * https://www.throwawaymail.com - Temporary e-mail address
 * https://guerrillamail.com - Temporary e-mail address
+* https://www.askapache.com/online-tools/ - ASCII Figlets, htpasswd generator, CSS compressor, JS code beautifier
+* https://htpasswdgenerator.de/ - htpasswd generator
+* https://all-inkl.com/wichtig/htaccessgenerator/ - .htaccess Generator
 
 
 
