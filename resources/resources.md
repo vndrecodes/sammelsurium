@@ -32,6 +32,7 @@ author: vndrecodes
 ## Books
 * https://goalkicker.com/ - Free Programming Books
 * https://github.com/EbookFoundation/free-programming-books - Freely available programming books
+* https://www.lapa.ninja/book/ - Free books for designers
 
 
 ## Bash
@@ -264,6 +265,7 @@ author: vndrecodes
 ### Tools
 * https://www.cssportal.com - CSSPortal CSS generators, tools and resources.
 * https://bun.js.org/ -
+* https://cssgrid-generator.netlify.app - Grid generator
 
 ### Underline
 * https://underline-generator.netlify.app/?ref=undesign - CSS Underline Generator
@@ -314,10 +316,17 @@ author: vndrecodes
 * https://www.smplkit.com/
 
 
+
 ## Inspiration
 * https://collectui.com/ - Daily inspiration collected from daily ui archive
 * https://dribbble.com/ - Well known design destination
 * https://screenlane.com/ - Latest mobile & web UI design inspiration
+* https://www.awwwards.com/ - The awards of design, creativity and innovation on the internet
+* https://www.behance.net/ - Adobe Creative Network
+* https://muz.li - Designers' Secret Source
+* https://www.siteinspire.com - A showcase of the best web design inspiration
+* https://mobbin.design/ - iOS and Android design ideas
+* https://www.lapa.ninja/ - The Best Landing Page Examples
 
 
 
@@ -333,7 +342,7 @@ author: vndrecodes
 * https://github.com/cdterry87/Resources - Mostly web development stuff
 * https://github.com/public-apis/public-apis - Public APIs
 * https://apis.guru - Wikipedia for WEB APIs
-* https://rapidapi.com/de/collection/list-of-free-apis - Free Public & Open Rest APIs 
+* https://rapidapi.com/de/collection/list-of-free-apis - Free Public & Open Rest APIs
 * https://trolologuy.github.io/useful-tools/ - Well structured list
 * https://github.com/kahun/awesome-sysadmin - Sysadmin list
 * http://cb.vu/unixtoolbox.xhtml - Useful unix commands
@@ -368,6 +377,8 @@ author: vndrecodes
 * https://developers.google.com/speed/pagespeed/insights/ - Google Page Speed Analyzer
 * https://gtmetrix.com/reports/studiosoco.com/tpUOXLhG/ - Page Speed Analyzer
 * https://www.seoptimer.com/meta-tag-generator - Meta Tag Generator
+* https://websiteseochecker.com - DA PA Checker MOZ
+* https://neilpatel.com/ubersuggest/ - SEO Analyzer
 
 
 ## Stock
@@ -416,6 +427,9 @@ author: vndrecodes
 * https://kleki.com/ - Canvas always within reach
 * https://www.youidraw.com/apps/painter/ - Another canvas
 * https://sketch.io/sketchpad/ - And another canvas
+* https://whois.cynthia.re/whois/ - Online whois
+* https://www.throwawaymail.com - Temporary e-mail address
+* https://guerrillamail.com - Temporary e-mail address
 
 
 
