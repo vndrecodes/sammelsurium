@@ -170,7 +170,7 @@ author: vndrecodes
 
 ### Illustrations
 * https://undraw.co/illustrations
-* https://www.drawkit.io/
+* https://www.drawkit.io/ -
 * https://iconscout.com/illustration-pack/indian-doodle
 * https://www.karthiksrinivas.in/poke
 * https://www.opendoodles.com/
@@ -189,7 +189,7 @@ author: vndrecodes
 * https://www.manypixels.co/gallery?ref=lapaninja
 * https://icons8.com/illustrations
 * https://humaaans.com/
-* https://lab.streamlinehq.com/
+* https://lab.streamlinehq.com/ - 100,000 icons, illustrations and emoji for all your projects
 * https://lucid.pixsellz.io/
 * https://ui8.net/
 * https://control.rocks/
@@ -202,6 +202,9 @@ author: vndrecodes
 * https://freeillustrations.xyz/
 * https://illlustrations.co/
 * https://www.getillustrations.com/illustration-packs
+* https://craftwork.design
+* https://www.humaaans.com - Illustrations of people
+
 
 ### Media Queries
 * http://giona.net/tools/css3-mediaquery-generator/
@@ -287,20 +290,28 @@ author: vndrecodes
 * https://webdevhome.github.io/ - Collection of basic tech links
 
 
+## Font
+* https://www.dafont.com - Schriftarten zum Download
+* https://www.1001freefonts.com - 1001 free fonts
+* https://fonts.adobe.com - Zahllose Schriftarten kennenlernen
+* https://fonts.google.com - Making the web more beautiful, fast, and open through great typography
+* https://freetypography.com - FreeTypography - The best free fonts, typefaces and typography
+* https://www.fontsquirrel.com - Legit Free & Quality for commercial use
+
+
 ## HTML
 * https://www.html.am - HTML Codes, Editors, and Generators and More
 * https://html-css-js.com - HTML-CSS-JS Editors, Cheatsheets, Generators
 
 
-
 ## Icons
 * https://material.io/resources/icons/ - Google material icons
-* https://thenounproject.com/
+* https://thenounproject.com/ - Icons and Photos For Everything
 * https://origin.fontawesome.com/ - The well known free icons
 * https://fontello.com/ - Icon Fonts Generator
 * https://www.flaticon.com/ - Vector Icons
 * https://iconscout.com/ - Icons
-* https://feathericons.com/
+* https://feathericons.com/ - Simply beautiful open source icons
 * https://css.gg/app
 * https://jam-icons.com/
 * https://lineicons.com/icons/
@@ -308,12 +319,24 @@ author: vndrecodes
 * https://iconmonstr.com/
 * https://icons.pixsellz.io/
 * https://www.iconshock.com/svg-icons/
-* https://icons8.com/icons
-* https://www.freepik.com
+* https://icons8.com/icons - Icons, illustrations, photos, music, and design tools
+* https://www.freepik.com - Graphic resources for everyone
 * https://www.iconninja.com/
 * https://www.svgrepo.com/
 * https://mariodelvalle.github.io/CaptainIconWeb/
 * https://www.smplkit.com/
+
+
+
+## Images
+* https://unsplash.com - The internet’s source of freely-usable images.
+* https://www.pexels.com/de-de/ - Kostenlose Fotos, lizenzfreie Bilder und Videos
+* https://pixabay.com/de/ - Mehr als eine Million hochwertige Stock-Bilder und -Videos
+* https://www.freeimages.com - Royalty-free photos by subject free for personal and commercial use
+* https://www.lifeofpix.com - Free high resolution photography
+* https://lifeofvids.com - Free Videos, Clips & Loops
+* https://kaboompics.com - Free stock photography + color palettes
+* https://www.gettyimages.at - Lizenzfreie Stock-Fotos, Illustrationen, Vektor-Grafiken und Videoclips
 
 
 
@@ -327,6 +350,7 @@ author: vndrecodes
 * https://www.siteinspire.com - A showcase of the best web design inspiration
 * https://mobbin.design/ - iOS and Android design ideas
 * https://www.lapa.ninja/ - The Best Landing Page Examples
+* https://abduzeedo.com - Blog about design
 
 
 
@@ -389,9 +413,9 @@ author: vndrecodes
 * https://pixabay.com/ - Stock images, videos and music
 * https://www.reshot.com/ - Stock Photos
 * https://focastock.com/ - Photos, Videos, Templates
-* https://undraw.co/ - Illustrations
 * https://uppbeat.io/ - Free Music
 * https://coverr.co/ - Free Videos
+* https://www.vecteezy.com - Free Vector Art, Stock Photos & Stock Videos
 
 
 ## Styleguide
