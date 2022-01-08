@@ -16,3 +16,10 @@ author: vndrecodes
 * https://rectangleapp.com - Window Tiling
 * https://magnet.crowdcafe.com - Window Tiling
 * https://apps.apple.com/us/app/amphetamine/ - Power Management
+
+
+## Essentials
+* git
+  ```shell
+  $ xcode-select --install
+  ```
