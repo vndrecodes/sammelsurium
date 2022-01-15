@@ -53,6 +53,7 @@ author: vndrecodes
 * https://frontendchecklist.io - Frontend Checklist
 * https://www.toptal.com/developers/webdevchecklist - Web Developer Checklist
 * https://gdprchecklist.io - GDPR Checklist
+* https://landingpage.fyi/landing-page-checklist.html - Landing Page Checklist
 
 
 ## Colors
@@ -156,6 +157,7 @@ author: vndrecodes
 * https://www.colorpoint.io/free-tools-for-designers/color-tints-and-shades/
 * https://colormixer.web.app/
 * https://colourco.de/ - Color palettes
+* https://cheekypalettes.com - Color palettes inspiration in context on pages
 
 ### Filters
 * https://www.cssfiltergenerator.com/ - Filter Generator
@@ -210,6 +212,35 @@ author: vndrecodes
 * http://giona.net/tools/css3-mediaquery-generator/
 * http://tools51.nasqueron.org/css/media-queries-generator
 * https://loading.io/spinner/
+
+
+### Mockups
+* https://mckups.com
+* https://www.mockupworld.co
+* https://smartmockups.com
+* https://mockuuups.studio
+* https://pixelbuddha.net
+* https://psdrepo.com
+* https://mockupmark.com
+* https://mockups-design.com
+* https://www.anthonyboyd.graphics
+* https://goodmockups.com
+* https://mrmockup.com
+* https://www.pixelsurplus.com
+* https://placeit.net
+* https://www.premiumpixels.com
+* https://dealjumbo.com
+* https://graphicburger.com
+* https://www.pixeden.com
+* https://www.ls.graphics
+* https://mockup.ceacle.com
+* https://psdhands.com
+* https://shotsnapp.com
+* https://dimmy.club - Apple Device mockup generator for screenshots
+* https://www.free-mockup.com
+* https://mockups-design.com
+* https://www.graphberry.com
+
 
 ### Ribbon
 * https://doodlenerd.com/css-element/ribbon-generator - CSS Ribbon Generator
@@ -269,6 +300,7 @@ author: vndrecodes
 * https://www.cssportal.com - CSSPortal CSS generators, tools and resources.
 * https://bun.js.org/ -
 * https://cssgrid-generator.netlify.app - Grid generator
+* http://extractcss.com/ - Extract css from html
 
 ### Underline
 * https://underline-generator.netlify.app/?ref=undesign - CSS Underline Generator
@@ -288,6 +320,18 @@ author: vndrecodes
 
 ## Dev Resources
 * https://webdevhome.github.io/ - Collection of basic tech links
+
+
+## Design Resources
+* https://cssauthor.com - Resources: Templates, HTML, Icons, Wordpress etc.
+* https://freedesignresources.net - Templates, HTML, Icons, Fonts
+* https://medialoot.com - Fonts, Templates, Themes, HTML, Bootstrap, Wordpress
+* https://freebiesbug.com - PSD, Icons, Mockups, UI kits, Templates, Fonts, HTML
+* https://www.productdesignresources.com - Inspiration, Illustrations, Icons, Mockups + Kits, Stock Photos, Typography, Learning, Blogs, Podcasts, Books, Talks, Community, Design Tools, UX Tools, Color Tools, Accessibility, Remote Tools, Dev Tools,
+
+
+## Design Tools
+* https://mockupbro.com - Create Mockups Online
 
 
 ## Font
@@ -351,6 +395,14 @@ author: vndrecodes
 * https://mobbin.design/ - iOS and Android design ideas
 * https://www.lapa.ninja/ - The Best Landing Page Examples
 * https://abduzeedo.com - Blog about design
+* https://ecomm.design - eCommerce Website Design Gallery & Tech Inspiration
+* https://freebiesbug.com - Landing Page inspirations
+* https://minimal.gallery - Clean Webdesigns
+* https://lookup.design - Typography, Landing Pages, Components Inspiration
+* https://pageflows.com - user flow design inspiration
+* https://siiimple.com - minimalist css gallery
+* https://land-book.com - web design inspiration gallery
+* https://www.personalwebsites.top - 150 handpicked personal websites
 
 
 
@@ -457,7 +509,9 @@ author: vndrecodes
 * https://www.askapache.com/online-tools/ - ASCII Figlets, htpasswd generator, CSS compressor, JS code beautifier
 * https://htpasswdgenerator.de/ - htpasswd generator
 * https://all-inkl.com/wichtig/htaccessgenerator/ - .htaccess Generator
-
+* https://www.whatruns.com/ - Discover what runs a website
+* https://unminify.com/ - unminify JavaScript, CSS, HTML, XML and JSON code
+* https://www.tldraw.com - A tiny little drawing app
 
 
 ## Tutorials
