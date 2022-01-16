@@ -233,6 +233,7 @@ author: vndrecodes
 * https://graphicburger.com
 * https://www.pixeden.com
 * https://www.ls.graphics
+* https://unblast.com
 * https://mockup.ceacle.com
 * https://psdhands.com
 * https://shotsnapp.com
@@ -247,10 +248,12 @@ author: vndrecodes
 * https://www.cssportal.com/css-ribbon-generator/ - CSS Ribbon Generator
 * https://www.cssportal.com/css-ribbon-banner-generator/ - CSS Ribbon Generator
 
+
 ### Spinners
 * https://tobiasahlin.com/spinkit/
 * https://icons8.com/cssload/en/spinners
 * https://brandmark.io/font-generator/
+
 
 ### SVG Shapes / Patterns
 * https://www.blobmaker.app/
@@ -301,6 +304,7 @@ author: vndrecodes
 * https://bun.js.org/ -
 * https://cssgrid-generator.netlify.app - Grid generator
 * http://extractcss.com/ - Extract css from html
+* https://cssreference.io/ - Reference sheet
 
 ### Underline
 * https://underline-generator.netlify.app/?ref=undesign - CSS Underline Generator
@@ -341,6 +345,9 @@ author: vndrecodes
 * https://fonts.google.com - Making the web more beautiful, fast, and open through great typography
 * https://freetypography.com - FreeTypography - The best free fonts, typefaces and typography
 * https://www.fontsquirrel.com - Legit Free & Quality for commercial use
+* http://pxtoem.com/ - PX to EM conversion w. CSS output
+* https://type-scale.com/ - Visual calculator w. CSS output
+
 
 
 ## HTML
@@ -455,6 +462,7 @@ author: vndrecodes
 * https://www.seoptimer.com/meta-tag-generator - Meta Tag Generator
 * https://websiteseochecker.com - DA PA Checker MOZ
 * https://neilpatel.com/ubersuggest/ - SEO Analyzer
+* https://nibbler.silktide.com/ - Test tool
 
 
 ## Stock
@@ -474,6 +482,7 @@ author: vndrecodes
 * https://google.github.io/styleguide/ - Google Style Guides, shell, JavaScript, java, html, css
 * https://github.com/airbnb/javascript - JavaScript
 
+
 ## Tools
 * https://ss64.com/ - Linux, macos, Windows Swiss Army Knife
 * https://toolbox.googleapps.com/ - Dig, Kodierer, JSON Formatter
@@ -483,6 +492,7 @@ author: vndrecodes
 * https://dbdiagram.io/ - Draw ER Diagrams w. code
 * https://draw.io - Flowchart Maker
 * https://compressor.io/ - Compress images
+* https://tinypng.com/ - PNG and JPEG compression
 * https://billdogg.com/ - Create Invoices Online
 * https://getmanta.app/ - Invocing Application
 * https://undesign.learn.uno/ - Collection of design tools and resources for developers
@@ -512,6 +522,7 @@ author: vndrecodes
 * https://www.whatruns.com/ - Discover what runs a website
 * https://unminify.com/ - unminify JavaScript, CSS, HTML, XML and JSON code
 * https://www.tldraw.com - A tiny little drawing app
+* https://smalldev.tools/ - Encoders, Formatters, Data generators
 
 
 ## Tutorials
