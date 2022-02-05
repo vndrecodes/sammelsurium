@@ -54,6 +54,8 @@ author: vndrecodes
 * https://www.toptal.com/developers/webdevchecklist - Web Developer Checklist
 * https://gdprchecklist.io - GDPR Checklist
 * https://landingpage.fyi/landing-page-checklist.html - Landing Page Checklist
+* https://www.checklist.design - A collection of the best design practices.
+* https://github.com/thedaviddias/Front-End-Performance-Checklist - Front-End Performance Checklist
 
 
 ## Colors
@@ -63,6 +65,7 @@ author: vndrecodes
 * https://cssduotone.com/ - CSS Dual Tone generator
 * https://medialoot.com/duotones/ - Dual Tone Generator
 * https://duotone.shapefactory.co/ - Dual Tone Generator
+* https://contrast-finder.tanaguru.com - Contrast finder
 
 
 ## CSS
@@ -332,6 +335,10 @@ author: vndrecodes
 * https://medialoot.com - Fonts, Templates, Themes, HTML, Bootstrap, Wordpress
 * https://freebiesbug.com - PSD, Icons, Mockups, UI kits, Templates, Fonts, HTML
 * https://www.productdesignresources.com - Inspiration, Illustrations, Icons, Mockups + Kits, Stock Photos, Typography, Learning, Blogs, Podcasts, Books, Talks, Community, Design Tools, UX Tools, Color Tools, Accessibility, Remote Tools, Dev Tools,
+* https://html5up.net - Responsive html5 and css3 templats
+* https://www.html5xcss3.com - Free Responsive Css3 and Html5 Templates
+* https://startbootstrap.com - Bootstrap themes, templates, and UI tools
+* https://www.styleshout.com/free-templates/ - Website Templates
 
 
 ## Design Tools
@@ -523,7 +530,9 @@ author: vndrecodes
 * https://unminify.com/ - unminify JavaScript, CSS, HTML, XML and JSON code
 * https://www.tldraw.com - A tiny little drawing app
 * https://smalldev.tools/ - Encoders, Formatters, Data generators
-
+* https://www.transfernow.net - Send files
+* https://www.swisstransfer.com - Send files
+* https://drop.infini.fr - Send files
 
 ## Tutorials
 * https://tutsplus.com/tutorials - Photoshop, Wordpress, Web etc. related
