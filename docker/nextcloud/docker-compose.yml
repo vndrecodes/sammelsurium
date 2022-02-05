@@ -5,7 +5,7 @@ services:
       container_name: ${DB_CONTAINER_NAME}
       image: mariadb:${DB_IMAGE_TAG}
       restart: always
-      command: --transaction-isolation=READ-COMMITTED --binlog-format=ROW
+      command: --transaction-isolation=READ-COMMITTED --binlog-format=ROW --innodb_read_only_compressed=OFF
       volumes:
         - ${LOCAL_DB_DIR}:/var/lib/mysql
       environment:
