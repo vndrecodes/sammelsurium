@@ -64,3 +64,5 @@ use <database>
 db.collection.find()
 ```
 
+### Create Documents
+https://stackoverflow.com/questions/9305987/nodejs-mongoose-which-approach-is-preferable-to-create-a-document

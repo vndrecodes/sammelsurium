@@ -417,6 +417,7 @@ author: vndrecodes
 * https://siiimple.com - minimalist css gallery
 * https://land-book.com - web design inspiration gallery
 * https://www.personalwebsites.top - 150 handpicked personal websites
+* https://www.btw.so/marketing/landing-page-examples - Landing Page Examples
 
 
 
