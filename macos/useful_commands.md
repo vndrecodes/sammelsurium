@@ -13,6 +13,7 @@ $ pkill Firefox
 ```shell
 $ ssh-add
 # ssh-copy-id now works as well
+$ ssh-copy-id -i ~/.ssh/<my_id_rsa>.pub user@example.com
 ```
 
 * Compress file:
@@ -49,6 +50,11 @@ $ pbcopy    # Copy to clipboard
 $ pbpaste   # Paste from clipboard
 ```
 
+
+* Delete all *Desktop Services Store* files
+```shell
+$ sudo find / -name .DS_Store -delete; killall Finder
+```
 
 
 
