@@ -74,16 +74,16 @@ $ docker exec -it <container_name> bash
 Connect w. sqlplus.
 This users can see the tables from the `./startup/` init script.
 ```shell
+# (CBD)
 $ sqlplus sys/<your password>@//localhost:1521/XE as sysdba
 
-# Or
-
-$ sqlplus sys@XEDB1 as sysdba
-# passwd
-
-# Or
-
+# Or (CBD)
 $ sqlplus system/passwd@//localhost:1521/XE
+
+# Or (PDB)
+$ sqlplus sys@XEDB1 as sysdba
+$ sqlplus pdbadmin/passwd@//localhost:1521/XEPDB1
+$ sqlplus sys/passwd@//localhost:1521/XEPDB1
 ```
 
 
