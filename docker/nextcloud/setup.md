@@ -16,7 +16,8 @@ author: vndrecodes
 
 Install Docker and Docker-Compose:
 1. Docker engine: [install-using-the-convenience-script](https://docs.docker.com/engine/install/debian/#install-using-the-convenience-script)
-2. Docker-Compose: `sudo apt install docker-compose -y`
+2. Run `sudo usermod -aG nextlcoud <user>`
+3. Docker-Compose: `sudo apt install docker-compose -y`
 
 
 ## Start docker containers (Nextcloud auto config)
@@ -24,7 +25,7 @@ Install Docker and Docker-Compose:
 2. Run containers `docker-compose up -d`
 3. Set right ownership of nextcloud directory:
 ```shell
-$ sudo chown -R www-data:www-data /var/www/nextcloud/
+$ sudo chown -R www-data:www-data <path_to_local_nextloud_dir>/nextcloud/
 ```
 [Installation on Linux][nc3]
 
