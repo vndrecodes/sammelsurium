@@ -2,7 +2,8 @@
 ```
 cmd + shift + <         Switch between windows from same app  
 cmd + `                 Switch between windows from same app  
-cmd + opt + M           Minimize all windows from same application  
+cmd + opt + M           Minimize all windows from same application
+F5 or opt + esc         Speech
 ```
 
 # Safari
