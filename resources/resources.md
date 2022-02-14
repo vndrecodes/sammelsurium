@@ -308,6 +308,8 @@ author: vndrecodes
 * https://cssgrid-generator.netlify.app - Grid generator
 * http://extractcss.com/ - Extract css from html
 * https://cssreference.io/ - Reference sheet
+* http://css3generator.com/ - Flexbox and more generator
+* https://css-grid-layout-generator.pw/ - Grid generator
 
 ### Underline
 * https://underline-generator.netlify.app/?ref=undesign - CSS Underline Generator
@@ -492,6 +494,7 @@ author: vndrecodes
 
 
 ## Tools
+* https://codebeautify.org - A lot of tools for almost everything
 * https://ss64.com/ - Linux, macos, Windows Swiss Army Knife
 * https://toolbox.googleapps.com/ - Dig, Kodierer, JSON Formatter
 * https://www.appdevtools.com - Text, Validatiors, Formatters, Converters, Encoders, Network Tools, Password generator
