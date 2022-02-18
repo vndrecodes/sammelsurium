@@ -494,6 +494,13 @@ author: vndrecodes
 
 
 ## Tools
+### Online Editors
+* https://codepen.io - html, css, js
+* https://jsbin.com/ - html, css, js
+* https://jsfiddle.net - html, css, js
+* https://plnkr.co - js (react, angular)
+
+### Misc
 * https://codebeautify.org - A lot of tools for almost everything
 * https://ss64.com/ - Linux, macos, Windows Swiss Army Knife
 * https://toolbox.googleapps.com/ - Dig, Kodierer, JSON Formatter
