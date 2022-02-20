@@ -9,6 +9,25 @@ author: vndrecodes
 ---
 
 # Purge applications
+
+## Possible locations
+```shell
+/Library
+/Library/Application Support
+/Library/Preferences
+/Library/LaunchAgents
+/Library/LaunchDaemons
+/Library/PreferencePanes
+/Library/StartupItems
+~/Library/
+~/Library/Application Support
+~/Library/LaunchAgents
+~/Library/Preferences
+~/Library/PreferencePanes
+~/Library/StartupItems
+```
+
+
 ## WhatsApp
 1. Delete `WhatsApp.app`
 2. Goto `~\Library` directory
