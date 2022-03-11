@@ -17,10 +17,6 @@ author: vndrecodes
 | Item One       | Item Two       |
 
 
-## Avatar
-* https://getavataaars.com/ - Avatars Generator
-
-
 ## Awesome Universe
 * https://github.com/sindresorhus/awesome - Repo
 * https://project-awesome.org - Web
@@ -66,6 +62,8 @@ author: vndrecodes
 * https://medialoot.com/duotones/ - Dual Tone Generator
 * https://duotone.shapefactory.co/ - Dual Tone Generator
 * https://contrast-finder.tanaguru.com - Contrast finder
+* https://couleur.io - Create color palettes
+
 
 
 ## CSS
@@ -90,12 +88,17 @@ author: vndrecodes
 * https://animate.style/
 * https://keyframes.app/animate/
 
+
+### Avatar & Profile Picture
+* https://getavataaars.com/ - Avatar Generator
+* https://multiavatar.com - Avatar Generator
+
+
 ### Box Shadows
 * https://getcssscan.com/css-box-shadow-examples
 * http://css3studio.com/page-css3/css-box-shadow.php
 * https://enjoycss.com/
 * https://cssbud.com/css-generator/css-box-shadow-generator/
-* https://shadows.brumm.af/
 
 ### Burger Menu
 * https://jonsuh.com/hamburgers/ - Burger Generator
@@ -137,6 +140,7 @@ author: vndrecodes
 * https://cssgradient.io - Gradient Backgrounds
 * https://www.gradientmagic.com/ - CSS gradient gallery
 * https://mybrandnewlogo.com/de/farbverlaufsgenerator - Gradient generator
+* https://gradihunt.com
 
 ### Color Palettes
 * http://www.colorsontheweb.com/Color-Tools/Color-Wizard
@@ -165,6 +169,9 @@ author: vndrecodes
 ### Filters
 * https://www.cssfiltergenerator.com/ - Filter Generator
 * https://simplecss.eu/ - Filter Generator
+* https://justcode.today/filters/ - Image CSS & SVG Filters
+* https://tailblend.vercel.app - Blend images
+*
 
 ### Flip Switch
 * https://www.cssportal.com/css3-flip-switch/ - Flip Switch Generator
@@ -172,6 +179,11 @@ author: vndrecodes
 * https://www.html-code-generator.com/css/radio-button-checkbox - Flip Switch Generator
 * https://bun.js.org/ - Flip Switch Generator
 
+
+### Frameworks
+* https://bulma.io  - The modern CSS framework that just works
+* https://tailwindcss.com - Utility first CSS framework
+* https://getbootstrap.com - Most popular CSS, HTML, JS library
 
 ### Illustrations
 * https://undraw.co/illustrations
@@ -209,6 +221,14 @@ author: vndrecodes
 * https://www.getillustrations.com/illustration-packs
 * https://craftwork.design
 * https://www.humaaans.com - Illustrations of people
+
+
+### Layout
+* https://layout.bradwoods.io - Grid & Flexbox generator
+* https://grid.layoutit.com - Grid generator
+* https://cssgrid-generator.netlify.app - Grid generator
+* https://css-grid-layout-generator.pw/ - Grid generator
+* http://css3generator.com/ - Flexbox and more generator
 
 
 ### Media Queries
@@ -296,6 +316,9 @@ author: vndrecodes
 * https://stripesgenerator.com/
 * https://patternizer.com/yy47/72
 * https://doodad.dev/pattern-generator/
+* https://superdesigner.co/tools/css-backgrounds
+* https://patterns.helloyes.dev - Basic patterns
+* https://www.magicpattern.design/tools/css-backgrounds
 
 ### Tables
 * https://divtable.com/table-styler/
@@ -305,11 +328,13 @@ author: vndrecodes
 ### Tools
 * https://www.cssportal.com - CSSPortal CSS generators, tools and resources.
 * https://bun.js.org/ -
-* https://cssgrid-generator.netlify.app - Grid generator
 * http://extractcss.com/ - Extract css from html
 * https://cssreference.io/ - Reference sheet
-* http://css3generator.com/ - Flexbox and more generator
-* https://css-grid-layout-generator.pw/ - Grid generator
+* https://codepen.io/stoumann/full/ - Clip path editor
+* https://ui.glass/generator/ - Glassmorphism CSS Generator
+* https://css.glass - Glassmorphism Generator
+* https://neumorphism.io - Neumorphism generator
+* https://convert2svg.com - Convert image to svg
 
 ### Underline
 * https://underline-generator.netlify.app/?ref=undesign - CSS Underline Generator
@@ -347,7 +372,7 @@ author: vndrecodes
 * https://mockupbro.com - Create Mockups Online
 
 
-## Font
+## Font & Typography
 * https://www.dafont.com - Schriftarten zum Download
 * https://www.1001freefonts.com - 1001 free fonts
 * https://fonts.adobe.com - Zahllose Schriftarten kennenlernen
@@ -356,6 +381,12 @@ author: vndrecodes
 * https://www.fontsquirrel.com - Legit Free & Quality for commercial use
 * http://pxtoem.com/ - PX to EM conversion w. CSS output
 * https://type-scale.com/ - Visual calculator w. CSS output
+* https://fluid-typography.netlify.app - Create text that scales with the window size
+* https://seek-oss.github.io/capsize/ - Sizing and layout
+* https://textpop3d.web.app - Create 3d text animation
+* https://usefonts.netlify.app - Preview google fonts with a mock website
+* https://maximeroudier.com/typeScaleClampGenerator/ - Type Scale Clamp Generator
+* https://www.thegoodlineheight.com -
 
 
 
@@ -385,6 +416,12 @@ author: vndrecodes
 * https://www.svgrepo.com/
 * https://mariodelvalle.github.io/CaptainIconWeb/
 * https://www.smplkit.com/
+* https://www.iconify.pro - Convert jpg/png to icons for multiple platforms
+* https://formito.com/tools/favicon - Icon maker svg/png letter or emoji
+* https://icon.kitchen - App Icon Generator for Web, Ios, Macos w. preview
+* http://iconsizer.com - Get the right resolutions of your icon for all devices
+*
+
 
 
 
@@ -500,6 +537,11 @@ author: vndrecodes
 * https://jsfiddle.net - html, css, js
 * https://plnkr.co - js (react, angular)
 
+### Regex
+* https://ihateregex.io/ - Sample Regex
+* https://regexr.com - Favorite Regex Tester
+
+
 ### Misc
 * https://codebeautify.org - A lot of tools for almost everything
 * https://ss64.com/ - Linux, macos, Windows Swiss Army Knife
@@ -516,8 +558,6 @@ author: vndrecodes
 * https://undesign.learn.uno/ - Collection of design tools and resources for developers
 * https://formito.com/tools/favicon - Favicon maker
 * https://formito.com/tools/logo - Logo maker
-* https://patternpad.com/ - Pattern generator
-* https://ihateregex.io/ - Regex generator
 * https://stevecat.net/table-magic/table-magic - Markdown to SQL to CSV to FORM to HTML
 * https://bennettfeely.com/clippy/ - CSS clipping
 * https://favicon.io/ - Favicon Generator
@@ -544,6 +584,9 @@ author: vndrecodes
 * https://www.transfernow.net - Send files
 * https://www.swisstransfer.com - Send files
 * https://drop.infini.fr - Send files
+* http://www.responsinator.com/ - Check responsiveness
+* https://gitexplorer.com - Git Command Explorer
+* https://rahuldkjain.github.io/gh-profile-readme-generator/ - Profile Readme generator
 
 ## Tutorials
 * https://tutsplus.com/tutorials - Photoshop, Wordpress, Web etc. related
