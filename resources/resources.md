@@ -607,7 +607,7 @@ author: vndrecodes
 * https://github.com/airbnb/javascript - JavaScript
 
 
-## Templates
+## Templates / Boilerplates
 * https://www.zerotheme.com/ - html, css
 * https://athemes.com/ - wordpress
 * https://html5up.net/ - html
@@ -617,6 +617,9 @@ author: vndrecodes
 * https://freefrontend.com/ - html, css, bootstrap, js, react, vue
 * https://codemyui.com/ - Code snippets
 * https://www.free-css.com/ - Website templates
+* https://www.w3schools.com/w3css/w3css_templates.asp - CSS Templates
+* http://getskeleton.com - Responsive boilerplate
+* https://www.tailwindtoolbox.com/starter-templates - Tailwind templates
 
 ## Tools
 ### Pinned
@@ -631,8 +634,9 @@ author: vndrecodes
 * https://asciiflow.com/ - Draw ascii pictures
 
 ### Git
-
+* https://rahuldkjain.github.io/gh-profile-readme-generator/ - GitHub Profile README Generator
 * https://www.toptal.com/developers/gitignore - Git ignore generator
+
 
 ### Online Editors
 * https://codepen.io - html, css, js
