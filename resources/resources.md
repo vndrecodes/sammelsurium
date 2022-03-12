@@ -34,15 +34,21 @@ author: vndrecodes
 ## Bash
 * https://misc.flogisoft.com/bash/tip_colors_and_formatting - Colors and formatting
 * https://linuxcommandlibrary.com/basic/oneliners.html - A lot of bash oneliners
+* https://www.mankier.com/ - Explain command options
+* https://explainshell.com/ - Explain command options
 
 
-## Cheatsheets
+## Cheatsheets / References
 * https://devhints.io - Nice to use cheatsheet collection
 * https://devdocs.io - Multiple developer documentations in a clean and organized web UI
 * https://overapi.com - Cheatsheets / Quick References
 * https://github.com/kettanaito/naming-cheatsheet - Naming Cheatsheet
 * https://grid.malven.co/ - CSS grid cheatsheet
-
+* https://cssreference.io/ - Visual CSS guide / reference sheet
+* https://htmlreference.io/ - Visual HTML guide / reference sheet
+* https://ilovecoding.org/blog/js-cheatsheet - JS Cheatsheet
+* https://shortcode.dev/ - cli, css, html, js, md, node, wordpress code snippets
+* https://1loc.dev/ - js single line statements
 
 
 ## Checklists
@@ -52,6 +58,10 @@ author: vndrecodes
 * https://landingpage.fyi/landing-page-checklist.html - Landing Page Checklist
 * https://www.checklist.design - A collection of the best design practices.
 * https://github.com/thedaviddias/Front-End-Performance-Checklist - Front-End Performance Checklist
+* https://www.designsystemchecklist.com/ - Design system checklist
+* https://github.com/thedaviddias/Front-End-Checklist - Frontend Checklist
+* https://github.com/thedaviddias/Front-End-Performance-Checklist - Frontend Performance Checklist
+* https://github.com/thedaviddias/Front-End-Design-Checklist - Frontend Design Checklist
 
 
 ## Colors
@@ -63,10 +73,34 @@ author: vndrecodes
 * https://duotone.shapefactory.co/ - Dual Tone Generator
 * https://contrast-finder.tanaguru.com - Contrast finder
 * https://couleur.io - Create color palettes
+* https://www.happyhues.co/ - Curated colors in context
+* https://colorable.jxnblk.com/ - Text and background contrast viewer
+* https://picular.co/ - Find colors by keyword
+* https://colors.eva.design/ - Generate semantic colors from primary color
+* https://hihayk.github.io/scale/ - Color scale generator
+* https://pigment.shapefactory.co/ - Simple color palette generator
+* https://colorhunt.co/ - Color palettes
+* https://www.culrs.com/ - Color palettes
+* https://www.palettable.io/ - Color palettes
+* https://colorspark.app/ - Colors & Gradients
+* https://coolors.co/ - Color palettes
+* https://htmlcolorcodes.com/ - HTML color codes, Hex color codes, RGB and HSL values, Chart, HTML color names
+* https://www.huesnap.com/ - Color palettes
+* https://colorwise.io/ - Color palettes
+* https://colorhunt.co/ - Color palettes
+* http://brandcolors.net/ - Brand color palettes
+* https://Paletton.com/ - Color scheme designer
+* https://hue.tools/ - Color toolbox
+* https://colorspectrum.design/ - Generate color palettes and apply instantly to anything
+
 
 
 
 ## CSS
+### Pinned
+* https://cssauthor.com/ - Templates, Mockups, Resources
+* https://csslayout.io/ - Popular layouts and patterns (accordion, avatar, card, center)
+
 ### Animation
 * https://www.theappguruz.com/tag-tools/web/CSSAnimations/
 * https://cssanimate.com/
@@ -100,9 +134,11 @@ author: vndrecodes
 * https://enjoycss.com/
 * https://cssbud.com/css-generator/css-box-shadow-generator/
 
+
 ### Burger Menu
 * https://jonsuh.com/hamburgers/ - Burger Generator
 * https://burger-generator.com/ - Burger Generator
+
 
 ### Buttons
 * https://gradientbuttons.colorion.co/ - Button Generator
@@ -118,15 +154,18 @@ author: vndrecodes
 * https://www.dextronet.com/css-buttons-generator/ - Button Generator
 * http://www.sciweavers.org/i2style - Button Generator
 
+
 ### Card
 * http://foxcodetango.com/css-card-flip-generator/index.html - CSS Card Flip Generator
+
 
 ### Checkbox / Radio Buttons
 * https://doodlenerd.com/html-control/css-checkbox-generator - Generators
 * https://bun.js.org/ - Generators
 
+
 ### Color Gradients
-* https://www.eggradients.com/
+* https://www.eggradients.com/ - Gradients
 * https://www.colorzilla.com/gradient-editor/
 * https://webgradients.com/
 * https://mycolor.space/gradient
@@ -187,7 +226,7 @@ author: vndrecodes
 
 ### Illustrations
 * https://undraw.co/illustrations
-* https://www.drawkit.io/ -
+* https://www.drawkit.io/
 * https://iconscout.com/illustration-pack/indian-doodle
 * https://www.karthiksrinivas.in/poke
 * https://www.opendoodles.com/
@@ -205,7 +244,6 @@ author: vndrecodes
 * https://delesign.com/free-designs/graphics/
 * https://www.manypixels.co/gallery?ref=lapaninja
 * https://icons8.com/illustrations
-* https://humaaans.com/
 * https://lab.streamlinehq.com/ - 100,000 icons, illustrations and emoji for all your projects
 * https://lucid.pixsellz.io/
 * https://ui8.net/
@@ -264,6 +302,8 @@ author: vndrecodes
 * https://www.free-mockup.com
 * https://mockups-design.com
 * https://www.graphberry.com
+* https://www.mockmagic.com/ - Apple Device mockups
+* https://mockupbro.com - Create Mockups Online
 
 
 ### Ribbon
@@ -319,6 +359,7 @@ author: vndrecodes
 * https://superdesigner.co/tools/css-backgrounds
 * https://patterns.helloyes.dev - Basic patterns
 * https://www.magicpattern.design/tools/css-backgrounds
+* https://trianglify.io/ - Poly patterns
 
 ### Tables
 * https://divtable.com/table-styler/
@@ -329,12 +370,15 @@ author: vndrecodes
 * https://www.cssportal.com - CSSPortal CSS generators, tools and resources.
 * https://bun.js.org/ -
 * http://extractcss.com/ - Extract css from html
-* https://cssreference.io/ - Reference sheet
 * https://codepen.io/stoumann/full/ - Clip path editor
 * https://ui.glass/generator/ - Glassmorphism CSS Generator
 * https://css.glass - Glassmorphism Generator
 * https://neumorphism.io - Neumorphism generator
 * https://convert2svg.com - Convert image to svg
+* https://servicedesigntools.org/ - Design process tools
+* https://www.shapedivider.app/ - Shape generator
+
+
 
 ### Underline
 * https://underline-generator.netlify.app/?ref=undesign - CSS Underline Generator
@@ -366,10 +410,23 @@ author: vndrecodes
 * https://www.html5xcss3.com - Free Responsive Css3 and Html5 Templates
 * https://startbootstrap.com - Bootstrap themes, templates, and UI tools
 * https://www.styleshout.com/free-templates/ - Website Templates
+* https://delesign.com/free-resources - Graphics, Email Templates, Social Media, Website, Branding, Prints
 
 
-## Design Tools
-* https://mockupbro.com - Create Mockups Online
+## Design Systems
+* https://material.io/design
+* https://polaris.shopify.com/
+* https://atlassian.design/
+* https://www.carbondesignsystem.com/
+* https://design.wonderflow.ai/
+* https://www.bbc.co.uk/gel
+* https://spectrum.adobe.com/
+* https://design.gs.com/home
+* https://experience.sap.com/fiori-design/
+* https://backpack.github.io/
+* https://garden.zendesk.com/
+* https://www.momentum.design/
+* https://liferay.design/lexicon/
 
 
 ## Font & Typography
@@ -386,13 +443,15 @@ author: vndrecodes
 * https://textpop3d.web.app - Create 3d text animation
 * https://usefonts.netlify.app - Preview google fonts with a mock website
 * https://maximeroudier.com/typeScaleClampGenerator/ - Type Scale Clamp Generator
-* https://www.thegoodlineheight.com -
+* https://www.thegoodlineheight.com - Test line height
+* https://www.mixfont.com/ - combine fonts
+
 
 
 
 ## HTML
 * https://www.html.am - HTML Codes, Editors, and Generators and More
-* https://html-css-js.com - HTML-CSS-JS Editors, Cheatsheets, Generators
+* https://html-css-js.com - HTML-CSS-JS Editors, Cheatsheets, Generators, Templates
 
 
 ## Icons
@@ -420,7 +479,7 @@ author: vndrecodes
 * https://formito.com/tools/favicon - Icon maker svg/png letter or emoji
 * https://icon.kitchen - App Icon Generator for Web, Ios, Macos w. preview
 * http://iconsizer.com - Get the right resolutions of your icon for all devices
-*
+* https://iconfinder.com/
 
 
 
@@ -434,6 +493,16 @@ author: vndrecodes
 * https://lifeofvids.com - Free Videos, Clips & Loops
 * https://kaboompics.com - Free stock photography + color palettes
 * https://www.gettyimages.at - Lizenzfreie Stock-Fotos, Illustrationen, Vektor-Grafiken und Videoclips
+* https://isorepublic.com/ - Stock images & videos
+* https://negativespace.co/ - Stock images
+* https://freenaturestock.com/ - Nature stock photos and videos
+* https://www.reshot.com/ - Icons, Illustrations & Photos
+* https://burst.shopify.com/ - Stock photos
+* https://www.librestock.com/ - Stock photos
+* https://www.stockio.com/ - Photos, Vectors, Icons, Fonts and Videos
+* https://www.pxfuel.com/ - Stock photos
+
+
 
 
 
@@ -457,6 +526,15 @@ author: vndrecodes
 * https://land-book.com - web design inspiration gallery
 * https://www.personalwebsites.top - 150 handpicked personal websites
 * https://www.btw.so/marketing/landing-page-examples - Landing Page Examples
+* https://onepagelove.com/ - One Page websites, templates, resources, articles
+* https://scrnshts.club/ - App store design screenshots, best practices
+* https://www.landingfolio.com/ - Landing pages, Templates, Resources, Components
+* https://cssnectar.com - Css website design showcase
+* https://uidesigndaily.com - UI Designs by components
+* https://themewagon.com/ - Web templates
+* https://www.extremelyusable.com/ - UX Portfolios
+
+
 
 
 
@@ -515,7 +593,6 @@ author: vndrecodes
 ## Stock
 * https://picsum.photos/ - Placeholder photos API
 * https://iconscout.com/ - Illustrations
-* https://lukaszadam.com/ - Illustrations
 * https://mixkit.co/ - Stock Photos, Art, Video Clips, Music, Sound Effects & Video Templates
 * https://pixabay.com/ - Stock images, videos and music
 * https://www.reshot.com/ - Stock Photos
@@ -530,7 +607,33 @@ author: vndrecodes
 * https://github.com/airbnb/javascript - JavaScript
 
 
+## Templates
+* https://www.zerotheme.com/ - html, css
+* https://athemes.com/ - wordpress
+* https://html5up.net/ - html
+* https://themewagon.com/ - html
+* https://colorlib.com/ - wordpress
+* https://cssauthor.com/
+* https://freefrontend.com/ - html, css, bootstrap, js, react, vue
+* https://codemyui.com/ - Code snippets
+* https://www.free-css.com/ - Website templates
+
 ## Tools
+### Pinned
+* https://tiny-helpers.dev/ - Online tools collection
+
+### Draw
+* https://draw.io - Flowchart Maker
+* https://www.tldraw.com/ - Similar to draw.io
+* https://dbdiagram.io/ - Draw ER Diagrams w. code
+* https://jspaint.app/ - Online MS Paint
+* https://canvaspaint.org/ - Online MS Paint
+* https://asciiflow.com/ - Draw ascii pictures
+
+### Git
+
+* https://www.toptal.com/developers/gitignore - Git ignore generator
+
 ### Online Editors
 * https://codepen.io - html, css, js
 * https://jsbin.com/ - html, css, js
@@ -549,8 +652,6 @@ author: vndrecodes
 * https://www.appdevtools.com - Text, Validatiors, Formatters, Converters, Encoders, Network Tools, Password generator
 * https://httpstatuses.com/ - Status overview
 * https://www.desmos.com/calculator - Graph Calculator
-* https://dbdiagram.io/ - Draw ER Diagrams w. code
-* https://draw.io - Flowchart Maker
 * https://compressor.io/ - Compress images
 * https://tinypng.com/ - PNG and JPEG compression
 * https://billdogg.com/ - Create Invoices Online
@@ -566,8 +667,6 @@ author: vndrecodes
 * https://pfpmaker.com/ - Profile Picture Maker
 * https://profilepicturemaker.com/ - Profile Picture Maker
 * https://badgen.net/ - Badge Generator
-* https://jspaint.app/ - Online MS Paint
-* https://canvaspaint.org/ - Online MS Paint
 * https://kleki.com/ - Canvas always within reach
 * https://www.youidraw.com/apps/painter/ - Another canvas
 * https://sketch.io/sketchpad/ - And another canvas
@@ -579,7 +678,6 @@ author: vndrecodes
 * https://all-inkl.com/wichtig/htaccessgenerator/ - .htaccess Generator
 * https://www.whatruns.com/ - Discover what runs a website
 * https://unminify.com/ - unminify JavaScript, CSS, HTML, XML and JSON code
-* https://www.tldraw.com - A tiny little drawing app
 * https://smalldev.tools/ - Encoders, Formatters, Data generators
 * https://www.transfernow.net - Send files
 * https://www.swisstransfer.com - Send files
@@ -587,7 +685,24 @@ author: vndrecodes
 * http://www.responsinator.com/ - Check responsiveness
 * https://gitexplorer.com - Git Command Explorer
 * https://rahuldkjain.github.io/gh-profile-readme-generator/ - Profile Readme generator
+* https://www.jsv9000.app/ - JavaScript visualize js code execution (event loop, async calls...)
+* https://algorithm-visualizer.org/ - Visualize algorithms
+* https://webcode.tools/ - Html, CSS, JSON-LD generator
+* https://omatsuri.app/ - Triangle, Color shades, Gradient, Fake data generator
+* https://tinywow.com/ - Pdf, Video, Image, File, tools
+
 
 ## Tutorials
 * https://tutsplus.com/tutorials - Photoshop, Wordpress, Web etc. related
 * https://wiki.archlinux.org/ - A well known place for linux stuff
+
+
+## Learn
+* https://html.com/ - Html, Tags, Attributes, CSS, Tutorials, Guides
+* https://css-tricks.com/ - CSS, Articles, Guides, Flexbox, Grid, Selectors, Properties
+* https://rapidapi.com/learn - API
+* https://devchallenges.io/ - Responsive, Frontend, Fullstack
+* https://www.frontendpractice.com/ - Practice by recreating real websites
+* https://www.theodinproject.com/ - Full stack
+* https://humanebydesign.com/ - Design best practice
+* https://www.useronboard.com/user-onboarding-teardowns/ - Best practice by popular apps teardown
