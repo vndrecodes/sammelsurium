@@ -42,3 +42,11 @@ $ mkdhomedir_helper <username>
 ```shell
 $ usermod -aG sudo <username>
 ```
+
+### Manpages
+```shell
+$ man -k <keyword>    # Search for keyowrd within manpages (similar to apropos)
+```
+```shell
+$ info <command>      # Similar to man command
+```
