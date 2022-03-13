@@ -49,6 +49,10 @@ author: vndrecodes
 * https://ilovecoding.org/blog/js-cheatsheet - JS Cheatsheet
 * https://shortcode.dev/ - cli, css, html, js, md, node, wordpress code snippets
 * https://1loc.dev/ - js single line statements
+* http://apps.workflower.fi/vocabs/css/en#string - CSS Vocabulary
+* http://apps.workflower.fi/vocabs/html/en - HTML Vocabulary
+* https://mac-blog.org.ua/css-3-media-queries-cheat-sheet - CSS Media Queries
+
 
 
 ## Checklists
@@ -62,6 +66,8 @@ author: vndrecodes
 * https://github.com/thedaviddias/Front-End-Checklist - Frontend Checklist
 * https://github.com/thedaviddias/Front-End-Performance-Checklist - Frontend Performance Checklist
 * https://github.com/thedaviddias/Front-End-Design-Checklist - Frontend Design Checklist
+* https://www.a11yproject.com/checklist/ - Web Content Accessibility Guidelines Checklist
+* https://teamsuccess.io/UX - Usability Checklist
 
 
 ## Colors
