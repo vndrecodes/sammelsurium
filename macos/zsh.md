@@ -29,5 +29,11 @@ Show zsh commands:
 $ bindkey
 ```
 
+Show which completion files loaded
+```shell
+$ which $_comps
+$ which $_comps[curl]
+```
+
 ## References
 [Command-line completion](https://docs.docker.com/machine/completion/)
