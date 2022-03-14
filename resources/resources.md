@@ -54,7 +54,6 @@ author: vndrecodes
 * https://mac-blog.org.ua/css-3-media-queries-cheat-sheet - CSS Media Queries
 
 
-
 ## Checklists
 * https://frontendchecklist.io - Frontend Checklist
 * https://www.toptal.com/developers/webdevchecklist - Web Developer Checklist
@@ -100,12 +99,11 @@ author: vndrecodes
 * https://colorspectrum.design/ - Generate color palettes and apply instantly to anything
 
 
-
-
 ## CSS
 ### Pinned
 * https://cssauthor.com/ - Templates, Mockups, Resources
 * https://csslayout.io/ - Popular layouts and patterns (accordion, avatar, card, center)
+
 
 ### Animation
 * https://www.theappguruz.com/tag-tools/web/CSSAnimations/
@@ -386,7 +384,6 @@ author: vndrecodes
 * https://www.shapedivider.app/ - Shape generator
 
 
-
 ### Underline
 * https://underline-generator.netlify.app/?ref=undesign - CSS Underline Generator
 * https://cssbud.com/css-generator/css-underline-generator/ - CSS Underline Generator
@@ -454,8 +451,6 @@ author: vndrecodes
 * https://www.mixfont.com/ - combine fonts
 
 
-
-
 ## HTML
 * https://www.html.am - HTML Codes, Editors, and Generators and More
 * https://html-css-js.com - HTML-CSS-JS Editors, Cheatsheets, Generators, Templates
@@ -489,8 +484,6 @@ author: vndrecodes
 * https://iconfinder.com/
 
 
-
-
 ## Images
 * https://unsplash.com - The internet’s source of freely-usable images.
 * https://www.pexels.com/de-de/ - Kostenlose Fotos, lizenzfreie Bilder und Videos
@@ -508,9 +501,6 @@ author: vndrecodes
 * https://www.librestock.com/ - Stock photos
 * https://www.stockio.com/ - Photos, Vectors, Icons, Fonts and Videos
 * https://www.pxfuel.com/ - Stock photos
-
-
-
 
 
 ## Inspiration
@@ -542,14 +532,10 @@ author: vndrecodes
 * https://www.extremelyusable.com/ - UX Portfolios
 
 
-
-
-
 ## Media
 * https://www.covermytunes.com - Largest CD Covers & iTunes Album Artwork Search Engine
 * https://fanart.tv - Logos, Backgrounds, Posters and more for your TV, Movie and Music collections
 * https://bendodson.com/projects/itunes-artwork-finder/ - iTunes Artwork Finder
-
 
 
 ## Other lists
@@ -569,6 +555,8 @@ author: vndrecodes
 * https://appydev.co/- Collection of tools, resources and products.
 * https://github.com/bradtraversy/design-resources-for-developers - Design resources
 * https://dev.to/kiranrajvjd/the-ultimate-web-developer-resources-list-200-resources-2gf5 - Huge List of Web Dev Resources
+* https://github.com/trimstray/the-book-of-secret-knowledge - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools
+* https://github.com/sdmg15/Best-websites-a-programmer-should-visit - Some useful websites for programmers.
 
 
 ## Other
@@ -663,6 +651,9 @@ author: vndrecodes
 ### Regex
 * https://ihateregex.io/ - Sample Regex
 * https://regexr.com - Favorite Regex Tester
+* https://regex101.com - build, test and debug regex
+* https://www.regextester.com - Regex and other tools
+
 
 
 ### Text, Formatter, Validatior, Security, Encoder, Converter, Network Tools
@@ -677,7 +668,15 @@ author: vndrecodes
 * https://all-inkl.com/wichtig/htaccessgenerator/ - .htaccess Generator
 * https://unminify.com/ - unminify JavaScript, CSS, HTML, XML and JSON code
 * https://smalldev.tools/ - Encoders, Formatters, Data generators
+* https://gchq.github.io/CyberChef/ - Data, Encoding, Encryption, Networking, Language, Text, Extractors, Multimedia
 
+
+### Networking
+* https://dnsspy.io/ - DNS Monitor
+* https://viewdns.info - Networking tools
+* https://dnsdumpster.com - View DNS as graph
+* https://ceipam.eu/en/dnslookup.php - Check multiple DNS Servers (propagation)
+*
 
 ### Misc
 * https://httpstatuses.com/ - Status overview
