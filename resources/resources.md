@@ -132,7 +132,8 @@ author: vndrecodes
 ### Avatar & Profile Picture
 * https://getavataaars.com/ - Avatar Generator
 * https://multiavatar.com - Avatar Generator
-
+* https://pfpmaker.com/ - Profile Picture Maker
+* https://profilepicturemaker.com/ - Profile Picture Maker
 
 ### Box Shadows
 * https://getcssscan.com/css-box-shadow-examples
@@ -570,12 +571,6 @@ author: vndrecodes
 * https://dev.to/kiranrajvjd/the-ultimate-web-developer-resources-list-200-resources-2gf5 - Huge List of Web Dev Resources
 
 
-## Online Editors
-* https://jsbin.com/ - Javscript, HTML, CSS, Console
-* https://stackedit.io - Markdown w. UML & Latex support
-* https://readme.so/ - Online clickagle markdown editor
-
-
 ## Other
 * https://code2art.jetbrains.com/ - Jetbrains Wallpaper Generator
 * https://namingmyfunction.vercel.app - I don't know how to name my function
@@ -627,9 +622,12 @@ author: vndrecodes
 * http://getskeleton.com - Responsive boilerplate
 * https://www.tailwindtoolbox.com/starter-templates - Tailwind templates
 
+
 ## Tools
 ### Pinned
 * https://tiny-helpers.dev/ - Online tools collection
+* https://undesign.learn.uno/ - Collection of design tools and resources for developers
+
 
 ### Draw
 * https://draw.io - Flowchart Maker
@@ -638,10 +636,20 @@ author: vndrecodes
 * https://jspaint.app/ - Online MS Paint
 * https://canvaspaint.org/ - Online MS Paint
 * https://asciiflow.com/ - Draw ascii pictures
+* https://kleki.com/ - Canvas always within reach
+* https://www.youidraw.com/apps/painter/ - Another canvas
+* https://sketch.io/sketchpad/ - And another canvas
+
 
 ### Git
 * https://rahuldkjain.github.io/gh-profile-readme-generator/ - GitHub Profile README Generator
 * https://www.toptal.com/developers/gitignore - Git ignore generator
+* * https://readme.so/ - Clickable Readme editor
+
+
+### Images
+* https://tinypng.com/ - PNG and JPEG image compression
+* https://compressor.io/ - Compress images
 
 
 ### Online Editors
@@ -649,52 +657,48 @@ author: vndrecodes
 * https://jsbin.com/ - html, css, js
 * https://jsfiddle.net - html, css, js
 * https://plnkr.co - js (react, angular)
+* https://stackedit.io - Markdown w. UML & Latex support
+
 
 ### Regex
 * https://ihateregex.io/ - Sample Regex
 * https://regexr.com - Favorite Regex Tester
 
 
-### Misc
+### Text, Formatter, Validatior, Security, Encoder, Converter, Network Tools
 * https://codebeautify.org - A lot of tools for almost everything
 * https://ss64.com/ - Linux, macos, Windows Swiss Army Knife
 * https://toolbox.googleapps.com/ - Dig, Kodierer, JSON Formatter
 * https://www.appdevtools.com - Text, Validatiors, Formatters, Converters, Encoders, Network Tools, Password generator
+* https://stevecat.net/table-magic/table-magic - Markdown to SQL to CSV to FORM to HTML
+* https://whois.cynthia.re/whois/ - Online whois
+* https://www.askapache.com/online-tools/ - ASCII Figlets, htpasswd generator, CSS compressor, JS code beautifier
+* https://htpasswdgenerator.de/ - htpasswd generator
+* https://all-inkl.com/wichtig/htaccessgenerator/ - .htaccess Generator
+* https://unminify.com/ - unminify JavaScript, CSS, HTML, XML and JSON code
+* https://smalldev.tools/ - Encoders, Formatters, Data generators
+
+
+### Misc
 * https://httpstatuses.com/ - Status overview
 * https://www.desmos.com/calculator - Graph Calculator
-* https://compressor.io/ - Compress images
-* https://tinypng.com/ - PNG and JPEG compression
 * https://billdogg.com/ - Create Invoices Online
 * https://getmanta.app/ - Invocing Application
-* https://undesign.learn.uno/ - Collection of design tools and resources for developers
-* https://formito.com/tools/favicon - Favicon maker
 * https://formito.com/tools/logo - Logo maker
-* https://stevecat.net/table-magic/table-magic - Markdown to SQL to CSV to FORM to HTML
+* https://formito.com/tools/favicon - Favicon maker
 * https://bennettfeely.com/clippy/ - CSS clipping
 * https://favicon.io/ - Favicon Generator
 * https://www.favicon-generator.org/ - Favicon Generator
 * https://www.favicon.cc/ - Favicon Generator
-* https://pfpmaker.com/ - Profile Picture Maker
-* https://profilepicturemaker.com/ - Profile Picture Maker
 * https://badgen.net/ - Badge Generator
-* https://kleki.com/ - Canvas always within reach
-* https://www.youidraw.com/apps/painter/ - Another canvas
-* https://sketch.io/sketchpad/ - And another canvas
-* https://whois.cynthia.re/whois/ - Online whois
 * https://www.throwawaymail.com - Temporary e-mail address
 * https://guerrillamail.com - Temporary e-mail address
-* https://www.askapache.com/online-tools/ - ASCII Figlets, htpasswd generator, CSS compressor, JS code beautifier
-* https://htpasswdgenerator.de/ - htpasswd generator
-* https://all-inkl.com/wichtig/htaccessgenerator/ - .htaccess Generator
 * https://www.whatruns.com/ - Discover what runs a website
-* https://unminify.com/ - unminify JavaScript, CSS, HTML, XML and JSON code
-* https://smalldev.tools/ - Encoders, Formatters, Data generators
 * https://www.transfernow.net - Send files
 * https://www.swisstransfer.com - Send files
 * https://drop.infini.fr - Send files
 * http://www.responsinator.com/ - Check responsiveness
 * https://gitexplorer.com - Git Command Explorer
-* https://rahuldkjain.github.io/gh-profile-readme-generator/ - Profile Readme generator
 * https://www.jsv9000.app/ - JavaScript visualize js code execution (event loop, async calls...)
 * https://algorithm-visualizer.org/ - Visualize algorithms
 * https://webcode.tools/ - Html, CSS, JSON-LD generator
