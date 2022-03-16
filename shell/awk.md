@@ -1,4 +1,5 @@
 # awk
+Works on records with delimiter separated fields
 
 * Print specific columns
 ```shell

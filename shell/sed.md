@@ -1,4 +1,5 @@
 # sed
+Works on lines
 
 * Replace strings (globally)
 ```shell

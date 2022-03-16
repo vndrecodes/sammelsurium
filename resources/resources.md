@@ -15,6 +15,12 @@
 * https://profilepicturemaker.com/ - Profile Picture Maker
 
 
+## Books
+* https://goalkicker.com/ - Free Programming Books
+* https://github.com/EbookFoundation/free-programming-books - Freely available programming books
+* https://www.lapa.ninja/book/ - Free books for designers
+
+
 ## Cheatsheets / References
 * https://devhints.io - Nice to use cheatsheet collection
 * https://devdocs.io - Multiple developer documentations in a clean and organized web UI
@@ -124,6 +130,11 @@
 * https://www.cssportal.com/css3-flip-switch/ - Flip Switch Generator
 * https://www.html-code-generator.com/css/radio-button-checkbox - Flip Switch Generator
 
+### Frameworks
+* https://bulma.io  - The modern CSS framework that just works
+* https://tailwindcss.com - Utility first CSS framework
+* https://getbootstrap.com - Most popular CSS, HTML, JS library
+
 ### Layout
 * https://layout.bradwoods.io - Grid & Flexbox generator
 * https://grid.layoutit.com - Grid generator
@@ -145,73 +156,14 @@
 * https://icons8.com/cssload/en/spinners
 * https://brandmark.io/font-generator/
 
+### Tools
+* https://bennettfeely.com/clippy/ - CSS, Pie Chart, clip path, image effects, gradients, flexbox generators
+* http://extractcss.com/ - Extract css from html
+* https://codepen.io/stoumann/full/ - Clip path editor
+
 ### Underline
 * https://underline-generator.netlify.app/?ref=undesign - CSS Underline Generator
 * https://cssbud.com/css-generator/css-underline-generator/ - CSS Underline Generator
-
-
-## Curated lists
-### Awesome Universe
-* https://github.com/sindresorhus/awesome - Repo
-* https://project-awesome.org - Web
-* https://awesome-indexed.mathew-davies.co.uk - Search
-* https://awesomelists.top - Search
-* https://awesome.digitalbunker.dev - Search
-
-### Other resources
-* https://appydev.co/ - Find awesome developer tools
-* https://tiny-helpers.dev/ - A collection of free single-purpose online tools for web developers...
-* https://undesign.learn.uno/ - Collection of free design tools and resources for makers, developers and designers
-* https://github.com/sw-yx/spark-joy - Design Tools & Tips for Developers in a Hurry
-* https://www.evernote.design/ - All in One Bookmark Links for Designer
-* https://designvalley.club/ - Design tool repository
-* https://github.com/bradtraversy/design-resources-for-developers - Design & UI resources
-* https://github.com/mtdvio/web-development-resources - A list of useful resources for Web Developers!
-* https://www.designgems.co/ - A hand-selected collection of 200+ free tools and resources for designers
-* https://theprotoolbox.com/ - Useful Tools for Online Entrepreneurs
-* https://designresourc.es/ - Curated with the latest design resources
-* https://www.uxdatabase.io/ - Free learning & product design database
-* https://github.com/codingknite/frontend-development - Collection of resources for Frontend development.
-* https://airtable.com/shrlgNNCbUxvfQt5w/tbl5zRQrzxK5rq8cV/viwTshDGyfwtnCoo6 - UIUX resources
-* https://www.uigoodies.com/ - Designer resources
-* https://trolologuy.github.io/useful-tools/ - List of useful tools and programs for developpers, devops, admins, ...
-* https://free-for.dev/ - List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
-* https://webdevhome.github.io/ - Collection of basic tech links
-* https://github.com/cdterry87/Resources - Mostly web development stuff
-* https://github.com/kahun/awesome-sysadmin - Sysadmin list
-* https://github.com/lk-geimfari/awesomo - Open Source Projects list for different languages
-* https://github.com/alebcay/awesome-shell - List of shell stuff
-* https://github.com/ripienaar/free-for-dev - A list of SaaS, PaaS and IaaS
-* https://dev.to/kiranrajvjd/the-ultimate-web-developer-resources-list-200-resources-2gf5 - Huge List of Web Dev Resources
-* https://github.com/trimstray/the-book-of-secret-knowledge - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools
-* https://github.com/sdmg15/Best-websites-a-programmer-should-visit - Some useful websites for programmers.
-* https://webcode.tools - CSS Generators, HTML Generators, JSON-LD Generator, Meta Tags Generator
-* https://www.html-code-generator.com/ - CSS, HTML, Generators, Converters, Snippets, Editors, Tools
-
-
-## Design resources
-* https://cssauthor.com - Templates, Mockup, Icons, UI, Wallpapers, Inspiration, Mockup, Icons, Images, Fonts, Tutorials, Typography, Print Design, Web Design Tools, UI Design, Vector Graphics, Website Templates, CSS, HTML, PHP, Bootstrap, Development Tools, WordPress, WordPress Themes, WordPress Plugins, Mockups, Bootstrap Templates
-* https://freedesignresources.net - Fonts, Mockups, Presentation, Print, Website Templates, Icons, UI Kits
-* https://medialoot.com - Mockups, Graphics, Templates, Themes: [HTML, CSS, Bootstrap, Wordpress], CSS Components, Icons, Fonts
-* https://freebiesbug.com - PSD, Icons, Mockups, UI kits, Templates, Fonts, HTML
-* https://www.productdesignresources.com - Inspiration, Illustrations, Icons, Mockups + Kits, Stock Photos, Typography, Learning, Blogs, Podcasts, Books, Talks, Community, Design Tools, UX Tools, Color Tools, Accessibility, Remote Tools, Dev Tools
-* https://html5up.net - Responsive html5 and css3 templates
-* https://www.html5xcss3.com - Free Responsive Css3 and Html5 Templates
-* https://startbootstrap.com - Bootstrap themes, templates, and UI tools
-* https://www.styleshout.com/free-templates/ - Website Templates
-* https://delesign.com/free-resources - Graphics, Email Templates, Social Media, Website, Branding, Prints
-* https://github.com/sandoche/awesome-landing-page - Landing page templates
-* https://servicedesigntools.org/ - Collection of tools and tutorials that helps dealing with complex design challenges.
-
-
-## Development Resources
-* https://www.html.am/ - HTML Codes, Editors, Generators, Templates: [Layout, CSS, HTML5, Website]
-
-
-## Books
-* https://goalkicker.com/ - Free Programming Books
-* https://github.com/EbookFoundation/free-programming-books - Freely available programming books
-* https://www.lapa.ninja/book/ - Free books for designers
 
 
 ## Color
@@ -273,10 +225,82 @@
 * https://cheekypalettes.com - Color palettes inspiration in context on pages
 
 
-## CSS Frameworks
-* https://bulma.io  - The modern CSS framework that just works
-* https://tailwindcss.com - Utility first CSS framework
-* https://getbootstrap.com - Most popular CSS, HTML, JS library
+## Data
+* https://www.isic-archive.com/ - The International Skin Imaging Collaboration
+* https://www.mockaroo.com/ - JSON, SQL, XML, CSV mock data generator
+* https://www.onlinedatagenerator.com - CSV, Json, SQL
+* http://www.randat.com - CSV random data generator
+* https://www.generatedata.com - CSV, HTML, JSON, JS, SQL, XML
+* https://www.databasetestdata.com - Mock Data JSON, XML, CSV
+* https://random-data-api.com - random fake data
+
+
+## Design / Development - Resources / Tools
+### Curated lists
+* https://github.com/sindresorhus/awesome - Repo
+* https://project-awesome.org - Web
+* https://awesome-indexed.mathew-davies.co.uk - Search
+* https://awesomelists.top - Search
+* https://awesome.digitalbunker.dev - Search
+
+### Other resources
+* https://appydev.co/ - Find awesome developer tools
+* https://tiny-helpers.dev/ - A collection of free single-purpose online tools for web developers...
+* https://undesign.learn.uno/ - Collection of free design tools and resources for makers, developers and designers
+* https://github.com/sw-yx/spark-joy - Design Tools & Tips for Developers in a Hurry
+* https://www.evernote.design/ - All in One Bookmark Links for Designer
+* https://designvalley.club/ - Design tool repository
+* https://github.com/bradtraversy/design-resources-for-developers - Design & UI resources
+* https://github.com/mtdvio/web-development-resources - A list of useful resources for Web Developers!
+* https://www.designgems.co/ - A hand-selected collection of 200+ free tools and resources for designers
+* https://theprotoolbox.com/ - Useful Tools for Online Entrepreneurs
+* https://designresourc.es/ - Curated with the latest design resources
+* https://www.uxdatabase.io/ - Free learning & product design database
+* https://github.com/codingknite/frontend-development - Collection of resources for Frontend development.
+* https://airtable.com/shrlgNNCbUxvfQt5w/tbl5zRQrzxK5rq8cV/viwTshDGyfwtnCoo6 - UIUX resources
+* https://www.uigoodies.com/ - Designer resources
+* https://trolologuy.github.io/useful-tools/ - List of useful tools and programs for developpers, devops, admins, ...
+* https://free-for.dev/ - List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
+* https://webdevhome.github.io/ - Collection of basic tech links
+* https://github.com/cdterry87/Resources - Mostly web development stuff
+* https://github.com/kahun/awesome-sysadmin - Sysadmin list
+* https://github.com/lk-geimfari/awesomo - Open Source Projects list for different languages
+* https://github.com/alebcay/awesome-shell - List of shell stuff
+* https://github.com/ripienaar/free-for-dev - A list of SaaS, PaaS and IaaS
+* https://dev.to/kiranrajvjd/the-ultimate-web-developer-resources-list-200-resources-2gf5 - Huge List of Web Dev Resources
+* https://github.com/trimstray/the-book-of-secret-knowledge - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools
+* https://github.com/sdmg15/Best-websites-a-programmer-should-visit - Some useful websites for programmers.
+* https://webcode.tools - CSS Generators, HTML Generators, JSON-LD Generator, Meta Tags Generator
+* https://www.html-code-generator.com/ - CSS, HTML, Generators, Converters, Snippets, Editors, Tools
+
+
+## Design resources
+* https://cssauthor.com - Templates, Mockup, Icons, UI, Wallpapers, Inspiration, Mockup, Icons, Images, Fonts, Tutorials, Typography, Print Design, Web Design Tools, UI Design, Vector Graphics, Website Templates, CSS, HTML, PHP, Bootstrap, Development Tools, WordPress, WordPress Themes, WordPress Plugins, Mockups, Bootstrap Templates
+* https://freedesignresources.net - Fonts, Mockups, Presentation, Print, Website Templates, Icons, UI Kits
+* https://medialoot.com - Mockups, Graphics, Templates, Themes: [HTML, CSS, Bootstrap, Wordpress], CSS Components, Icons, Fonts
+* https://freebiesbug.com - PSD, Icons, Mockups, UI kits, Templates, Fonts, HTML
+* https://www.productdesignresources.com - Inspiration, Illustrations, Icons, Mockups + Kits, Stock Photos, Typography, Learning, Blogs, Podcasts, Books, Talks, Community, Design Tools, UX Tools, Color Tools, Accessibility, Remote Tools, Dev Tools
+* https://html5up.net - Responsive html5 and css3 templates
+* https://www.html5xcss3.com - Free Responsive Css3 and Html5 Templates
+* https://startbootstrap.com - Bootstrap themes, templates, and UI tools
+* https://www.styleshout.com/free-templates/ - Website Templates
+* https://delesign.com/free-resources - Graphics, Email Templates, Social Media, Website, Branding, Prints
+* https://github.com/sandoche/awesome-landing-page - Landing page templates
+* https://servicedesigntools.org/ - Collection of tools and tutorials that helps dealing with complex design challenges.
+* https://www.html.am/ - HTML Codes, Editors, Generators, Templates: [Layout, CSS, HTML5, Website]
+#### Templates / Boilerplates
+* https://www.zerotheme.com/ - html, css
+* https://athemes.com/ - wordpress
+* https://html5up.net/ - html
+* https://themewagon.com/ - html
+* https://colorlib.com/ - wordpress
+* https://cssauthor.com/
+* https://freefrontend.com/ - html, css, bootstrap, js, react, vue
+* https://codemyui.com/ - Code snippets
+* https://www.free-css.com/ - Website templates
+* https://www.w3schools.com/w3css/w3css_templates.asp - CSS Templates
+* http://getskeleton.com - Responsive boilerplate
+* https://www.tailwindtoolbox.com/starter-templates - Tailwind templates
 
 
 ## Design systems
@@ -293,6 +317,13 @@
 * https://garden.zendesk.com/
 * https://www.momentum.design/
 * https://liferay.design/lexicon/
+
+
+## Favicon
+* https://favicon.io/ - Favicon Generator
+* https://www.favicon-generator.org/ - Favicon Generator
+* https://www.favicon.cc/ - Favicon Generator
+* https://formito.com/tools - Favicon, Logo Maker
 
 
 ## Font & Typography
@@ -577,6 +608,7 @@
 * https://rahuldkjain.github.io/gh-profile-readme-generator/ - GitHub Profile README Generator
 * https://www.toptal.com/developers/gitignore - Git ignore generator
 * https://readme.so/ - Clickable Readme editor
+* https://badgen.net/ - Badge Generator
 
 ### Images
 * https://tinypng.com/ - PNG and JPEG image compression
@@ -588,6 +620,7 @@
 * https://viewdns.info - Networking tools
 * https://dnsdumpster.com - View DNS as graph
 * https://ceipam.eu/en/dnslookup.php - Check multiple DNS Servers (propagation)
+* https://whois.cynthia.re/whois/ - Online whois
 
 ### Regex
 * https://ihateregex.io/ - Sample Regex
@@ -603,12 +636,51 @@
 * https://www.jooq.org/translate/ - Translate dialects
 
 
+## Tips, Tricks, Best Practices
+* https://htmldom.dev/ - Manage HTML DOM code snippets
+* https://getfrontend.tips/ - Tips, Tricks, Best Practices
+* https://thisthat.dev - CSS, DOM, HTML, JS attribute / property comparisons
+* https://1loc.dev/ - Favorite JavaScript Utilities
+
+
 ## Tutorials
 * https://tutsplus.com/tutorials - Photoshop, Wordpress, Web etc. related
 * https://wiki.archlinux.org/ - A well known place for linux stuff
 
 
 ---
+#### Text, Formatter, Validatior, Security, Encoder, Converter, Network Tools
+* https://codebeautify.org - A lot of tools for almost everything
+* https://ss64.com/ - Linux, macos, Windows Swiss Army Knife
+* https://toolbox.googleapps.com/ - Dig, Kodierer, JSON Formatter
+* https://www.appdevtools.com - Text, Validatiors, Formatters, Converters, Encoders, Network Tools, Password generator
+* https://stevecat.net/table-magic/table-magic - Markdown to SQL to CSV to FORM to HTML
+* https://www.askapache.com/online-tools/ - ASCII Figlets, htpasswd generator, CSS compressor, JS code beautifier
+* https://htpasswdgenerator.de/ - htpasswd generator
+* https://all-inkl.com/wichtig/htaccessgenerator/ - .htaccess Generator
+* https://unminify.com/ - unminify JavaScript, CSS, HTML, XML and JSON code
+* https://smalldev.tools/ - Encoders, Formatters, Data generators
+* https://gchq.github.io/CyberChef/ - Data, Encoding, Encryption, Networking, Language, Text, Extractors, Multimedia
+* https://webcode.tools/ - Html, CSS, JSON-LD generator
+* https://omatsuri.app/ - Triangle, Color shades, Gradient, Fake data generator
+* https://tinywow.com/ - Pdf, Video, Image, File, tools
+
+#### Misc
+* https://www.desmos.com/calculator - Graph Calculator
+* https://billdogg.com/ - Create Invoices Online
+* https://getmanta.app/ - Invocing Application
+* https://www.throwawaymail.com - Temporary e-mail address
+* https://guerrillamail.com - Temporary e-mail address
+* https://www.whatruns.com/ - Discover what runs a website
+* https://www.transfernow.net - Send files
+* https://www.swisstransfer.com - Send files
+* https://drop.infini.fr - Send files
+* https://www.jsv9000.app/ - JavaScript visualize js code execution (event loop, async calls...)
+* https://algorithm-visualizer.org/ - Visualize algorithms
+* https://code2art.jetbrains.com/ - Jetbrains Wallpaper Generator
+* https://namingmyfunction.vercel.app - I don't know how to name my function
+
+
 ## Audio
 ## Backgrounds
 ## Career
@@ -640,79 +712,3 @@
 ## Security
 ## Snippets
 ## Templates (HTML, CSS)
-
-
-#### Uncat
-* https://getfrontend.tips/ - Tips, Tricks, Best Practices
-* https://htmldom.dev/ - Manage HTML DOM
-* https://1loc.dev/ - Favorite JavaScript Utilities
-* http://extractcss.com/ - Extract css from html
-* https://codepen.io/stoumann/full/ - Clip path editor
-
-#### Data
-* https://www.isic-archive.com/ - The International Skin Imaging Collaboration
-* https://copypastelist.com/ - Lists
-* https://www.mockaroo.com/ - JSON, SQL, XML, CSV mock data generator
-* https://www.onlinedatagenerator.com - CSV, Json, SQL
-* http://www.randat.com - CSV random data generator
-* https://www.generatedata.com - CSV, HTML, JSON, JS, SQL, XML
-* https://www.databasetestdata.com - Mock Data JSON, XML, CSV
-* https://random-data-api.com - random fake data
-
-#### Other
-* https://code2art.jetbrains.com/ - Jetbrains Wallpaper Generator
-* https://namingmyfunction.vercel.app - I don't know how to name my function
-* https://lookup.design/ - Find design examples
-
-#### Templates / Boilerplates
-* https://www.zerotheme.com/ - html, css
-* https://athemes.com/ - wordpress
-* https://html5up.net/ - html
-* https://themewagon.com/ - html
-* https://colorlib.com/ - wordpress
-* https://cssauthor.com/
-* https://freefrontend.com/ - html, css, bootstrap, js, react, vue
-* https://codemyui.com/ - Code snippets
-* https://www.free-css.com/ - Website templates
-* https://www.w3schools.com/w3css/w3css_templates.asp - CSS Templates
-* http://getskeleton.com - Responsive boilerplate
-* https://www.tailwindtoolbox.com/starter-templates - Tailwind templates
-
-#### Text, Formatter, Validatior, Security, Encoder, Converter, Network Tools
-* https://codebeautify.org - A lot of tools for almost everything
-* https://ss64.com/ - Linux, macos, Windows Swiss Army Knife
-* https://toolbox.googleapps.com/ - Dig, Kodierer, JSON Formatter
-* https://www.appdevtools.com - Text, Validatiors, Formatters, Converters, Encoders, Network Tools, Password generator
-* https://stevecat.net/table-magic/table-magic - Markdown to SQL to CSV to FORM to HTML
-* https://whois.cynthia.re/whois/ - Online whois
-* https://www.askapache.com/online-tools/ - ASCII Figlets, htpasswd generator, CSS compressor, JS code beautifier
-* https://htpasswdgenerator.de/ - htpasswd generator
-* https://all-inkl.com/wichtig/htaccessgenerator/ - .htaccess Generator
-* https://unminify.com/ - unminify JavaScript, CSS, HTML, XML and JSON code
-* https://smalldev.tools/ - Encoders, Formatters, Data generators
-* https://gchq.github.io/CyberChef/ - Data, Encoding, Encryption, Networking, Language, Text, Extractors, Multimedia
-
-#### Misc
-* https://httpstatuses.com/ - Status overview
-* https://www.desmos.com/calculator - Graph Calculator
-* https://billdogg.com/ - Create Invoices Online
-* https://getmanta.app/ - Invocing Application
-* https://formito.com/tools/logo - Logo maker
-* https://formito.com/tools/favicon - Favicon maker
-* https://bennettfeely.com/clippy/ - CSS clipping
-* https://favicon.io/ - Favicon Generator
-* https://www.favicon-generator.org/ - Favicon Generator
-* https://www.favicon.cc/ - Favicon Generator
-* https://badgen.net/ - Badge Generator
-* https://www.throwawaymail.com - Temporary e-mail address
-* https://guerrillamail.com - Temporary e-mail address
-* https://www.whatruns.com/ - Discover what runs a website
-* https://www.transfernow.net - Send files
-* https://www.swisstransfer.com - Send files
-* https://drop.infini.fr - Send files
-* http://www.responsinator.com/ - Check responsiveness
-* https://www.jsv9000.app/ - JavaScript visualize js code execution (event loop, async calls...)
-* https://algorithm-visualizer.org/ - Visualize algorithms
-* https://webcode.tools/ - Html, CSS, JSON-LD generator
-* https://omatsuri.app/ - Triangle, Color shades, Gradient, Fake data generator
-* https://tinywow.com/ - Pdf, Video, Image, File, tools
