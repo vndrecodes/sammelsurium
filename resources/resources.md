@@ -19,6 +19,7 @@
 * https://goalkicker.com/ - Free Programming Books
 * https://github.com/EbookFoundation/free-programming-books - Freely available programming books
 * https://www.lapa.ninja/book/ - Free books for designers
+* https://freecomputerbooks.com - Links to Free Computer, Mathematics, Technical Books all over the World
 
 
 ## Cheatsheets / References
@@ -36,6 +37,7 @@
 * http://apps.workflower.fi/vocabs/html/en - HTML Vocabulary
 * https://mac-blog.org.ua/css-3-media-queries-cheat-sheet - CSS Media Queries
 * https://github.com/LeCoupa/awesome-cheatsheets - Cheatsheets list
+* https://tympanus.net/codrops/css_reference/ - CSS Reference
 
 
 ## Checklist
@@ -288,6 +290,8 @@
 * https://github.com/sandoche/awesome-landing-page - Landing page templates
 * https://servicedesigntools.org/ - Collection of tools and tutorials that helps dealing with complex design challenges.
 * https://www.html.am/ - HTML Codes, Editors, Generators, Templates: [Layout, CSS, HTML5, Website]
+* https://w3hubs.com/
+
 #### Templates / Boilerplates
 * https://www.zerotheme.com/ - html, css
 * https://athemes.com/ - wordpress
@@ -301,6 +305,7 @@
 * https://www.w3schools.com/w3css/w3css_templates.asp - CSS Templates
 * http://getskeleton.com - Responsive boilerplate
 * https://www.tailwindtoolbox.com/starter-templates - Tailwind templates
+* https://www.quackit.com/html/templates - HTML, Flexbox, CSS Grid, Bootstrap, Layout Templates
 
 
 ## Design systems
@@ -437,6 +442,7 @@
 * https://themewagon.com/ - Web templates
 * https://www.extremelyusable.com/ - UX Portfolios
 * https://saaslandingpage.com - Landing page examples
+* https://www.uidesigndaily.com - Inspiration
 
 
 ## Learning
@@ -448,6 +454,9 @@
 * https://www.theodinproject.com/ - Full stack
 * https://humanebydesign.com/ - Design best practice
 * https://www.useronboard.com/user-onboarding-teardowns/ - Best practice by popular apps teardown
+* https://www.internetingishard.com - Friendly web development tutorials for complete beginners
+* https://lab.github.com -
+* https://www.freecodecamp.org/learn/responsive-web-design/ - Responsive Webdesign Course
 
 
 ## Media
@@ -641,6 +650,7 @@
 * https://getfrontend.tips/ - Tips, Tricks, Best Practices
 * https://thisthat.dev - CSS, DOM, HTML, JS attribute / property comparisons
 * https://1loc.dev/ - Favorite JavaScript Utilities
+* https://ui-patterns.com - User Interface Design patterns are recurring solutions that solve common design problems
 
 
 ## Tutorials
@@ -679,6 +689,7 @@
 * https://algorithm-visualizer.org/ - Visualize algorithms
 * https://code2art.jetbrains.com/ - Jetbrains Wallpaper Generator
 * https://namingmyfunction.vercel.app - I don't know how to name my function
+* https://www.xml-sitemaps.com - Sitemap generator
 
 
 ## Audio
