@@ -38,11 +38,6 @@ $ passwd <username>
 $ mkdhomedir_helper <username>
 ```
 
-### Add user to sudoers
-```shell
-$ usermod -aG sudo <username>
-```
-
 ### Manpages
 ```shell
 $ man -k <keyword>    # Search for keyowrd within manpages (similar to apropos)
@@ -50,3 +45,10 @@ $ man -k <keyword>    # Search for keyowrd within manpages (similar to apropos)
 ```shell
 $ info <command>      # Similar to man command
 ```
+
+### Networking
+* `dig` -
+* `host` -
+* `nslookup` -
+* `whois` -
+* `traceroute` - print the route packets take to network host

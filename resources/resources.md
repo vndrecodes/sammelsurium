@@ -20,6 +20,12 @@
 * https://github.com/EbookFoundation/free-programming-books - Freely available programming books
 * https://www.lapa.ninja/book/ - Free books for designers
 * https://freecomputerbooks.com - Links to Free Computer, Mathematics, Technical Books all over the World
+* https://jsbooks.revolunet.com - JavaScript Books
+* https://exploringjs.com - JavaScript Books
+* https://devfreebooks.github.io - A collection of free books for devs
+* https://www.freetechbooks.com - Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes
+* https://www.onlineprogrammingbooks.com - Free Computer Books
+
 
 
 ## Cheatsheets / References
@@ -38,6 +44,8 @@
 * https://mac-blog.org.ua/css-3-media-queries-cheat-sheet - CSS Media Queries
 * https://github.com/LeCoupa/awesome-cheatsheets - Cheatsheets list
 * https://tympanus.net/codrops/css_reference/ - CSS Reference
+* https://adam-marsden.co.uk/css-cheat-sheet - CSS CheatSheet / A reference for CSS goodness
+*
 
 
 ## Checklist
@@ -54,6 +62,7 @@
 * https://www.a11yproject.com/checklist/ - Web Content Accessibility Guidelines Checklist
 * https://teamsuccess.io/UX - Usability Checklist
 * https://github.com/sandoche/Webdesign-checklist - Webdesign Checklist
+* [../static/webspeed_checklist.md](webspeed_checklist.md) - Webspeed Checklist
 
 
 ## Command Line
@@ -138,11 +147,14 @@
 * https://getbootstrap.com - Most popular CSS, HTML, JS library
 
 ### Layout
+* https://layoutit.com/build - Bootstrap Interface Builder
 * https://layout.bradwoods.io - Grid & Flexbox generator
 * https://grid.layoutit.com - Grid generator
 * https://cssgrid-generator.netlify.app - Grid generator
 * https://css-grid-layout-generator.pw/ - Grid generator
 * http://css3generator.com/ - Flexbox and more generator
+* https://cssflex-generator.netlify.app - Flexbox generator
+* https://flexbox.buildwithreact.com - Interactive flexbox
 
 ### Media Queries
 * http://giona.net/tools/css3-mediaquery-generator/
@@ -162,6 +174,8 @@
 * https://bennettfeely.com/clippy/ - CSS, Pie Chart, clip path, image effects, gradients, flexbox generators
 * http://extractcss.com/ - Extract css from html
 * https://codepen.io/stoumann/full/ - Clip path editor
+* http://autoprefixer.github.io - Parse CSS and add vendor prefixes
+
 
 ### Underline
 * https://underline-generator.netlify.app/?ref=undesign - CSS Underline Generator
@@ -265,15 +279,14 @@
 * https://free-for.dev/ - List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 * https://webdevhome.github.io/ - Collection of basic tech links
 * https://github.com/cdterry87/Resources - Mostly web development stuff
-* https://github.com/kahun/awesome-sysadmin - Sysadmin list
 * https://github.com/lk-geimfari/awesomo - Open Source Projects list for different languages
-* https://github.com/alebcay/awesome-shell - List of shell stuff
 * https://github.com/ripienaar/free-for-dev - A list of SaaS, PaaS and IaaS
 * https://dev.to/kiranrajvjd/the-ultimate-web-developer-resources-list-200-resources-2gf5 - Huge List of Web Dev Resources
 * https://github.com/trimstray/the-book-of-secret-knowledge - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools
 * https://github.com/sdmg15/Best-websites-a-programmer-should-visit - Some useful websites for programmers.
 * https://webcode.tools - CSS Generators, HTML Generators, JSON-LD Generator, Meta Tags Generator
 * https://www.html-code-generator.com/ - CSS, HTML, Generators, Converters, Snippets, Editors, Tools
+* https://uigarage.net - UI inspiration, patterns, UI Kits, Tools
 
 
 ## Design resources
@@ -459,6 +472,7 @@
 * https://www.freecodecamp.org/learn/responsive-web-design/ - Responsive Webdesign Course
 
 
+
 ## Media
 * https://www.covermytunes.com - Largest CD Covers & iTunes Album Artwork Search Engine
 * https://fanart.tv - Logos, Backgrounds, Posters and more for your TV, Movie and Music collections
@@ -630,6 +644,7 @@
 * https://dnsdumpster.com - View DNS as graph
 * https://ceipam.eu/en/dnslookup.php - Check multiple DNS Servers (propagation)
 * https://whois.cynthia.re/whois/ - Online whois
+* https://hoppscotch.io/de - Like Postman
 
 ### Regex
 * https://ihateregex.io/ - Sample Regex
@@ -651,6 +666,7 @@
 * https://thisthat.dev - CSS, DOM, HTML, JS attribute / property comparisons
 * https://1loc.dev/ - Favorite JavaScript Utilities
 * https://ui-patterns.com - User Interface Design patterns are recurring solutions that solve common design problems
+* https://github.com/AllThingsSmitty/css-protips - A collection of tips to help take your CSS skills pro.
 
 
 ## Tutorials
@@ -681,6 +697,7 @@
 * https://getmanta.app/ - Invocing Application
 * https://www.throwawaymail.com - Temporary e-mail address
 * https://guerrillamail.com - Temporary e-mail address
+* https://10minutemail.com/ - Temporary Email
 * https://www.whatruns.com/ - Discover what runs a website
 * https://www.transfernow.net - Send files
 * https://www.swisstransfer.com - Send files
