@@ -63,6 +63,7 @@
 * https://teamsuccess.io/UX - Usability Checklist
 * https://github.com/sandoche/Webdesign-checklist - Webdesign Checklist
 * [../static/webspeed_checklist.md](webspeed_checklist.md) - Webspeed Checklist
+* https://ixdchecklist.com/ - Interaction design
 
 
 ## Command Line
@@ -304,6 +305,7 @@
 * https://servicedesigntools.org/ - Collection of tools and tutorials that helps dealing with complex design challenges.
 * https://www.html.am/ - HTML Codes, Editors, Generators, Templates: [Layout, CSS, HTML5, Website]
 * https://w3hubs.com/
+* https://ui8.net/ - Design freebies (figma, sketch, photoshop, xd, illustrator, after effects, keynote)
 
 #### Templates / Boilerplates
 * https://www.zerotheme.com/ - html, css
@@ -319,6 +321,7 @@
 * http://getskeleton.com - Responsive boilerplate
 * https://www.tailwindtoolbox.com/starter-templates - Tailwind templates
 * https://www.quackit.com/html/templates - HTML, Flexbox, CSS Grid, Bootstrap, Layout Templates
+* http://www.mashup-template.com - HTML5 Templates
 
 
 ## Design systems
@@ -412,7 +415,6 @@
 * https://icons8.com/illustrations
 * https://lab.streamlinehq.com/ - 100,000 icons, illustrations and emoji for all your projects
 * https://lucid.pixsellz.io/
-* https://ui8.net/
 * https://control.rocks/
 * https://niceillustrations.com/free-illustrations/
 * https://www.pixeltrue.com/packs
@@ -470,7 +472,8 @@
 * https://www.internetingishard.com - Friendly web development tutorials for complete beginners
 * https://lab.github.com -
 * https://www.freecodecamp.org/learn/responsive-web-design/ - Responsive Webdesign Course
-
+* https://linuxjourney.com/ - Learn the ways of Linux-fu, for free.
+* https://codepip.com/ - Learn to code playing games (html, css, js)
 
 
 ## Media
@@ -508,6 +511,7 @@
 * https://www.graphberry.com
 * https://www.mockmagic.com/ - Apple Device mockups
 * https://mockupbro.com - Create Mockups Online
+* https://www.screely.com - Generate Website Mockups Instantly
 
 
 ## News
@@ -618,6 +622,7 @@
 * https://www.nomnoml.com - A tool for drawing UML diagrams
 * https://wireframe.cc/ - Online wireframing tool
 * https://dbdiagram.io/ - Draw Entity-Relationship Diagrams
+* https://www.photopea.com - Online Photo Editor
 
 ### Editors
 * https://codepen.io - html, css, js
@@ -637,6 +642,8 @@
 * https://tinypng.com/ - PNG and JPEG image compression
 * https://compressor.io/ - Compress images
 * https://convert2svg.com - Convert image to svg
+* https://www.erase.bg/ - Erase background
+* https://screenshot.guru/ - Take high-resolution screen captures of websites
 
 ### Networking
 * https://dnsspy.io/ - DNS Monitor
