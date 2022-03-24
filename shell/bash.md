@@ -1,4 +1,4 @@
-# Bash
+# Basics
 ## Navigation
 
 ```shell
@@ -142,6 +142,8 @@ str1 \< str2               # str1 is sorted before str2
 -N file                   # file was modified since it was last read
 -O file                   # you own file
 -G file                   # file's group ID matches yours (or one of yours, if you are in multiple groups)
+-z "string"               # string is empty
+-n "string"               # string is not empty
 file1 -nt file2           # file1 is newer than file2
 file1 -ot file2           # file1 is older than file2
 
@@ -155,6 +157,19 @@ file1 -ot file2           # file1 is older than file2
 -ne                       # not equal
 
 
+#       (1)       &&      (2)     ||       (3)
+test -f ~/foofile && echo "found" || echo "not found"   
+# test if file exists, if (1) is T then (2) T and (don't care)
+# if (1) is F, the whole statement (1) && (2) is F, (3) can eval to T then
+
+# test can be written as []
+[ -f ~/foofile ] && echo "found"
+
+
+A=1
+B=2
+[ "$A" -eq "$B" ] && echo "is equal" || echo "is not equal"
+
 if condition
 then
   statements
@@ -164,6 +179,16 @@ then
   statements]
 fi
 
+case expression in
+  pattern1 )
+    statements ;;
+  pattern2 )
+    statements ;;
+esac
+```
+
+## Loops
+```shell
 
 for i in /etc/rc.*; do
   echo $i
@@ -186,15 +211,6 @@ for (( initialisation ; ending condition ; update ))
 do
   statements...
 done
-
-
-case expression in
-  pattern1 )
-    statements ;;
-  pattern2 )
-    statements ;;
-esac
-
 
 select name [in list]
 do
@@ -233,6 +249,7 @@ while true; do
   echo $(date)
 done
 ```
+
 
 
 ## Redirections
