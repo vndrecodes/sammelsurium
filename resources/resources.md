@@ -71,7 +71,7 @@
 * https://linuxcommandlibrary.com/basic/oneliners.html - A lot of bash oneliners
 * https://www.mankier.com/ - Explain command options
 * https://explainshell.com/ - Explain command options
-
+* https://tldr.ostera.io - Simplified, community driven man pages
 
 ## CSS
 ### Pinned
@@ -474,6 +474,8 @@
 * https://www.freecodecamp.org/learn/responsive-web-design/ - Responsive Webdesign Course
 * https://linuxjourney.com/ - Learn the ways of Linux-fu, for free.
 * https://codepip.com/ - Learn to code playing games (html, css, js)
+* https://fullstackopen.com/en/ - Deep Dive Into Modern Web Development
+* https://github.com/freeCodeCamp/freeCodeCamp - FreeCodeCamp.org's open-source codebase and curriculum
 
 
 ## Media
