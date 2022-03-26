@@ -72,6 +72,7 @@
 * https://www.mankier.com/ - Explain command options
 * https://explainshell.com/ - Explain command options
 * https://tldr.ostera.io - Simplified, community driven man pages
+* https://www.shellcheck.net - Shell script analysis tool
 
 ## CSS
 ### Pinned
