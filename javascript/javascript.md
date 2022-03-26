@@ -40,3 +40,22 @@
   console.log(result);
 })();
 ```
+
+
+## Misc
+### truthy/falsy values
+* Following values considered to be falsy. Everything else will eval to true (`if(anythingElse)` holds)
+
+```javascript
+null
+undefined
+NaN
+""
+0
+false
+```
+
+* To check if variable isn not declared:
+```javascript
+if(typeof myVal === 'undefined') console.log('myVal isn\'t declared');
+```
