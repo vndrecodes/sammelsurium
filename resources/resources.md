@@ -323,6 +323,7 @@
 * https://www.tailwindtoolbox.com/starter-templates - Tailwind templates
 * https://www.quackit.com/html/templates - HTML, Flexbox, CSS Grid, Bootstrap, Layout Templates
 * http://www.mashup-template.com - HTML5 Templates
+* https://cruip.com/free-templates/ - Free HTML landing pages for startups
 
 
 ## Design systems
@@ -477,6 +478,7 @@
 * https://codepip.com/ - Learn to code playing games (html, css, js)
 * https://fullstackopen.com/en/ - Deep Dive Into Modern Web Development
 * https://github.com/freeCodeCamp/freeCodeCamp - FreeCodeCamp.org's open-source codebase and curriculum
+* https://practicaltypography.com/ - But­t­er­ick’s Prac­ti­cal Ty­pog­ra­phy
 
 
 ## Media
@@ -677,6 +679,7 @@
 * https://1loc.dev/ - Favorite JavaScript Utilities
 * https://ui-patterns.com - User Interface Design patterns are recurring solutions that solve common design problems
 * https://github.com/AllThingsSmitty/css-protips - A collection of tips to help take your CSS skills pro.
+* https://www.refactoringui.com/ - Tips, Articles to design UIs using specific tactics explained from a developer's point-of-view.
 
 
 ## Tutorials
