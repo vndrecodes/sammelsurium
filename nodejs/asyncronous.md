@@ -22,6 +22,8 @@ function callback(err, result) {
 
 
 ## Promises
+Promises are objects, returned by asynchronous functions, which hold the current state of the async operation.  
+[MDN - How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
 ### Instantiate new Promise
 
 ```javascript
@@ -63,6 +65,7 @@ Promise.all(myPromises).then((result) => console.log(result));
 
 ## async-await
 * `async` / `await` is build on top of Promises. We can `await` an Promise inside an `async` declared function
+* async functions also return promises
 
 ```javascript
 async function myFunction() {
@@ -70,3 +73,5 @@ async function myFunction() {
   console.log('This statement will be printed after myPromiseReturningFunction() returns (resolves o. rejects) and foo will be defined with an value (only when resolves)');
 }
 ```
+
+[nodejs.org - understanding-javascript-promises](https://nodejs.dev/learn/understanding-javascript-promises)
