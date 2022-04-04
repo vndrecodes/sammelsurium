@@ -479,6 +479,8 @@
 * https://fullstackopen.com/en/ - Deep Dive Into Modern Web Development
 * https://github.com/freeCodeCamp/freeCodeCamp - FreeCodeCamp.org's open-source codebase and curriculum
 * https://practicaltypography.com/ - But­t­er­ick’s Prac­ti­cal Ty­pog­ra­phy
+* https://tutsplus.com - Tutorials, Guides
+  * https://github.com/tutsplus
 
 
 ## Media
