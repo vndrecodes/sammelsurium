@@ -45,7 +45,6 @@
 * https://github.com/LeCoupa/awesome-cheatsheets - Cheatsheets list
 * https://tympanus.net/codrops/css_reference/ - CSS Reference
 * https://adam-marsden.co.uk/css-cheat-sheet - CSS CheatSheet / A reference for CSS goodness
-*
 
 
 ## Checklist
@@ -147,6 +146,7 @@
 * https://bulma.io  - The modern CSS framework that just works
 * https://tailwindcss.com - Utility first CSS framework
 * https://getbootstrap.com - Most popular CSS, HTML, JS library
+* https://remix.run/ - Full stack web framework
 
 ### Layout
 * https://layoutit.com/build - Bootstrap Interface Builder
