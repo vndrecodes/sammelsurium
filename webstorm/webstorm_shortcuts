@@ -1,0 +1,41 @@
+Coding assistance: code completion, quick documentation, code refactorings, etc.
+
+code completion (basic)           ctrl + space
+code completion (type matching)   ctrl + shift + space
+
+complete current statement        shift + cmd + return
+
+quick definition      opt + space or cmd + Y
+quick documentation   ctrl + J
+parameter Info        cmd + P
+type Info             ctrl + shift + P
+show source           cmd + return
+
+next method                     ctrl + shift + arrow down
+prev method                     ctrl + shift + arrow up
+move caret to matching Brace    ctrl + M
+goto declaration or usages      cmd + B
+goto implementations            opt + cmd + B
+goto type declaration           shift + cmd + B
+
+
+move statement down   shift + cmd + arrow down
+move statement up     shift + cmd + arrow up
+move line down        shift + opt + arrow down
+move line up          shift + opt + arrow up
+
+multi caret           opt + click
+
+delete line           cmd + delete
+duplicate line        cmd + D
+
+extend selection      option + arrow up
+
+start new line          shift + return
+start new line before   opt + cmd + return
+
+next parameter    tab
+prev parameter    shift + tab
+
+next template variable  return or tab
+show options popup      opt + shift + O

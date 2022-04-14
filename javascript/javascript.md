@@ -59,3 +59,22 @@ false
 ```javascript
 if(typeof myVal === 'undefined') console.log('myVal isn\'t declared');
 ```
+
+
+### Destructing
+Declare variable to unpack values from Object literals.  
+`let {bar} = foo` will assign `bar` to the value corresponding to the key of the same name from the object `foo`.
+```JavaScript
+let foo = {
+  john: 'doe',
+  baz: 'alice',
+  bar: 'Hello World'
+}
+
+let {bar} = foo;
+
+//> console.log(bar);
+// Hello World
+
+
+```

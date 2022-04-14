@@ -45,6 +45,7 @@
 * https://github.com/LeCoupa/awesome-cheatsheets - Cheatsheets list
 * https://tympanus.net/codrops/css_reference/ - CSS Reference
 * https://adam-marsden.co.uk/css-cheat-sheet - CSS CheatSheet / A reference for CSS goodness
+* https://cssguidelin.es -
 
 
 ## Checklist
@@ -307,6 +308,7 @@
 * https://www.html.am/ - HTML Codes, Editors, Generators, Templates: [Layout, CSS, HTML5, Website]
 * https://w3hubs.com/
 * https://ui8.net/ - Design freebies (figma, sketch, photoshop, xd, illustrator, after effects, keynote)
+* https://www.sketchappsources.com - Free design resources and plugins - Icons, UI Kits, Wireframes, Templates for Sketch
 
 #### Templates / Boilerplates
 * https://www.zerotheme.com/ - html, css
@@ -340,6 +342,7 @@
 * https://garden.zendesk.com/
 * https://www.momentum.design/
 * https://liferay.design/lexicon/
+* https://design.firefox.com/photon/
 
 
 ## Favicon
@@ -506,7 +509,7 @@
 * https://www.premiumpixels.com
 * https://dealjumbo.com
 * https://graphicburger.com
-* https://www.pixeden.com
+* https://www.pixeden.com - Print, Webs, Icons, Vectors, Graphics freebies
 * https://www.ls.graphics
 * https://unblast.com
 * https://mockup.ceacle.com
@@ -539,6 +542,7 @@
 ## Styleguide
 * https://google.github.io/styleguide/ - Google Style Guides, shell, JavaScript, java, html, css
 * https://github.com/airbnb/javascript - JavaScript
+* https://cssguidelin.es - High-level advice and guidelines for writing sane, manageable, scalable CSS
 
 
 ## Stock Assets (Photos, Videos, Music)
@@ -563,6 +567,7 @@
 * https://www.librestock.com/ - Stock photos
 * https://www.stockio.com/ - Photos, Vectors, Icons, Fonts and Videos
 * https://www.pxfuel.com/ - Stock photos
+* https://de.depositphotos.com - Lizenzfreie Stock Photos, Vector Images, Videos and Music
 
 
 ## SVG Shapes / Patterns
@@ -668,6 +673,8 @@
 
 ### Other
 * https://crontab.guru/ - The quick and simple editor for cron schedule expressions
+* https://www.digitalocean.com/community/tools/nginx - NGINXConfig generator
+* https://www.digitalocean.com/community/tools/minify - JavaScript minify tool
 
 ### SQL
 * https://www.jooq.org/diff/ - Compare schemas
