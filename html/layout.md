@@ -53,7 +53,7 @@
 
 
 ### Margin
-
+* `marging: auto` works for block level elements!
 ```html
 <!-- Centering child div inside parent div -->
 <div class="parent">
@@ -76,7 +76,7 @@
 ```
 
 
-### Margin
+### Position
 
 ```html
 <!-- Centering child div inside parent div -->
