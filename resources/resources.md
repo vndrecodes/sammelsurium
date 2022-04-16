@@ -484,6 +484,11 @@
 * https://practicaltypography.com/ - But­t­er­ick’s Prac­ti­cal Ty­pog­ra­phy
 * https://tutsplus.com - Tutorials, Guides
   * https://github.com/tutsplus
+* https://www.internetingishard.com/ - Friendly web development tutorials for complete beginners (curriculum)
+* https://www.codecademy.com/ - Learn to Code
+* https://developer.mozilla.org/en-US/docs/Learn - Learn web development
+* https://github.com/microsoft/Web-Dev-For-Beginners/ - Web Development for Beginners (curriculum)
+
 
 
 ## Media
