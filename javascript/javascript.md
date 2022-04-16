@@ -75,6 +75,23 @@ let {bar} = foo;
 
 //> console.log(bar);
 // Hello World
+```
 
 
+### textcontent vs. innerHTML
+```html
+<div id="foo">
+  Hello <span>World</span>!
+</div>
+
+<script>
+let bar = document.getElementById('foo');
+
+console.log(bar.textContent);
+// Hello World!
+
+console.log(bar.innerHTML);
+// Hello <span>World</span>!
+
+</script>
 ```
