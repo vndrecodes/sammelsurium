@@ -312,6 +312,7 @@
 * https://w3hubs.com/
 * https://ui8.net/ - Design freebies (figma, sketch, photoshop, xd, illustrator, after effects, keynote)
 * https://www.sketchappsources.com - Free design resources and plugins - Icons, UI Kits, Wireframes, Templates for Sketch
+* https://sketchrepo.com - Sketch App Resources - `#sketch` `#freebies` `#templates` `#resource`
 
 #### Templates / Boilerplates
 * https://www.zerotheme.com/ - html, css
@@ -363,7 +364,7 @@
 * https://freetypography.com - FreeTypography - The best free fonts, typefaces and typography
 * https://www.fontsquirrel.com - Legit Free & Quality for commercial use
 * http://pxtoem.com/ - PX to EM conversion w. CSS output
-* https://type-scale.com/ - Visual calculator w. CSS output
+* https://type-scale.com/ - Visual calculator w. CSS output - `#css` `#tool` `#font`
 * https://fluid-typography.netlify.app - Create text that scales with the window size
 * https://seek-oss.github.io/capsize/ - Sizing and layout
 * https://textpop3d.web.app - Create 3d text animation
@@ -664,6 +665,7 @@
 * https://convert2svg.com - Convert image to svg
 * https://www.erase.bg/ - Erase background
 * https://screenshot.guru/ - Take high-resolution screen captures of websites
+* https://www.remove.bg/ - Remove background - `#tool` `#image`
 
 ### Networking
 * https://dnsspy.io/ - DNS Monitor
