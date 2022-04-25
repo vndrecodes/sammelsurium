@@ -1,14 +1,14 @@
 ## Pinned
-* https://thisthat.dev - CSS, DOM, HTML, JS attribute / property comparisons
+* ~https://thisthat.dev - CSS, DOM, HTML, JS attribute / property comparisons~
 
 ## Api
-* https://github.com/public-apis/public-apis - Public APIs
-* https://apis.guru - Wikipedia for WEB APIs
-* https://rapidapi.com/de/collection/list-of-free-apis - Free Public & Open Rest APIs
+* ~https://github.com/public-apis/public-apis - Public APIs~
+* ~https://apis.guru - Wikipedia for WEB APIs~
+* ~https://rapidapi.com/de/collection/list-of-free-apis - Free Public & Open Rest APIs~
 
 ### Placeholder
-* https://jsonplaceholder.typicode.com/ - JSON test REST API
-* https://picsum.photos - Placeholder photos API
+* ~https://jsonplaceholder.typicode.com/ - JSON test REST API~
+* ~https://picsum.photos - Placeholder photos API~
 
 
 ## Avatar & Profile Picture
@@ -19,15 +19,15 @@
 
 
 ## Books
-* https://goalkicker.com/ - Free Programming Books
-* https://github.com/EbookFoundation/free-programming-books - Freely available programming books
-* https://www.lapa.ninja/book/ - Free books for designers
-* https://freecomputerbooks.com - Links to Free Computer, Mathematics, Technical Books all over the World
-* https://jsbooks.revolunet.com - JavaScript Books
-* https://exploringjs.com - JavaScript Books
-* https://devfreebooks.github.io - A collection of free books for devs
-* https://www.freetechbooks.com - Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes
-* https://www.onlineprogrammingbooks.com - Free Computer Books
+* ~https://goalkicker.com/ - Free Programming Books~
+* ~https://github.com/EbookFoundation/free-programming-books - Freely available programming books~
+* ~https://www.lapa.ninja/book/ - Free books for designers~
+* ~https://freecomputerbooks.com - Links to Free Computer, Mathematics, Technical Books all over the World~
+* ~https://jsbooks.revolunet.com - JavaScript Books~
+* ~https://exploringjs.com - JavaScript Books~
+* ~https://devfreebooks.github.io - A collection of free books for devs~
+* ~https://www.freetechbooks.com - Database of Free / Open Access Online Computer Science Books, Textbooks, and Lecture Notes~
+* ~https://www.onlineprogrammingbooks.com - Free Computer Books~
 
 
 
@@ -82,7 +82,7 @@
 * https://www.cssportal.com - Large range of CSS generators, tools and resources.
 * https://simplecss.eu - Media Queries, Units Converter, Vendor Prefixes, Image Filters, Clip Paths, SVG Generator, Font Face Generator, RGBa to HEX Converter
 * https://cssbuttons.io/ - Buttons, Checkboxes, Toggle Switches, Cards, Loaders
-* https://csslayout.io/ - Popular layouts and patterns made with CSS
+* ~https://csslayout.io/ - Popular layouts and patterns made with CSS~
 
 ### Animation
 * https://loading.io/ - Ajax Loader, Animated Icons, Live in GIF / SVG / APNG / CSS
@@ -99,6 +99,7 @@
 * https://animista.net/play/basic
 * https://animate.style/
 * https://keyframes.app/animate/
+* https://animista.net/ - CSS Animations on Demand - `#css` `#animation` `#tool` `#generator`
 
 ### Box Shadows
 * https://getcssscan.com/css-box-shadow-examples
@@ -158,7 +159,7 @@
 * https://grid.layoutit.com - Grid generator
 * https://cssgrid-generator.netlify.app - Grid generator
 * https://css-grid-layout-generator.pw/ - Grid generator
-* http://css3generator.com/ - Flexbox and more generator
+* ~http://css3generator.com/ - Flexbox and more generator~
 * https://cssflex-generator.netlify.app - Flexbox generator
 * https://flexbox.buildwithreact.com - Interactive flexbox
 
@@ -181,7 +182,10 @@
 * http://extractcss.com/ - Extract css from html
 * https://codepen.io/stoumann/full/ - Clip path editor
 * http://autoprefixer.github.io - Parse CSS and add vendor prefixes
-
+* https://hero-generator.netlify.app - Hero Generator
+* https://wweb.dev/resources/css-separator-generator/ - CSS Section Separator Generator - `#css` `#tool` `#generator` `#separator`
+* https://wweb.dev/resources/navigation-generator/ - Navigation generator - `#css` `#html` `#generator` `#navbar` `#responsive`
+* https://w3bits.com/tools/masonry-generator/ - CSS Masonry Generator - `#css` `#generator` `#tool` `#responsive`
 
 ### Underline
 * https://underline-generator.netlify.app/?ref=undesign - CSS Underline Generator
@@ -400,6 +404,7 @@
 * https://icon.kitchen - App Icon Generator for Web, Ios, Macos w. preview
 * http://iconsizer.com - Get the right resolutions of your icon for all devices
 * https://iconfinder.com/
+* https://iconer.app
 
 
 ## Illustrations
@@ -622,6 +627,7 @@
 * https://www.magicpattern.design/tools/css-backgrounds
 * https://trianglify.io/ - Poly patterns
 * https://www.shapedivider.app/ - Shape generator
+* https://9elements.github.io/fancy-border-radius/ - Fancy-Border-Radius
 
 
 ## Tools
@@ -629,6 +635,7 @@
 * https://onlinecsvtools.com/ - CSV, TSV, JSON, YAML, XML, MATH, FRACTAL, NUMBER, INTEGER, UNICODE, ASCII, UTF8, BINARY, HEX, TEXT, STRING, LIST, RANDOM, IMAGE, JPG, PNG, GIF, FILE, HASH, CRYPTO, BITMAP, LINUX, TIME, BASE64, SET, PDF, AUDIO, BROWSER, CSS, JS, TABLE, tools
 * https://html-css-js.com/html/ - HTML Tools And Resources, Editor, Tags, CheatSheet, Characters, Generators, Templates, Tutorial
 * https://html-css-js.com/css/ - Editor, Cheat Sheet, Generators, Blog, Links
+* https://online-free-tools.com/en/index - `#minify` `#beautify` `#css` `#html` `#password` `#generators` `#tools` `#hash` `#base64` `#seo` `#robots` `#converter` `#xml` `#json` `#htaccess`
 
 ### Draw
 * https://draw.io - Flowchart Maker
@@ -739,36 +746,5 @@
 * https://code2art.jetbrains.com/ - Jetbrains Wallpaper Generator
 * https://namingmyfunction.vercel.app - I don't know how to name my function
 * https://www.xml-sitemaps.com - Sitemap generator
-
-
-## Audio
-## Backgrounds
-## Career
-## Images
-## Favicon
-## Content & Writing
-## Generated Data (Fake Data)
-## Generator
-## Logos
-## Markdown
-## Multimedia
-## Upscalers
-## UI Components & Kits
-## Video
-## Design resources
-## Design Tools
-## Design-patterns
-## Design-research
-## Design news
-## Development resources
-## Developer Tools
-## Marketing Resources
-## Misc
-## Others
-## Patterns
-## Photos (?Images) (Stock)
-## Prototyping
-## Productivity
-## Security
-## Snippets
-## Templates (HTML, CSS)
+* https://www.privacytools.io/ -  Services, Tools and Privacy guides - `#tool` `#privacy` `#guides`
+* https://ffprofile.com/ - Firefox Profilemaker - `#firefox` `#tool`
