@@ -13,7 +13,7 @@ services:
       MYSQL_USER: wordpress
       MYSQL_PASSWORD: passwd
     volumes:
-      - data_db:/var/lib/mysql
+      - ./data_db:/var/lib/mysql
 
   wordpress:
     depends_on:
@@ -29,7 +29,7 @@ services:
       WORDPRESS_DB_PASSWORD: passwd
       WORDPRESS_DB_NAME: wpdb
     volumes:
-      - wordpress:/var/www/html
+      - ./wordpress:/var/www/html
 volumes:
   wordpress:
   db:
