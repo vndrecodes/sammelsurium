@@ -200,6 +200,7 @@
 * https://medialoot.com/duotones/ - Dual Tone Generator
 * https://duotone.shapefactory.co/ - Dual Tone Generator
 * https://contrast-finder.tanaguru.com - Contrast finder
+* https://colourcontrast.cc/ - Colour Contrast Checker
 * https://couleur.io - Create color palettes
 * https://www.happyhues.co/ - Curated colors in context
 * https://colorable.jxnblk.com/ - Text and background contrast viewer
@@ -297,7 +298,6 @@
 * https://webcode.tools - CSS Generators, HTML Generators, JSON-LD Generator, Meta Tags Generator
 * https://www.html-code-generator.com/ - CSS, HTML, Generators, Converters, Snippets, Editors, Tools
 * https://uigarage.net - UI inspiration, patterns, UI Kits, Tools
-
 
 ## Design resources
 * https://cssauthor.com - Templates, Mockup, Icons, UI, Wallpapers, Inspiration, Mockup, Icons, Images, Fonts, Tutorials, Typography, Print Design, Web Design Tools, UI Design, Vector Graphics, Website Templates, CSS, HTML, PHP, Bootstrap, Development Tools, WordPress, WordPress Themes, WordPress Plugins, Mockups, Bootstrap Templates
@@ -472,7 +472,12 @@
 * https://www.extremelyusable.com/ - UX Portfolios
 * https://saaslandingpage.com - Landing page examples
 * https://www.uidesigndaily.com - Inspiration
-
+* http://www.calltoidea.com/ - Inspiration with element / component categories
+* https://www.admiretheweb.com/ - Searchable via categories and tags
+* https://www.designspiration.com/ - General design inspiration searchable by colors
+* https://bestwebsite.gallery/ - Filter by Colors, CMS, Style, CSS Frameworks
+* https://www.webdesign-inspiration.com/ - Filter by website type, Colors, industry, styles
+* * https://webdesignledger.com/
 
 ## Learning
 * https://html.com/ - Html, Tags, Attributes, CSS, Tutorials, Guides
@@ -651,6 +656,7 @@
 * https://wireframe.cc/ - Online wireframing tool
 * https://dbdiagram.io/ - Draw Entity-Relationship Diagrams
 * https://www.photopea.com - Online Photo Editor
+* https://excalidraw.com/ - Virtual collaborative whiteboard tool
 
 ### Editors
 * https://codepen.io - html, css, js
