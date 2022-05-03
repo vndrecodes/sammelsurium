@@ -299,6 +299,7 @@
 * https://www.html-code-generator.com/ - CSS, HTML, Generators, Converters, Snippets, Editors, Tools
 * https://uigarage.net - UI inspiration, patterns, UI Kits, Tools
 
+
 ## Design resources
 * https://cssauthor.com - Templates, Mockup, Icons, UI, Wallpapers, Inspiration, Mockup, Icons, Images, Fonts, Tutorials, Typography, Print Design, Web Design Tools, UI Design, Vector Graphics, Website Templates, CSS, HTML, PHP, Bootstrap, Development Tools, WordPress, WordPress Themes, WordPress Plugins, Mockups, Bootstrap Templates
 * https://freedesignresources.net - Fonts, Mockups, Presentation, Print, Website Templates, Icons, UI Kits
@@ -334,6 +335,7 @@
 * https://www.quackit.com/html/templates - HTML, Flexbox, CSS Grid, Bootstrap, Layout Templates
 * http://www.mashup-template.com - HTML5 Templates
 * https://cruip.com/free-templates/ - Free HTML landing pages for startups
+* https://dopeui.co/ - Figma templates
 
 
 ## Design systems
@@ -659,11 +661,14 @@
 * https://excalidraw.com/ - Virtual collaborative whiteboard tool
 
 ### Editors
-* https://codepen.io - html, css, js
-* https://jsbin.com/ - html, css, js
-* https://jsfiddle.net - html, css, js
-* https://plnkr.co - js (react, angular)
+* https://codepen.io - html, css, js, codeplayground
+* https://jsbin.com/ - html, css, js, codeplayground
+* https://jsfiddle.net - html, css, js, codeplayground
+* https://plnkr.co - js (react, angular), codeplayground
 * https://stackedit.io - Markdown w. UML & Latex support
+* https://cssdeck.com/ - html, css, js, codeplayground
+* https://codesandbox.io/ - html, css, js, codeplayground
+* https://playcode.io/html - html, css, js, codeplayground
 
 ### Git
 * https://gitexplorer.com - Git Command Explorer
