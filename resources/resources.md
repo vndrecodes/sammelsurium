@@ -12,10 +12,10 @@
 
 
 ## Avatar & Profile Picture
-* https://getavataaars.com/ - Avatar Generator
-* https://multiavatar.com - Avatar Generator
-* https://pfpmaker.com/ - Profile Picture Maker
-* https://profilepicturemaker.com/ - Profile Picture Maker
+* ~https://getavataaars.com/ - Avatar Generator~
+* ~https://multiavatar.com - Avatar Generator~
+* ~https://pfpmaker.com/ - Profile Picture Maker~
+* ~https://profilepicturemaker.com/ - Profile Picture Maker~
 
 
 ## Books
@@ -52,11 +52,11 @@
 
 
 ## Checklist
-* https://frontendchecklist.io - Frontend Checklist
-* https://www.toptal.com/developers/webdevchecklist - Web Developer Checklist
-* https://gdprchecklist.io - GDPR Checklist
-* https://landingpage.fyi/landing-page-checklist.html - Landing Page Checklist
-* https://www.checklist.design - A collection of the best design practices.
+* ~https://frontendchecklist.io - Frontend Checklist~
+* ~https://www.toptal.com/developers/webdevchecklist - Web Developer Checklist~
+* ~https://gdprchecklist.io - GDPR Checklist~
+* ~https://landingpage.fyi/landing-page-checklist.html - Landing Page Checklist~
+* ~https://www.checklist.design - A collection of the best design practices.~
 * https://github.com/thedaviddias/Front-End-Performance-Checklist - Front-End Performance Checklist
 * https://www.designsystemchecklist.com/ - Design system checklist
 * https://github.com/thedaviddias/Front-End-Checklist - Frontend Checklist
@@ -250,6 +250,7 @@
 * https://colormixer.web.app/ - Palettes
 * https://colourco.de/ - Palettes
 * https://cheekypalettes.com - Color palettes inspiration in context on pages
+* https://www.colorsandfonts.com/ - Plaettes
 
 
 ## Data
@@ -504,7 +505,10 @@
 * https://www.codecademy.com/ - Learn to Code
 * https://developer.mozilla.org/en-US/docs/Learn - Learn web development
 * https://github.com/microsoft/Web-Dev-For-Beginners/ - Web Development for Beginners (curriculum)
-
+* https://dataschool.com/ - Learn sql
+* https://thecodingtrain.com/
+* https://fireship.io/
+* https://academind.com/ - Tutorials
 
 
 ## Media
@@ -543,7 +547,7 @@
 * https://www.mockmagic.com/ - Apple Device mockups
 * https://mockupbro.com - Create Mockups Online
 * https://www.screely.com - Generate Website Mockups Instantly
-
+* https://themockup.club/ - Free Mockups
 
 ## News
 * https://devurls.com/ - A neat developer news aggregator
@@ -669,6 +673,7 @@
 * https://cssdeck.com/ - html, css, js, codeplayground
 * https://codesandbox.io/ - html, css, js, codeplayground
 * https://playcode.io/html - html, css, js, codeplayground
+* https://liveweave.com/ - html, css, js, codeplayground
 
 ### Git
 * https://gitexplorer.com - Git Command Explorer

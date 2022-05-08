@@ -37,7 +37,7 @@ $ docker builder prune
 
 * Remove all unused volumes
 ```shell
-$ docker images prune
+$ docker volume prune
 ```
 
 * Remove all dangling images
@@ -81,6 +81,11 @@ $ docker image rm $(docker image ls -a -q)          # Remove all images from thi
 $ docker rmi $(docker images -q)                    # Remove all images from this machine
 ```
 
+```shell
+$ docker secret create <secret_name> <path_to_secret>
+
+$ docker config create <config_name> <path_to_config>
+```
 
 ## Migrating
 ### Move container
@@ -95,4 +100,15 @@ $ zcat <container>.gz | docker import - <container>   # Import
 $ docker save <image> > <image>.tar   # Export
 
 $ cat <image>.tar | docker load       # Import
+```
+
+## Compose
+### Recreate container from images
+```shell
+$ docker-compose up --force-recreate
+```
+
+### List containers
+```shell
+$ docker-compose ps -a
 ```
