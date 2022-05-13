@@ -57,135 +57,135 @@
 * ~https://gdprchecklist.io - GDPR Checklist~
 * ~https://landingpage.fyi/landing-page-checklist.html - Landing Page Checklist~
 * ~https://www.checklist.design - A collection of the best design practices.~
-* https://github.com/thedaviddias/Front-End-Performance-Checklist - Front-End Performance Checklist
-* https://www.designsystemchecklist.com/ - Design system checklist
-* https://github.com/thedaviddias/Front-End-Checklist - Frontend Checklist
-* https://github.com/thedaviddias/Front-End-Performance-Checklist - Frontend Performance Checklist
-* https://github.com/thedaviddias/Front-End-Design-Checklist - Frontend Design Checklist
-* https://www.a11yproject.com/checklist/ - Web Content Accessibility Guidelines Checklist
-* https://teamsuccess.io/UX - Usability Checklist
-* https://github.com/sandoche/Webdesign-checklist - Webdesign Checklist
+* ~https://github.com/thedaviddias/Front-End-Performance-Checklist - Front-End Performance Checklist~
+* ~https://www.designsystemchecklist.com/ - Design system checklist~
+* ~https://github.com/thedaviddias/Front-End-Checklist - Frontend Checklist~
+* ~https://github.com/thedaviddias/Front-End-Performance-Checklist - Frontend Performance Checklist~
+* ~https://github.com/thedaviddias/Front-End-Design-Checklist - Frontend Design Checklist~
+* ~https://www.a11yproject.com/checklist/ - Web Content Accessibility Guidelines Checklist~
+* ~https://teamsuccess.io/UX - Usability Checklist~
+* ~https://github.com/sandoche/Webdesign-checklist - Webdesign Checklist~
 * [../static/webspeed_checklist.md](webspeed_checklist.md) - Webspeed Checklist
-* https://ixdchecklist.com/ - Interaction design
+* ~https://ixdchecklist.com/ - Interaction design~
 
 
 ## Command Line
-* https://misc.flogisoft.com/bash/tip_colors_and_formatting - Colors and formatting
-* https://linuxcommandlibrary.com/basic/oneliners.html - A lot of bash oneliners
-* https://www.mankier.com/ - Explain command options
-* https://explainshell.com/ - Explain command options
-* https://tldr.ostera.io - Simplified, community driven man pages
-* https://www.shellcheck.net - Shell script analysis tool
+* ~https://misc.flogisoft.com/bash/tip_colors_and_formatting - Colors and formatting~
+* ~https://linuxcommandlibrary.com/basic/oneliners.html - A lot of bash oneliners~
+* ~https://www.mankier.com/ - Explain command options~
+* ~https://explainshell.com/ - Explain command options~
+* ~https://tldr.ostera.io - Simplified, community driven man pages~
+* ~https://www.shellcheck.net - Shell script analysis tool~
 
 ## CSS
 ### Pinned
-* https://www.cssportal.com - Large range of CSS generators, tools and resources.
-* https://simplecss.eu - Media Queries, Units Converter, Vendor Prefixes, Image Filters, Clip Paths, SVG Generator, Font Face Generator, RGBa to HEX Converter
-* https://cssbuttons.io/ - Buttons, Checkboxes, Toggle Switches, Cards, Loaders
+* ~https://www.cssportal.com - Large range of CSS generators, tools and resources.~
+* ~https://simplecss.eu - Media Queries, Units Converter, Vendor Prefixes, Image Filters, Clip Paths, SVG Generator, Font Face Generator, RGBa to HEX Converter~
+* ~https://cssbuttons.io/ - Buttons, Checkboxes, Toggle Switches, Cards, Loaders~
 * ~https://csslayout.io/ - Popular layouts and patterns made with CSS~
 
 ### Animation
-* https://loading.io/ - Ajax Loader, Animated Icons, Live in GIF / SVG / APNG / CSS
-* http://cssanimation.io/
-* https://ianlunn.github.io/Hover/
-* https://tilomitra.github.io/infinite/
-* https://www.minimamente.com/project/magic/
-* https://webkul.github.io/micron/
-* https://zurb.com/playground/motion-ui
-* https://tholman.com/obnoxious/
-* https://dwarcher.github.io/reboundgen/examples/
-* https://minimamente.com/example/rocket/
-* https://kristofferandreasen.github.io/wickedCSS/
-* https://animista.net/play/basic
-* https://animate.style/
-* https://keyframes.app/animate/
-* https://animista.net/ - CSS Animations on Demand - `#css` `#animation` `#tool` `#generator`
+* ~https://loading.io/ - Ajax Loader, Animated Icons, Live in GIF / SVG / APNG / CSS~
+* ~http://cssanimation.io/~
+* ~https://ianlunn.github.io/Hover/~
+* ~https://tilomitra.github.io/infinite/~
+* ~https://www.minimamente.com/project/magic/~
+* ~https://webkul.github.io/micron/~
+* ~https://zurb.com/playground/motion-ui~
+* ~https://tholman.com/obnoxious/~
+* ~https://dwarcher.github.io/reboundgen/examples/~
+* ~https://minimamente.com/example/rocket/~
+* ~https://kristofferandreasen.github.io/wickedCSS/~
+* ~https://animista.net/play/basic~
+* ~https://animate.style/~
+* ~https://keyframes.app/animate/~
+* ~https://animista.net/ - CSS Animations on Demand - `#css` `#animation` `#tool` `#generator`~
 
 ### Box Shadows
-* https://getcssscan.com/css-box-shadow-examples
-* http://css3studio.com/page-css3/css-box-shadow.php
-* https://enjoycss.com/
-* https://cssbud.com/css-generator/css-box-shadow-generator/
+* ~https://getcssscan.com/css-box-shadow-examples~
+* ~http://css3studio.com/page-css3/css-box-shadow.php~
+* ~https://enjoycss.com/~
+* ~https://cssbud.com/css-generator/css-box-shadow-generator/~
 
 ### Burger Menu
-* https://jonsuh.com/hamburgers/ - Burger Generator
-* https://burger-generator.com/ - Burger Generator
+* ~https://jonsuh.com/hamburgers/ - Burger Generator~
+* ~https://burger-generator.com/ - Burger Generator~
 
 ### Buttons
-* https://gradientbuttons.colorion.co/ - Button Generator
-* https://css3buttongenerator.com/ - Button Generator
-* https://www.bestcssbuttongenerator.com/ - Button Generator
-* https://cssbuttoncreator.com/ - Button Generator
-* https://www.cssportal.com/css3-button-generator/ - Button Generator
-* https://loading.io/button/generator/ - Button Generator
-* https://tools.fromdev.com/css-button-generator.html - Button Generator
-* https://www.html-code-generator.com/css/button-generator - Button Generator
-* https://www.cssgenerators.net/ - Button Generator
-* http://buttonoptimizer.com/ - Button Generator
-* https://www.dextronet.com/css-buttons-generator/ - Button Generator
-* http://www.sciweavers.org/i2style - Button Generator
-* https://justcode.today/buttons/ - Animated buttons
+* ~https://gradientbuttons.colorion.co/ - Button Generator~
+* ~https://css3buttongenerator.com/ - Button Generator~
+* ~https://www.bestcssbuttongenerator.com/ - Button Generator~
+* ~https://cssbuttoncreator.com/ - Button Generator~
+* ~https://www.cssportal.com/css3-button-generator/ - Button Generator~
+* ~https://loading.io/button/generator/ - Button Generator~
+* ~https://tools.fromdev.com/css-button-generator.html - Button Generator~
+* ~https://www.html-code-generator.com/css/button-generator - Button Generator~
+* ~https://www.cssgenerators.net/ - Button Generator~
+* ~http://buttonoptimizer.com/ - Button Generator~
+* ~https://www.dextronet.com/css-buttons-generator/ - Button Generator~
+* ~http://www.sciweavers.org/i2style - Button Generator~
+* ~https://justcode.today/buttons/ - Animated buttons~
 
 ### Card
-* http://foxcodetango.com/css-card-flip-generator/index.html - CSS Card Flip Generator
+* ~http://foxcodetango.com/css-card-flip-generator/index.html - CSS Card Flip Generator~
 
 ### Checkbox / Radio Buttons
-* https://doodlenerd.com/html-control/css-checkbox-generator - Generators
-* https://bun.js.org/ - Generators
+* ~https://doodlenerd.com/html-control/css-checkbox-generator - Generators~
+* ~https://bun.js.org/ - Generators~
 
 ### Effects
-* https://ui.glass/generator/ - Glassmorphism CSS Generator
-* https://css.glass - Glassmorphism Generator
-* https://neumorphism.io - Neumorphism generator
+* ~https://ui.glass/generator/ - Glassmorphism CSS Generator~
+* ~https://css.glass - Glassmorphism Generator~
+* ~https://neumorphism.io - Neumorphism generator~
 
 ### Filter
-* https://www.cssfiltergenerator.com/ - Filter Generator
-* https://justcode.today/filters/ - CSS & SVG Filters
-* https://tailblend.vercel.app - Blend images
+* ~https://www.cssfiltergenerator.com/ - Filter Generator~
+* ~https://justcode.today/filters/ - CSS & SVG Filters~
+* ~https://tailblend.vercel.app - Blend images~
 
 ### Flip Switch
-* https://www.cssportal.com/css3-flip-switch/ - Flip Switch Generator
-* https://www.html-code-generator.com/css/radio-button-checkbox - Flip Switch Generator
+* ~https://www.cssportal.com/css3-flip-switch/ - Flip Switch Generator~
+* ~https://www.html-code-generator.com/css/radio-button-checkbox - Flip Switch Generator~
 
 ### Frameworks
-* https://bulma.io  - The modern CSS framework that just works
-* https://tailwindcss.com - Utility first CSS framework
-* https://getbootstrap.com - Most popular CSS, HTML, JS library
-* https://remix.run/ - Full stack web framework
+* ~https://bulma.io  - The modern CSS framework that just works~
+* ~https://tailwindcss.com - Utility first CSS framework~
+* ~https://getbootstrap.com - Most popular CSS, HTML, JS library~
+* ~https://remix.run/ - Full stack web framework~
 
 ### Layout
-* https://layoutit.com/build - Bootstrap Interface Builder
-* https://layout.bradwoods.io - Grid & Flexbox generator
-* https://grid.layoutit.com - Grid generator
-* https://cssgrid-generator.netlify.app - Grid generator
-* https://css-grid-layout-generator.pw/ - Grid generator
+* ~https://layoutit.com/build - Bootstrap Interface Builder~
+* ~https://layout.bradwoods.io - Grid & Flexbox generator~
+* ~https://grid.layoutit.com - Grid generator~
+* ~https://cssgrid-generator.netlify.app - Grid generator~
+* ~https://css-grid-layout-generator.pw/ - Grid generator~
 * ~http://css3generator.com/ - Flexbox and more generator~
-* https://cssflex-generator.netlify.app - Flexbox generator
-* https://flexbox.buildwithreact.com - Interactive flexbox
+* ~https://cssflex-generator.netlify.app - Flexbox generator~
+* ~https://flexbox.buildwithreact.com - Interactive flexbox~
 
 ### Media Queries
-* http://giona.net/tools/css3-mediaquery-generator/
-* http://tools51.nasqueron.org/css/media-queries-generator
+* ~http://giona.net/tools/css3-mediaquery-generator/~
+* ~http://tools51.nasqueron.org/css/media-queries-generator~
 
 ### Ribbon
-* https://doodlenerd.com/css-element/ribbon-generator - CSS Ribbon Generator
-* https://www.cssportal.com/css-ribbon-generator/ - CSS Ribbon Generator
-* https://www.cssportal.com/css-ribbon-banner-generator/ - CSS Ribbon Generator
+* ~https://doodlenerd.com/css-element/ribbon-generator - CSS Ribbon Generator~
+* ~https://www.cssportal.com/css-ribbon-generator/ - CSS Ribbon Generator~
+* ~https://www.cssportal.com/css-ribbon-banner-generator/ - CSS Ribbon Generator~
 
 ### Spinners
-* https://tobiasahlin.com/spinkit/
-* https://icons8.com/cssload/en/spinners
-* https://brandmark.io/font-generator/
+* ~https://tobiasahlin.com/spinkit/~
+* ~https://icons8.com/cssload/en/spinners~
+* ~https://brandmark.io/font-generator/~
 
 ### Tools
-* https://bennettfeely.com/clippy/ - CSS, Pie Chart, clip path, image effects, gradients, flexbox generators
-* http://extractcss.com/ - Extract css from html
-* https://codepen.io/stoumann/full/ - Clip path editor
-* http://autoprefixer.github.io - Parse CSS and add vendor prefixes
-* https://hero-generator.netlify.app - Hero Generator
-* https://wweb.dev/resources/css-separator-generator/ - CSS Section Separator Generator - `#css` `#tool` `#generator` `#separator`
-* https://wweb.dev/resources/navigation-generator/ - Navigation generator - `#css` `#html` `#generator` `#navbar` `#responsive`
-* https://w3bits.com/tools/masonry-generator/ - CSS Masonry Generator - `#css` `#generator` `#tool` `#responsive`
+* ~https://bennettfeely.com/clippy/ - CSS, Pie Chart, clip path, image effects, gradients, flexbox generators~
+* ~http://extractcss.com/ - Extract css from html~
+* ~https://codepen.io/stoumann/full/ - Clip path editor~
+* ~http://autoprefixer.github.io - Parse CSS and add vendor prefixes~
+* ~https://hero-generator.netlify.app - Hero Generator~
+* ~https://wweb.dev/resources/css-separator-generator/ - CSS Section Separator Generator - `#css` `#tool` `#generator` `#separator`~
+* ~https://wweb.dev/resources/navigation-generator/ - Navigation generator - `#css` `#html` `#generator` `#navbar` `#responsive`~
+* ~https://w3bits.com/tools/masonry-generator/ - CSS Masonry Generator - `#css` `#generator` `#tool` `#responsive`~
 
 ### Underline
 * https://underline-generator.netlify.app/?ref=undesign - CSS Underline Generator
