@@ -188,69 +188,69 @@
 * ~https://w3bits.com/tools/masonry-generator/ - CSS Masonry Generator - `#css` `#generator` `#tool` `#responsive`~
 
 ### Underline
-* https://underline-generator.netlify.app/?ref=undesign - CSS Underline Generator
-* https://cssbud.com/css-generator/css-underline-generator/ - CSS Underline Generator
+* ~https://underline-generator.netlify.app/?ref=undesign - CSS Underline Generator~
+* ~https://cssbud.com/css-generator/css-underline-generator/ - CSS Underline Generator~
 
 
 ## Color
-* https://hue360.herokuapp.com/ - Color Wheel
-* https://www.canva.com/colors/color-wheel/ - Color Wheel
-* http://dragdropsite.github.io/waterpipe.js/ - Pattern Generator
-* https://cssduotone.com/ - CSS Dual Tone generator
-* https://medialoot.com/duotones/ - Dual Tone Generator
-* https://duotone.shapefactory.co/ - Dual Tone Generator
-* https://contrast-finder.tanaguru.com - Contrast finder
-* https://colourcontrast.cc/ - Colour Contrast Checker
-* https://couleur.io - Create color palettes
-* https://www.happyhues.co/ - Curated colors in context
-* https://colorable.jxnblk.com/ - Text and background contrast viewer
-* https://picular.co/ - Find colors by keyword
-* https://colors.eva.design/ - Generate semantic colors from primary color
-* https://hihayk.github.io/scale/ - Color scale generator
-* https://pigment.shapefactory.co/ - Simple color palette generator
-* https://www.culrs.com/ - Color palettes
-* https://www.palettable.io/ - Color palettes
-* https://colorspark.app/ - Colors & Gradients
-* https://htmlcolorcodes.com/ - HTML color codes, Hex color codes, RGB and HSL values, Chart, HTML color names
-* https://www.huesnap.com/ - Color palettes
-* https://colorwise.io/ - Color palettes
-* http://brandcolors.net/ - Brand color palettes
-* https://paletton.com/ - Color scheme designer
-* https://hue.tools/ - Color toolbox
-* https://colorspectrum.design/ - Generate color palettes and apply instantly to anything
-* https://www.eggradients.com/ - Gradients
-* https://www.colorzilla.com/gradient-editor/ - Gradients
-* https://webgradients.com/ - Gradients
-* https://mycolor.space/gradient - Gradients
-* https://webkul.github.io/coolhue/ - Gradients
-* https://gradienthunt.com/ - Gradients
-* https://uigradients.com/ - Gradients
-* https://www.grabient.com/ - Gradients
-* https://mdigi.tools/gradient-generator/ - Gradients
-* https://coolors.co/ - Gradients, Palettes and Color Schemes Tools
-* https://www.conic.style - Gradients
-* https://cssgradient.io - Gradient Backgrounds
-* https://www.gradientmagic.com/ - CSS gradient gallery
-* https://mybrandnewlogo.com/de/farbverlaufsgenerator - Gradient generator
-* https://gradihunt.com - Gradients
-* http://www.colorsontheweb.com/Color-Tools/Color-Wizard - Palettes
-* https://colorpalettes.net/ - Palettes
-* https://colorhunt.co/ - Palettes
-* https://www.0to255.com/ - Palettes
-* https://color.hailpixel.com/ - Palettes
-* https://clrs.cc/ - Palettes
-* http://colormind.io/ - Palettes
-* https://colors.muz.li/ - Palettes
-* https://www.canva.com/colors/color-palette-generator/ - Palettes
-* https://mycolor.space/ - Palettes
-* https://color.adobe.com/create/color-wheel/ - Palettes
-* https://www.materialpalette.com/ - Palettes
-* http://www.colorexplorer.com/colorpicker.aspx - Palettes
-* https://www.colorpoint.io/free-tools-for-designers/color-tints-and-shades/ - Palettes
-* https://colormixer.web.app/ - Palettes
-* https://colourco.de/ - Palettes
-* https://cheekypalettes.com - Color palettes inspiration in context on pages
-* https://www.colorsandfonts.com/ - Plaettes
+* ~https://hue360.herokuapp.com/ - Color Wheel~
+* ~https://www.canva.com/colors/color-wheel/ - Color Wheel~
+* ~http://dragdropsite.github.io/waterpipe.js/ - Pattern Generator~
+* ~https://cssduotone.com/ - CSS Dual Tone generator~
+* ~https://medialoot.com/duotones/ - Dual Tone Generator~
+* ~https://duotone.shapefactory.co/ - Dual Tone Generator~
+* ~https://contrast-finder.tanaguru.com - Contrast finder~
+* ~https://colourcontrast.cc/ - Colour Contrast Checker~
+* ~https://couleur.io - Create color palettes~
+* ~https://www.happyhues.co/ - Curated colors in context~
+* ~https://colorable.jxnblk.com/ - Text and background contrast viewer~
+* ~https://picular.co/ - Find colors by keyword~
+* ~https://colors.eva.design/ - Generate semantic colors from primary color~
+* ~https://hihayk.github.io/scale/ - Color scale generator~
+* ~https://pigment.shapefactory.co/ - Simple color palette generator~
+* ~https://www.culrs.com/ - Color palettes~
+* ~https://www.palettable.io/ - Color palettes~
+* ~https://colorspark.app/ - Colors & Gradients~
+* ~https://htmlcolorcodes.com/ - HTML color codes, Hex color codes, RGB and HSL values, Chart, HTML color names~
+* ~https://www.huesnap.com/ - Color palettes~
+* ~https://colorwise.io/ - Color palettes~
+* ~http://brandcolors.net/ - Brand color palettes~
+* ~https://paletton.com/ - Color scheme designer~
+* ~https://hue.tools/ - Color toolbox~
+* ~https://colorspectrum.design/ - Generate color palettes and apply instantly to anything~
+* ~https://www.eggradients.com/ - Gradients~
+* ~https://www.colorzilla.com/gradient-editor/ - Gradients~
+* ~https://webgradients.com/ - Gradients~
+* ~https://mycolor.space/gradient - Gradients~
+* ~https://webkul.github.io/coolhue/ - Gradients~
+* ~https://gradienthunt.com/ - Gradients
+* ~https://uigradients.com/ - Gradients~
+* ~https://www.grabient.com/ - Gradients~
+* ~https://mdigi.tools/gradient-generator/ - Gradients~
+* ~https://coolors.co/ - Gradients, Palettes and Color Schemes Tools~
+* ~https://www.conic.style - Gradients~
+* ~https://cssgradient.io - Gradient Backgrounds~
+* ~https://www.gradientmagic.com/ - CSS gradient gallery~
+* ~https://mybrandnewlogo.com/de/farbverlaufsgenerator - Gradient generator~
+* ~https://gradihunt.com - Gradients~
+* ~http://www.colorsontheweb.com/Color-Tools/Color-Wizard - Palettes~
+* ~https://colorpalettes.net/ - Palettes~
+* ~https://colorhunt.co/ - Palettes~
+* ~https://www.0to255.com/ - Palettes~
+* ~https://color.hailpixel.com/ - Palettes~
+* ~https://clrs.cc/ - Palettes~
+* ~http://colormind.io/ - Palettes~
+* ~https://colors.muz.li/ - Palettes~
+* ~https://www.canva.com/colors/color-palette-generator/ - Palettes~
+* ~https://mycolor.space/ - Palettes~
+* ~https://color.adobe.com/create/color-wheel/ - Palettes~
+* ~https://www.materialpalette.com/ - Palettes~
+* ~http://www.colorexplorer.com/colorpicker.aspx - Palettes~
+* ~https://www.colorpoint.io/free-tools-for-designers/color-tints-and-shades/ - Palettes~
+* ~https://colormixer.web.app/ - Palettes~
+* ~https://colourco.de/ - Palettes~
+* ~https://cheekypalettes.com - Color palettes inspiration in context on pages~
+* ~https://www.colorsandfonts.com/ - Plaettes~
 
 
 ## Data
@@ -340,110 +340,110 @@
 
 
 ## Design systems
-* https://material.io/design
-* https://polaris.shopify.com/
-* https://atlassian.design/
-* https://www.carbondesignsystem.com/
-* https://design.wonderflow.ai/
-* https://www.bbc.co.uk/gel
-* https://spectrum.adobe.com/
-* https://design.gs.com/home
-* https://experience.sap.com/fiori-design/
-* https://backpack.github.io/
-* https://garden.zendesk.com/
-* https://www.momentum.design/
-* https://liferay.design/lexicon/
-* https://design.firefox.com/photon/
+* ~https://material.io/design~
+* ~https://polaris.shopify.com/~
+* ~https://atlassian.design/~
+* ~https://www.carbondesignsystem.com/~
+* ~https://design.wonderflow.ai/~
+* ~https://www.bbc.co.uk/gel~
+* ~https://spectrum.adobe.com/~
+* ~https://design.gs.com/home~
+* ~https://experience.sap.com/fiori-design/~
+* ~https://backpack.github.io/~
+* ~https://garden.zendesk.com/~
+* ~https://www.momentum.design/~
+* ~https://liferay.design/lexicon/~
+* ~https://design.firefox.com/photon/~
 
 
 ## Favicon
-* https://favicon.io/ - Favicon Generator
-* https://www.favicon-generator.org/ - Favicon Generator
-* https://www.favicon.cc/ - Favicon Generator
-* https://formito.com/tools - Favicon, Logo Maker
+* ~https://favicon.io/ - Favicon Generator~
+* ~https://www.favicon-generator.org/ - Favicon Generator~
+* ~https://www.favicon.cc/ - Favicon Generator~
+* ~https://formito.com/tools - Favicon, Logo Maker~
 
 
 ## Font & Typography
-* https://www.dafont.com - Schriftarten zum Download
-* https://www.1001freefonts.com - 1001 free fonts
-* https://fonts.adobe.com - Zahllose Schriftarten kennenlernen
-* https://fonts.google.com - Making the web more beautiful, fast, and open through great typography
-* https://freetypography.com - FreeTypography - The best free fonts, typefaces and typography
-* https://www.fontsquirrel.com - Legit Free & Quality for commercial use
-* http://pxtoem.com/ - PX to EM conversion w. CSS output
-* https://type-scale.com/ - Visual calculator w. CSS output - `#css` `#tool` `#font`
-* https://fluid-typography.netlify.app - Create text that scales with the window size
-* https://seek-oss.github.io/capsize/ - Sizing and layout
-* https://textpop3d.web.app - Create 3d text animation
-* https://usefonts.netlify.app - Preview google fonts with a mock website
-* https://maximeroudier.com/typeScaleClampGenerator/ - Type Scale Clamp Generator
-* https://www.thegoodlineheight.com - Test line height
-* https://www.mixfont.com/ - combine fonts
+* ~https://www.dafont.com - Schriftarten zum Download~
+* ~https://www.1001freefonts.com - 1001 free fonts~
+* ~https://fonts.adobe.com - Zahllose Schriftarten kennenlernen~
+* ~https://fonts.google.com - Making the web more beautiful, fast, and open through great typography~
+* ~https://freetypography.com - FreeTypography - The best free fonts, typefaces and typography~
+* ~https://www.fontsquirrel.com - Legit Free & Quality for commercial use~
+* ~http://pxtoem.com/ - PX to EM conversion w. CSS output~
+* ~https://type-scale.com/ - Visual calculator w. CSS output - `#css` `#tool` `#font`~
+* ~https://fluid-typography.netlify.app - Create text that scales with the window size~
+* ~https://seek-oss.github.io/capsize/ - Sizing and layout~
+* ~https://textpop3d.web.app - Create 3d text animation~
+* ~https://usefonts.netlify.app - Preview google fonts with a mock website~
+* ~https://maximeroudier.com/typeScaleClampGenerator/ - Type Scale Clamp Generator~
+* ~https://www.thegoodlineheight.com - Test line height~
+* ~https://www.mixfont.com/ - combine fonts~
 
 
 ## Icon
-* https://material.io/resources/icons/ - Google material icons
-* https://thenounproject.com/ - Icons and Photos For Everything
-* https://origin.fontawesome.com/ - The well known free icons
-* https://fontello.com/ - Icon Fonts Generator
-* https://www.flaticon.com/ - Vector Icons
-* https://iconscout.com/ - Icons
-* https://feathericons.com/ - Simply beautiful open source icons
-* https://css.gg/app
-* https://jam-icons.com/
-* https://lineicons.com/icons/
-* https://fonts.google.com/icons?selected=Material+Icons
-* https://iconmonstr.com/
-* https://icons.pixsellz.io/
-* https://www.iconshock.com/svg-icons/
-* https://icons8.com/icons - Icons, illustrations, photos, music, and design tools
-* https://www.freepik.com - Graphic resources for everyone
-* https://www.iconninja.com/
-* https://www.svgrepo.com/
-* https://mariodelvalle.github.io/CaptainIconWeb/
-* https://www.smplkit.com/
-* https://www.iconify.pro - Convert jpg/png to icons for multiple platforms
-* https://formito.com/tools/favicon - Icon maker svg/png letter or emoji
-* https://icon.kitchen - App Icon Generator for Web, Ios, Macos w. preview
-* http://iconsizer.com - Get the right resolutions of your icon for all devices
-* https://iconfinder.com/
-* https://iconer.app
+* ~https://material.io/resources/icons/ - Google material icons~
+* ~https://thenounproject.com/ - Icons and Photos For Everything~
+* ~https://origin.fontawesome.com/ - The well known free icons~
+* ~https://fontello.com/ - Icon Fonts Generator~
+* ~https://www.flaticon.com/ - Vector Icons~
+* ~https://iconscout.com/ - Icons~
+* ~https://feathericons.com/ - Simply beautiful open source icons~
+* ~https://css.gg/app~
+* ~https://jam-icons.com/~
+* ~https://lineicons.com/icons/~
+* ~https://fonts.google.com/icons?selected=Material+Icons~
+* ~https://iconmonstr.com/~
+* ~https://icons.pixsellz.io/~
+* ~https://www.iconshock.com/svg-icons/~
+* ~https://icons8.com/icons - Icons, illustrations, photos, music, and design tools~
+* ~https://www.freepik.com - Graphic resources for everyone~
+* ~https://www.iconninja.com/~
+* ~https://www.svgrepo.com/~
+* ~https://mariodelvalle.github.io/CaptainIconWeb/~
+* ~https://www.smplkit.com/~
+* ~https://www.iconify.pro - Convert jpg/png to icons for multiple platforms~
+* ~https://formito.com/tools/favicon - Icon maker svg/png letter or emoji~
+* ~https://icon.kitchen - App Icon Generator for Web, Ios, Macos w. preview~
+* ~http://iconsizer.com - Get the right resolutions of your icon for all devices~
+* ~https://iconfinder.com/~
+* ~https://iconer.app~
 
 
 ## Illustrations
-* https://undraw.co/illustrations
-* https://www.drawkit.io/
-* https://iconscout.com/
-* https://www.karthiksrinivas.in/poke
-* https://www.opendoodles.com/
-* https://lukaszadam.com/illustrations
-* https://iradesign.io/
-* https://mixkit.co/free-stock-art/
-* https://2.flexiple.com/scale/all-illustrations
-* https://sleekbundle.com/product/pulse-illustration-kit/
-* https://geeme.vercel.app/
-* https://absurd.design/#slide-6
-* https://thenounproject.com/
-* https://fresh-folk.com/
-* https://www.rawpixel.com/search/illustration?sort=curated&amp
-* https://webpixels.io/illustrations
-* https://delesign.com/free-designs/graphics/
-* https://www.manypixels.co/gallery
-* https://icons8.com/illustrations
-* https://lab.streamlinehq.com/ - 100,000 icons, illustrations and emoji for all your projects
-* https://lucid.pixsellz.io/
-* https://control.rocks/
-* https://niceillustrations.com/free-illustrations/
-* https://www.pixeltrue.com/packs
-* https://isometric.online/
-* https://storyset.com/
-* https://www.openpeeps.com/
-* https://www.blackillustrations.com/
-* https://freeillustrations.xyz/
-* https://illlustrations.co/
-* https://www.getillustrations.com/illustration-packs
-* https://craftwork.design
-* https://www.humaaans.com - Illustrations of people
+* ~https://undraw.co/illustrations~
+* ~https://www.drawkit.io/~
+* ~https://iconscout.com/~
+* ~https://www.karthiksrinivas.in/poke~
+* ~https://www.opendoodles.com/~
+* ~https://lukaszadam.com/illustrations~
+* ~https://iradesign.io/~
+* ~https://mixkit.co/free-stock-art/~
+* ~https://2.flexiple.com/scale/all-illustrations~
+* ~https://sleekbundle.com/product/pulse-illustration-kit/~
+* ~https://geeme.vercel.app/~
+* ~https://absurd.design/#slide-6~
+* ~https://thenounproject.com/~
+* ~https://fresh-folk.com/~
+* ~https://www.rawpixel.com/search/illustration?sort=curated&amp~
+* ~https://webpixels.io/illustrations~
+* ~https://delesign.com/free-designs/graphics/~
+* ~https://www.manypixels.co/gallery~
+* ~https://icons8.com/illustrations~
+* ~https://lab.streamlinehq.com/ - 100,000 icons, illustrations and emoji for all your ~
+* ~https://lucid.pixsellz.io/~
+* ~https://control.rocks/~
+* ~https://niceillustrations.com/free-illustrations/~
+* ~https://www.pixeltrue.com/packs~
+* ~https://isometric.online/~
+* ~https://storyset.com/~
+* ~https://www.openpeeps.com/~
+* ~https://www.blackillustrations.com/~
+* ~https://freeillustrations.xyz/~
+* ~https://illlustrations.co/~
+* ~https://www.getillustrations.com/illustration-packs~
+* ~https://craftwork.design~
+* ~https://www.humaaans.com - Illustrations of people~
 
 
 ## Inspiration
@@ -518,36 +518,36 @@
 
 
 ## Mockups
-* https://mckups.com
-* https://www.mockupworld.co
-* https://smartmockups.com
-* https://mockuuups.studio
-* https://pixelbuddha.net
-* https://psdrepo.com
-* https://mockupmark.com
-* https://mockups-design.com
-* https://www.anthonyboyd.graphics
-* https://goodmockups.com
-* https://mrmockup.com
-* https://www.pixelsurplus.com
-* https://placeit.net
-* https://www.premiumpixels.com
-* https://dealjumbo.com
-* https://graphicburger.com
-* https://www.pixeden.com - Print, Webs, Icons, Vectors, Graphics freebies
-* https://www.ls.graphics
-* https://unblast.com
-* https://mockup.ceacle.com
-* https://psdhands.com
-* https://shotsnapp.com
-* https://dimmy.club - Apple Device mockup generator for screenshots
-* https://www.free-mockup.com
-* https://mockups-design.com
-* https://www.graphberry.com
-* https://www.mockmagic.com/ - Apple Device mockups
-* https://mockupbro.com - Create Mockups Online
-* https://www.screely.com - Generate Website Mockups Instantly
-* https://themockup.club/ - Free Mockups
+* ~https://mckups.com~
+* ~https://www.mockupworld.co~
+* ~https://smartmockups.com~
+* ~https://mockuuups.studio~
+* ~https://pixelbuddha.net~
+* ~https://psdrepo.com~
+* ~https://mockupmark.com~
+* ~https://mockups-design.com~
+* ~https://www.anthonyboyd.graphics~
+* ~https://goodmockups.com~
+* ~https://mrmockup.com~
+* ~https://www.pixelsurplus.com~
+* ~https://placeit.net~
+* ~https://www.premiumpixels.com~
+* ~https://dealjumbo.com~
+* ~https://graphicburger.com~
+* ~https://www.pixeden.com - Print, Webs, Icons, Vectors, Graphics freebies~
+* ~https://www.ls.graphics~
+* ~https://unblast.com~
+* ~https://mockup.ceacle.com~
+* ~https://psdhands.com~
+* ~https://shotsnapp.com~
+* ~https://dimmy.club - Apple Device mockup generator for screenshots~
+* ~https://www.free-mockup.com~
+* ~https://mockups-design.com~
+* ~https://www.graphberry.com~
+* ~https://www.mockmagic.com/ - Apple Device mockups~
+* ~https://mockupbro.com - Create Mockups Online~
+* ~https://www.screely.com - Generate Website Mockups Instantly~
+* ~https://themockup.club/ - Free Mockups~
 
 ## News
 * https://devurls.com/ - A neat developer news aggregator
