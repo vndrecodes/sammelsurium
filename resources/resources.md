@@ -550,8 +550,8 @@
 * ~https://themockup.club/ - Free Mockups~
 
 ## News
-* https://devurls.com/ - A neat developer news aggregator
-* https://techurls.com/ - A neat technology news aggregator
+* ~https://devurls.com/ - A neat developer news aggregator~
+* ~https://techurls.com/ - A neat technology news aggregator~
 
 
 ## SEO
@@ -649,69 +649,69 @@
 * https://online-free-tools.com/en/index - `#minify` `#beautify` `#css` `#html` `#password` `#generators` `#tools` `#hash` `#base64` `#seo` `#robots` `#converter` `#xml` `#json` `#htaccess`
 
 ### Draw
-* https://draw.io - Flowchart Maker
-* https://www.tldraw.com/ - Similar to draw.io
-* https://dbdiagram.io/ - Draw ER Diagrams w. code
-* https://jspaint.app/ - Online MS Paint
-* https://canvaspaint.org/ - Online MS Paint
-* https://asciiflow.com/ - Draw ascii pictures
-* https://kleki.com/ - Canvas always within reach
-* https://www.youidraw.com/apps/painter/ - Another canvas
-* https://sketch.io/sketchpad/ - And another canvas
-* https://www.nomnoml.com - A tool for drawing UML diagrams
-* https://wireframe.cc/ - Online wireframing tool
-* https://dbdiagram.io/ - Draw Entity-Relationship Diagrams
-* https://www.photopea.com - Online Photo Editor
-* https://excalidraw.com/ - Virtual collaborative whiteboard tool
+* ~https://draw.io - Flowchart Maker~
+* ~https://www.tldraw.com/ - Similar to draw.io~
+* ~https://dbdiagram.io/ - Draw ER Diagrams w. code~
+* ~https://jspaint.app/ - Online MS Paint~
+* ~https://canvaspaint.org/ - Online MS Paint~
+* ~https://asciiflow.com/ - Draw ascii pictures~
+* ~https://kleki.com/ - Canvas always within reach~
+* ~https://www.youidraw.com/apps/painter/ - Another canvas~
+* ~https://sketch.io/sketchpad/ - And another canvas~
+* ~https://www.nomnoml.com - A tool for drawing UML diagrams~
+* ~https://wireframe.cc/ - Online wireframing tool~
+* ~https://dbdiagram.io/ - Draw Entity-Relationship Diagrams~
+* ~https://www.photopea.com - Online Photo Editor~
+* ~https://excalidraw.com/ - Virtual collaborative whiteboard tool~
 
 ### Editors
-* https://codepen.io - html, css, js, codeplayground
-* https://jsbin.com/ - html, css, js, codeplayground
-* https://jsfiddle.net - html, css, js, codeplayground
-* https://plnkr.co - js (react, angular), codeplayground
-* https://stackedit.io - Markdown w. UML & Latex support
-* https://cssdeck.com/ - html, css, js, codeplayground
-* https://codesandbox.io/ - html, css, js, codeplayground
-* https://playcode.io/html - html, css, js, codeplayground
-* https://liveweave.com/ - html, css, js, codeplayground
+* ~https://codepen.io - html, css, js, codeplayground~
+* ~https://jsbin.com/ - html, css, js, codeplayground~
+* ~https://jsfiddle.net - html, css, js, codeplayground~
+* ~https://plnkr.co - js (react, angular), codeplayground~
+* ~https://stackedit.io - Markdown w. UML & Latex support~
+* ~https://cssdeck.com/ - html, css, js, codeplayground~
+* ~https://codesandbox.io/ - html, css, js, codeplayground~
+* ~https://playcode.io/html - html, css, js, codeplayground~
+* ~https://liveweave.com/ - html, css, js, codeplayground~
 
 ### Git
-* https://gitexplorer.com - Git Command Explorer
-* https://rahuldkjain.github.io/gh-profile-readme-generator/ - GitHub Profile README Generator
-* https://www.toptal.com/developers/gitignore - Git ignore generator
-* https://readme.so/ - Clickable Readme editor
-* https://badgen.net/ - Badge Generator
+* ~https://gitexplorer.com - Git Command Explorer~
+* ~https://rahuldkjain.github.io/gh-profile-readme-generator/ - GitHub Profile README Generator~
+* ~https://www.toptal.com/developers/gitignore - Git ignore generator~
+* ~https://readme.so/ - Clickable Readme editor~
+* ~https://badgen.net/ - Badge Generator~
 
 ### Images
-* https://tinypng.com/ - PNG and JPEG image compression
-* https://compressor.io/ - Compress images
-* https://convert2svg.com - Convert image to svg
-* https://www.erase.bg/ - Erase background
-* https://screenshot.guru/ - Take high-resolution screen captures of websites
-* https://www.remove.bg/ - Remove background - `#tool` `#image`
+* ~https://tinypng.com/ - PNG and JPEG image compression~
+* ~https://compressor.io/ - Compress images~
+* ~https://convert2svg.com - Convert image to svg~
+* ~https://www.erase.bg/ - Erase background~
+* ~https://screenshot.guru/ - Take high-resolution screen captures of websites~
+* ~https://www.remove.bg/ - Remove background - `#tool` `#image`~
 
 ### Networking
-* https://dnsspy.io/ - DNS Monitor
-* https://viewdns.info - Networking tools
-* https://dnsdumpster.com - View DNS as graph
-* https://ceipam.eu/en/dnslookup.php - Check multiple DNS Servers (propagation)
-* https://whois.cynthia.re/whois/ - Online whois
-* https://hoppscotch.io/de - Like Postman
+* ~https://dnsspy.io/ - DNS Monitor~
+* ~https://viewdns.info - Networking tools~
+* ~https://dnsdumpster.com - View DNS as graph~
+* ~https://ceipam.eu/en/dnslookup.php - Check multiple DNS Servers (propagation)~
+* ~https://whois.cynthia.re/whois/ - Online whois~
+* ~https://hoppscotch.io/de - Like Postman~
 
 ### Regex
-* https://ihateregex.io/ - Sample Regex
-* https://regexr.com - Favorite Regex Tester
-* https://regex101.com - build, test and debug regex
-* https://www.regextester.com - Regex and other tools
+* ~https://ihateregex.io/ - Sample Regex~
+* ~https://regexr.com - Favorite Regex Tester~
+* ~https://regex101.com - build, test and debug regex~
+* ~https://www.regextester.com - Regex and other tools~
 
 ### Other
-* https://crontab.guru/ - The quick and simple editor for cron schedule expressions
-* https://www.digitalocean.com/community/tools/nginx - NGINXConfig generator
-* https://www.digitalocean.com/community/tools/minify - JavaScript minify tool
+* ~https://crontab.guru/ - The quick and simple editor for cron schedule expressions~
+* ~https://www.digitalocean.com/community/tools/nginx - NGINXConfig generator~
+* ~https://www.digitalocean.com/community/tools/minify - JavaScript minify tool~
 
 ### SQL
-* https://www.jooq.org/diff/ - Compare schemas
-* https://www.jooq.org/translate/ - Translate dialects
+* ~https://www.jooq.org/diff/ - Compare schemas~
+* ~https://www.jooq.org/translate/ - Translate dialects~
 
 
 ## Tips, Tricks, Best Practices
@@ -731,36 +731,36 @@
 
 ---
 #### Text, Formatter, Validatior, Security, Encoder, Converter, Network Tools
-* https://codebeautify.org - A lot of tools for almost everything
-* https://ss64.com/ - Linux, macos, Windows Swiss Army Knife
-* https://toolbox.googleapps.com/ - Dig, Kodierer, JSON Formatter
-* https://www.appdevtools.com - Text, Validatiors, Formatters, Converters, Encoders, Network Tools, Password generator
-* https://stevecat.net/table-magic/table-magic - Markdown to SQL to CSV to FORM to HTML
-* https://www.askapache.com/online-tools/ - ASCII Figlets, htpasswd generator, CSS compressor, JS code beautifier
-* https://htpasswdgenerator.de/ - htpasswd generator
-* https://all-inkl.com/wichtig/htaccessgenerator/ - .htaccess Generator
-* https://unminify.com/ - unminify JavaScript, CSS, HTML, XML and JSON code
-* https://smalldev.tools/ - Encoders, Formatters, Data generators
-* https://gchq.github.io/CyberChef/ - Data, Encoding, Encryption, Networking, Language, Text, Extractors, Multimedia
-* https://webcode.tools/ - Html, CSS, JSON-LD generator
-* https://omatsuri.app/ - Triangle, Color shades, Gradient, Fake data generator
-* https://tinywow.com/ - Pdf, Video, Image, File, tools
+* ~https://codebeautify.org - A lot of tools for almost everything~
+* ~https://ss64.com/ - Linux, macos, Windows Swiss Army Knife~
+* ~https://toolbox.googleapps.com/ - Dig, Kodierer, JSON Formatter~
+* ~https://www.appdevtools.com - Text, Validatiors, Formatters, Converters, Encoders, Network Tools, Password generator~
+* ~https://stevecat.net/table-magic/table-magic - Markdown to SQL to CSV to FORM to HTML~
+* ~https://www.askapache.com/online-tools/ - ASCII Figlets, htpasswd generator, CSS compressor, JS code beautifier~
+* ~https://htpasswdgenerator.de/ - htpasswd generator~
+* ~https://all-inkl.com/wichtig/htaccessgenerator/ - .htaccess Generator~
+* ~https://unminify.com/ - unminify JavaScript, CSS, HTML, XML and JSON code~
+* ~https://smalldev.tools/ - Encoders, Formatters, Data generators~
+* ~https://gchq.github.io/CyberChef/ - Data, Encoding, Encryption, Networking, Language, Text, Extractors, Multimedia~
+* ~https://webcode.tools/ - Html, CSS, JSON-LD generator~
+* ~https://omatsuri.app/ - Triangle, Color shades, Gradient, Fake data generator~
+* ~https://tinywow.com/ - Pdf, Video, Image, File, tools~
 
 #### Misc
-* https://www.desmos.com/calculator - Graph Calculator
-* https://billdogg.com/ - Create Invoices Online
-* https://getmanta.app/ - Invocing Application
-* https://www.throwawaymail.com - Temporary e-mail address
-* https://guerrillamail.com - Temporary e-mail address
-* https://10minutemail.com/ - Temporary Email
-* https://www.whatruns.com/ - Discover what runs a website
-* https://www.transfernow.net - Send files
-* https://www.swisstransfer.com - Send files
-* https://drop.infini.fr - Send files
-* https://www.jsv9000.app/ - JavaScript visualize js code execution (event loop, async calls...)
-* https://algorithm-visualizer.org/ - Visualize algorithms
-* https://code2art.jetbrains.com/ - Jetbrains Wallpaper Generator
-* https://namingmyfunction.vercel.app - I don't know how to name my function
-* https://www.xml-sitemaps.com - Sitemap generator
-* https://www.privacytools.io/ -  Services, Tools and Privacy guides - `#tool` `#privacy` `#guides`
-* https://ffprofile.com/ - Firefox Profilemaker - `#firefox` `#tool`
+* ~https://www.desmos.com/calculator - Graph Calculator~
+* ~https://billdogg.com/ - Create Invoices Online~
+* ~https://getmanta.app/ - Invocing Application~
+* ~https://www.throwawaymail.com - Temporary e-mail address~
+* ~https://guerrillamail.com - Temporary e-mail address~
+* ~https://10minutemail.com/ - Temporary Email~
+* ~https://www.whatruns.com/ - Discover what runs a website~
+* ~https://www.transfernow.net - Send files~
+* ~https://www.swisstransfer.com - Send files~
+* ~https://drop.infini.fr - Send files~
+* ~https://www.jsv9000.app/ - JavaScript visualize js code execution (event loop, async calls...)~
+* ~https://algorithm-visualizer.org/ - Visualize algorithms~
+* ~https://code2art.jetbrains.com/ - Jetbrains Wallpaper Generator~
+* ~https://namingmyfunction.vercel.app - I don't know how to name my function~
+* ~https://www.xml-sitemaps.com - Sitemap generator~
+* ~https://www.privacytools.io/ -  Services, Tools and Privacy guides - `#tool` `#privacy` `#guides`~
+* ~https://ffprofile.com/ - Firefox Profilemaker - `#firefox` `#tool`~
