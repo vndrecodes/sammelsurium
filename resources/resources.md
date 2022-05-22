@@ -32,23 +32,23 @@
 
 
 ## Cheatsheets / References
-* https://devhints.io - Nice to use cheatsheet collection
-* https://devdocs.io - Multiple developer documentations in a clean and organized web UI
-* https://overapi.com - Cheatsheets / Quick References
-* https://github.com/kettanaito/naming-cheatsheet - Naming Cheatsheet
-* https://grid.malven.co/ - CSS grid cheatsheet
-* https://cssreference.io/ - Visual CSS guide / reference sheet
-* https://htmlreference.io/ - Visual HTML guide / reference sheet
-* https://ilovecoding.org/blog/js-cheatsheet - JS Cheatsheet
-* https://shortcode.dev/ - cli, css, html, js, md, node, wordpress code snippets
-* https://1loc.dev/ - js single line statements
-* http://apps.workflower.fi/vocabs/css/en#string - CSS Vocabulary
-* http://apps.workflower.fi/vocabs/html/en - HTML Vocabulary
-* https://mac-blog.org.ua/css-3-media-queries-cheat-sheet - CSS Media Queries
-* https://github.com/LeCoupa/awesome-cheatsheets - Cheatsheets list
-* https://tympanus.net/codrops/css_reference/ - CSS Reference
-* https://adam-marsden.co.uk/css-cheat-sheet - CSS CheatSheet / A reference for CSS goodness
-* https://cssguidelin.es -
+* ~https://devhints.io - Nice to use cheatsheet collection~
+* ~https://devdocs.io - Multiple developer documentations in a clean and organized web UI~
+* ~https://overapi.com - Cheatsheets / Quick References~
+* ~https://github.com/kettanaito/naming-cheatsheet - Naming Cheatsheet~
+* ~https://grid.malven.co/ - CSS grid cheatsheet~
+* ~https://cssreference.io/ - Visual CSS guide / reference sheet~
+* ~https://htmlreference.io/ - Visual HTML guide / reference sheet~
+* ~https://ilovecoding.org/blog/js-cheatsheet - JS Cheatsheet~
+* ~https://shortcode.dev/ - cli, css, html, js, md, node, wordpress code snippets~
+* ~https://1loc.dev/ - js single line statements~
+* ~http://apps.workflower.fi/vocabs/css/en#string - CSS Vocabulary~
+* ~http://apps.workflower.fi/vocabs/html/en - HTML Vocabulary~
+* ~https://mac-blog.org.ua/css-3-media-queries-cheat-sheet - CSS Media Queries~
+* ~https://github.com/LeCoupa/awesome-cheatsheets - Cheatsheets list~
+* ~https://tympanus.net/codrops/css_reference/ - CSS Reference~
+* ~https://adam-marsden.co.uk/css-cheat-sheet - CSS CheatSheet / A reference for CSS goodness~
+* ~https://cssguidelin.es -~
 
 
 ## Checklist
