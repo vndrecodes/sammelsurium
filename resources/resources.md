@@ -571,82 +571,82 @@
 
 
 ## Stock Assets (Photos, Videos, Music)
-* https://mixkit.co/ - Stock Photos, Art, Video Clips, Music, Sound Effects & Video Templates
-* https://pixabay.com/ - Stock images, videos and music
-* https://focastock.com/ - Photos, Videos, Templates
-* https://uppbeat.io/ - Free Music
-* https://coverr.co/ - Free Videos
-* https://www.vecteezy.com - Free Vector Art, Stock Photos & Stock Videos
-* https://unsplash.com - The internet’s source of freely-usable images.
-* https://www.pexels.com/de-de/ - Kostenlose Fotos, lizenzfreie Bilder und Videos
-* https://www.freeimages.com - Royalty-free photos by subject free for personal and commercial use
-* https://www.lifeofpix.com - Free high resolution photography
-* https://lifeofvids.com - Free Videos, Clips & Loops
-* https://kaboompics.com - Free stock photography + color palettes
-* https://www.gettyimages.at - Lizenzfreie Stock-Fotos, Illustrationen, Vektor-Grafiken und Videoclips
-* https://isorepublic.com/ - Stock images & videos
-* https://negativespace.co/ - Stock images
-* https://freenaturestock.com/ - Nature stock photos and videos
-* https://www.reshot.com/ - Icons, Illustrations & Photos
-* https://burst.shopify.com/ - Stock photos
-* https://www.librestock.com/ - Stock photos
-* https://www.stockio.com/ - Photos, Vectors, Icons, Fonts and Videos
-* https://www.pxfuel.com/ - Stock photos
-* https://de.depositphotos.com - Lizenzfreie Stock Photos, Vector Images, Videos and Music
+* ~https://mixkit.co/ - Stock Photos, Art, Video Clips, Music, Sound Effects & Video Templates~
+* ~https://pixabay.com/ - Stock images, videos and music~
+* ~https://focastock.com/ - Photos, Videos, Templates~
+* ~https://uppbeat.io/ - Free Music~
+* ~https://coverr.co/ - Free Videos~
+* ~https://www.vecteezy.com - Free Vector Art, Stock Photos & Stock Videos~
+* ~https://unsplash.com - The internet’s source of freely-usable images.~
+* ~https://www.pexels.com/de-de/ - Kostenlose Fotos, lizenzfreie Bilder und Videos~
+* ~https://www.freeimages.com - Royalty-free photos by subject free for personal and commercial use~
+* ~https://www.lifeofpix.com - Free high resolution photography~
+* ~https://lifeofvids.com - Free Videos, Clips & Loops~
+* ~https://kaboompics.com - Free stock photography + color palettes~
+* ~https://www.gettyimages.at - Lizenzfreie Stock-Fotos, Illustrationen, Vektor-Grafiken und Videoclips~
+* ~https://isorepublic.com/ - Stock images & videos~
+* ~https://negativespace.co/ - Stock images~
+* ~https://freenaturestock.com/ - Nature stock photos and videos~
+* ~https://www.reshot.com/ - Icons, Illustrations & Photos~
+* ~https://burst.shopify.com/ - Stock photos~
+* ~https://www.librestock.com/ - Stock photos~
+* ~https://www.stockio.com/ - Photos, Vectors, Icons, Fonts and Videos~
+* ~https://www.pxfuel.com/ - Stock photos~
+* ~https://de.depositphotos.com - Lizenzfreie Stock Photos, Vector Images, Videos and Music~
 
 
 ## SVG Shapes / Patterns
-* https://www.blobmaker.app/
-* https://squircley.app/
-* https://www.softr.io/tools/svg-shape-generator
-* https://blobs.app/
-* https://chartgen.frederickallen.co/pie.html
-* https://www.outpan.com/app/9aaaf27303/svg-gradient-wave-generator
-* https://wavelry.vercel.app/
-* https://www.softr.io/tools/svg-wave-generator
-* https://getwaves.io/
-* https://svgwave.in/
-* https://app.haikei.app/
-* https://www.svgwaves.io/?ref=undesign
-* https://www.shapedivider.app/
-* https://omatsuri.app/page-dividers
-* https://www.svgbackgrounds.com/
-* http://www.heropatterns.com/
-* https://philiprogers.com/svgpatterns/
-* http://thepatternlibrary.com/
-* http://www.kennethcachia.com/plain-pattern/
-* https://patternico.com/
-* https://products.ls.graphics/paaatterns/preview.html
-* https://coolbackgrounds.io/
-* http://btmills.github.io/geopattern/
-* https://bgjar.com/
-* https://www.svgeez.com/
-* https://patternpad.com/editor.html
-* https://tartanify.com/tartan/lyon-jeffrey-m-hunting-personal
-* http://bg.siteorigin.com/
-* https://tabbied.com/select-artwork
-* https://www.visiwig.com/patterns/
-* https://patterninja.com/
-* https://online-free-tools.com/en/css_pattern_generator_background
-* http://www.patternify.com/
-* https://wweb.dev/resources/animated-css-background-generator/
-* https://stripesgenerator.com/
-* https://patternizer.com/yy47/72
-* https://doodad.dev/pattern-generator/
-* https://superdesigner.co/tools/css-backgrounds
-* https://patterns.helloyes.dev - Basic patterns
-* https://www.magicpattern.design/tools/css-backgrounds
-* https://trianglify.io/ - Poly patterns
-* https://www.shapedivider.app/ - Shape generator
-* https://9elements.github.io/fancy-border-radius/ - Fancy-Border-Radius
+* ~https://www.blobmaker.app/~
+* ~https://squircley.app/~
+* ~https://www.softr.io/tools/svg-shape-generator~
+* ~https://blobs.app/~
+* ~https://chartgen.frederickallen.co/pie.html~
+* ~https://www.outpan.com/app/9aaaf27303/svg-gradient-wave-generator~
+* ~https://wavelry.vercel.app/~
+* ~https://www.softr.io/tools/svg-wave-generator~
+* ~https://getwaves.io/~
+* ~https://svgwave.in/~
+* ~https://app.haikei.app/~
+* ~https://www.svgwaves.io/?ref=undesign~
+* ~https://www.shapedivider.app/~
+* ~https://omatsuri.app/page-dividers~
+* ~https://www.svgbackgrounds.com/~
+* ~http://www.heropatterns.com/~
+* ~https://philiprogers.com/svgpatterns/~
+* ~http://thepatternlibrary.com/~
+* ~http://www.kennethcachia.com/plain-pattern/~
+* ~https://patternico.com/~
+* ~https://products.ls.graphics/paaatterns/preview.html~
+* ~https://coolbackgrounds.io/~
+* ~http://btmills.github.io/geopattern/~
+* ~https://bgjar.com/~
+* ~https://www.svgeez.com/~
+* ~https://patternpad.com/editor.html~
+* ~https://tartanify.com/tartan/lyon-jeffrey-m-hunting-personal~
+* ~http://bg.siteorigin.com/~
+* ~https://tabbied.com/select-artwork~
+* ~https://www.visiwig.com/patterns/~
+* ~https://patterninja.com/~
+* ~https://online-free-tools.com/en/css_pattern_generator_background~
+* ~http://www.patternify.com/~
+* ~https://wweb.dev/resources/animated-css-background-generator/~
+* ~https://stripesgenerator.com/~
+* ~https://patternizer.com/yy47/72~
+* ~https://doodad.dev/pattern-generator/~
+* ~https://superdesigner.co/tools/css-backgrounds~
+* ~https://patterns.helloyes.dev - Basic patterns~
+* ~https://www.magicpattern.design/tools/css-backgrounds~
+* ~https://trianglify.io/ - Poly patterns~
+* ~https://www.shapedivider.app/ - Shape generator~
+* ~https://9elements.github.io/fancy-border-radius/ - Fancy-Border-Radius~
 
 
 ## Tools
 ### Collections
-* https://onlinecsvtools.com/ - CSV, TSV, JSON, YAML, XML, MATH, FRACTAL, NUMBER, INTEGER, UNICODE, ASCII, UTF8, BINARY, HEX, TEXT, STRING, LIST, RANDOM, IMAGE, JPG, PNG, GIF, FILE, HASH, CRYPTO, BITMAP, LINUX, TIME, BASE64, SET, PDF, AUDIO, BROWSER, CSS, JS, TABLE, tools
-* https://html-css-js.com/html/ - HTML Tools And Resources, Editor, Tags, CheatSheet, Characters, Generators, Templates, Tutorial
-* https://html-css-js.com/css/ - Editor, Cheat Sheet, Generators, Blog, Links
-* https://online-free-tools.com/en/index - `#minify` `#beautify` `#css` `#html` `#password` `#generators` `#tools` `#hash` `#base64` `#seo` `#robots` `#converter` `#xml` `#json` `#htaccess`
+* ~https://onlinecsvtools.com/ - CSV, TSV, JSON, YAML, XML, MATH, FRACTAL, NUMBER, INTEGER, UNICODE, ASCII, UTF8, BINARY, HEX, TEXT, STRING, LIST, RANDOM, IMAGE, JPG, PNG, GIF, FILE, HASH, CRYPTO, BITMAP, LINUX, TIME, BASE64, SET, PDF, AUDIO, BROWSER, CSS, JS, TABLE, tools~
+* ~https://html-css-js.com/html/ - HTML Tools And Resources, Editor, Tags, CheatSheet, Characters, Generators, Templates, Tutorial~
+* ~https://html-css-js.com/css/ - Editor, Cheat Sheet, Generators, Blog, Links~
+* ~https://online-free-tools.com/en/index - `#minify` `#beautify` `#css` `#html` `#password` `#generators` `#tools` `#hash` `#base64` `#seo` `#robots` `#converter` `#xml` `#json` `#htaccess`~
 
 ### Draw
 * ~https://draw.io - Flowchart Maker~
@@ -715,18 +715,18 @@
 
 
 ## Tips, Tricks, Best Practices
-* https://htmldom.dev/ - Manage HTML DOM code snippets
-* https://getfrontend.tips/ - Tips, Tricks, Best Practices
-* https://thisthat.dev - CSS, DOM, HTML, JS attribute / property comparisons
-* https://1loc.dev/ - Favorite JavaScript Utilities
-* https://ui-patterns.com - User Interface Design patterns are recurring solutions that solve common design problems
-* https://github.com/AllThingsSmitty/css-protips - A collection of tips to help take your CSS skills pro.
-* https://www.refactoringui.com/ - Tips, Articles to design UIs using specific tactics explained from a developer's point-of-view.
+* ~https://htmldom.dev/ - Manage HTML DOM code snippets~
+* ~https://getfrontend.tips/ - Tips, Tricks, Best Practices~
+* ~https://thisthat.dev - CSS, DOM, HTML, JS attribute / property comparisons~
+* ~https://1loc.dev/ - Favorite JavaScript Utilities~
+* ~https://ui-patterns.com - User Interface Design patterns are recurring solutions that solve common design problems~
+* ~https://github.com/AllThingsSmitty/css-protips - A collection of tips to help take your CSS skills pro.~
+* ~https://www.refactoringui.com/ - Tips, Articles to design UIs using specific tactics explained from a developer's point-of-view.~
 
 
 ## Tutorials
-* https://tutsplus.com/tutorials - Photoshop, Wordpress, Web etc. related
-* https://wiki.archlinux.org/ - A well known place for linux stuff
+* ~https://tutsplus.com/tutorials - Photoshop, Wordpress, Web etc. related~
+* ~https://wiki.archlinux.org/ - A well known place for linux stuff~
 
 
 ---
