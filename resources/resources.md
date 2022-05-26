@@ -254,13 +254,13 @@
 
 
 ## Data
-* https://www.isic-archive.com/ - The International Skin Imaging Collaboration
-* https://www.mockaroo.com/ - JSON, SQL, XML, CSV mock data generator
-* https://www.onlinedatagenerator.com - CSV, Json, SQL
+* ~https://www.isic-archive.com/ - The International Skin Imaging Collaboration~
+* ~https://www.mockaroo.com/ - JSON, SQL, XML, CSV mock data generator~
+* ~https://www.onlinedatagenerator.com - CSV, Json, SQL~
 * http://www.randat.com - CSV random data generator
-* https://www.generatedata.com - CSV, HTML, JSON, JS, SQL, XML
-* https://www.databasetestdata.com - Mock Data JSON, XML, CSV
-* https://random-data-api.com - random fake data
+* ~https://www.generatedata.com - CSV, HTML, JSON, JS, SQL, XML~
+* ~https://www.databasetestdata.com - Mock Data JSON, XML, CSV~
+* ~https://random-data-api.com - random fake data~
 
 
 ## Design / Development - Resources / Tools
@@ -321,22 +321,22 @@
 * https://sketchrepo.com - Sketch App Resources - `#sketch` `#freebies` `#templates` `#resource`
 
 #### Templates / Boilerplates
-* https://www.zerotheme.com/ - html, css
-* https://athemes.com/ - wordpress
-* https://html5up.net/ - html
-* https://themewagon.com/ - html
-* https://colorlib.com/ - wordpress
-* https://cssauthor.com/
-* https://freefrontend.com/ - html, css, bootstrap, js, react, vue
-* https://codemyui.com/ - Code snippets
-* https://www.free-css.com/ - Website templates
-* https://www.w3schools.com/w3css/w3css_templates.asp - CSS Templates
+* ~https://www.zerotheme.com/ - html, css~
+* ~https://athemes.com/ - wordpress~
+* ~https://html5up.net/ - html~
+* ~https://themewagon.com/ - html~
+* ~https://colorlib.com/ - wordpress~
+* ~https://cssauthor.com/~
+* ~https://freefrontend.com/ - html, css, bootstrap, js, react, vue~
+* ~https://codemyui.com/ - Code snippets~
+* ~https://www.free-css.com/ - Website templates~
+* ~https://www.w3schools.com/w3css/w3css_templates.asp - CSS Templates~
 * http://getskeleton.com - Responsive boilerplate
-* https://www.tailwindtoolbox.com/starter-templates - Tailwind templates
-* https://www.quackit.com/html/templates - HTML, Flexbox, CSS Grid, Bootstrap, Layout Templates
+* ~https://www.tailwindtoolbox.com/starter-templates - Tailwind templates~
+* ~https://www.quackit.com/html/templates - HTML, Flexbox, CSS Grid, Bootstrap, Layout Templates~
 * http://www.mashup-template.com - HTML5 Templates
-* https://cruip.com/free-templates/ - Free HTML landing pages for startups
-* https://dopeui.co/ - Figma templates
+* ~https://cruip.com/free-templates/ - Free HTML landing pages for startups~
+* ~https://dopeui.co/ - Figma templates~
 
 
 ## Design systems
