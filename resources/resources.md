@@ -447,74 +447,74 @@
 
 
 ## Inspiration
-* https://collectui.com/ - Daily inspiration collected from daily ui archive
-* https://dribbble.com/ - Well known design destination
-* https://screenlane.com/ - Latest mobile & web UI design inspiration
-* https://www.awwwards.com/ - The awards of design, creativity and innovation on the internet
-* https://www.behance.net/ - Adobe Creative Network
-* https://muz.li - Designers' Secret Source
-* https://www.siteinspire.com - A showcase of the best web design inspiration
-* https://mobbin.design/ - iOS and Android design ideas
-* https://www.lapa.ninja/ - The Best Landing Page Examples
-* https://abduzeedo.com - Blog about design
-* https://ecomm.design - eCommerce Website Design Gallery & Tech Inspiration
-* https://freebiesbug.com - Landing Page inspirations
-* https://minimal.gallery - Clean Webdesigns
-* https://lookup.design - Typography, Landing Pages, Components Inspiration
-* https://pageflows.com - user flow design inspiration
-* https://siiimple.com - minimalist css gallery
-* https://land-book.com - web design inspiration gallery
-* https://www.personalwebsites.top - 150 handpicked personal websites
-* https://www.btw.so/marketing/landing-page-examples - Landing Page Examples
-* https://onepagelove.com/ - One Page websites, templates, resources, articles
-* https://scrnshts.club/ - App store design screenshots, best practices
-* https://www.landingfolio.com/ - Landing pages, Templates, Resources, Components
-* https://cssnectar.com - Css website design showcase
-* https://uidesigndaily.com - UI Designs by components
-* https://themewagon.com/ - Web templates
-* https://www.extremelyusable.com/ - UX Portfolios
-* https://saaslandingpage.com - Landing page examples
-* https://www.uidesigndaily.com - Inspiration
+* ~https://collectui.com/ - Daily inspiration collected from daily ui archive~
+* ~https://dribbble.com/ - Well known design destination~
+* ~https://screenlane.com/ - Latest mobile & web UI design inspiration~
+* ~https://www.awwwards.com/ - The awards of design, creativity and innovation on the internet~
+* ~https://www.behance.net/ - Adobe Creative Network~
+* ~https://muz.li - Designers' Secret Source~
+* ~https://www.siteinspire.com - A showcase of the best web design inspiration~
+* ~https://mobbin.design/ - iOS and Android design ideas~
+* ~https://www.lapa.ninja/ - The Best Landing Page Examples~
+* ~https://abduzeedo.com - Blog about design~
+* ~https://ecomm.design - eCommerce Website Design Gallery & Tech Inspiration~
+* ~https://freebiesbug.com - Landing Page inspirations~
+* ~https://minimal.gallery - Clean Webdesigns~
+* ~https://lookup.design - Typography, Landing Pages, Components Inspiration~
+* ~https://pageflows.com - user flow design inspiration~
+* ~https://siiimple.com - minimalist css gallery~
+* ~https://land-book.com - web design inspiration gallery~
+* ~https://www.personalwebsites.top - 150 handpicked personal websites~
+* ~https://www.btw.so/marketing/landing-page-examples - Landing Page Examples~
+* ~https://onepagelove.com/ - One Page websites, templates, resources, articles~
+* ~https://scrnshts.club/ - App store design screenshots, best practices~
+* ~https://www.landingfolio.com/ - Landing pages, Templates, Resources, Components~
+* ~https://cssnectar.com - Css website design showcase~
+* ~https://uidesigndaily.com - UI Designs by components~
+* ~https://themewagon.com/ - Web templates~
+* ~https://www.extremelyusable.com/ - UX Portfolios~
+* ~https://saaslandingpage.com - Landing page examples~
+* ~https://www.uidesigndaily.com - Inspiration~
 * http://www.calltoidea.com/ - Inspiration with element / component categories
-* https://www.admiretheweb.com/ - Searchable via categories and tags
-* https://www.designspiration.com/ - General design inspiration searchable by colors
-* https://bestwebsite.gallery/ - Filter by Colors, CMS, Style, CSS Frameworks
-* https://www.webdesign-inspiration.com/ - Filter by website type, Colors, industry, styles
-* * https://webdesignledger.com/
+* ~https://www.admiretheweb.com/ - Searchable via categories and tags~
+* ~https://www.designspiration.com/ - General design inspiration searchable by colors~
+* ~https://bestwebsite.gallery/ - Filter by Colors, CMS, Style, CSS Frameworks~
+* ~https://www.webdesign-inspiration.com/ - Filter by website type, Colors, industry, styles~
+* * ~https://webdesignledger.com/~
 
 ## Learning
-* https://html.com/ - Html, Tags, Attributes, CSS, Tutorials, Guides
-* https://css-tricks.com/ - CSS, Articles, Guides, Flexbox, Grid, Selectors, Properties
-* https://rapidapi.com/learn - API
-* https://devchallenges.io/ - Responsive, Frontend, Fullstack
-* https://www.frontendpractice.com/ - Practice by recreating real websites
-* https://www.theodinproject.com/ - Full stack
-* https://humanebydesign.com/ - Design best practice
-* https://www.useronboard.com/user-onboarding-teardowns/ - Best practice by popular apps teardown
-* https://www.internetingishard.com - Friendly web development tutorials for complete beginners
-* https://lab.github.com -
-* https://www.freecodecamp.org/learn/responsive-web-design/ - Responsive Webdesign Course
-* https://linuxjourney.com/ - Learn the ways of Linux-fu, for free.
-* https://codepip.com/ - Learn to code playing games (html, css, js)
-* https://fullstackopen.com/en/ - Deep Dive Into Modern Web Development
-* https://github.com/freeCodeCamp/freeCodeCamp - FreeCodeCamp.org's open-source codebase and curriculum
-* https://practicaltypography.com/ - But­t­er­ick’s Prac­ti­cal Ty­pog­ra­phy
-* https://tutsplus.com - Tutorials, Guides
-  * https://github.com/tutsplus
-* https://www.internetingishard.com/ - Friendly web development tutorials for complete beginners (curriculum)
-* https://www.codecademy.com/ - Learn to Code
-* https://developer.mozilla.org/en-US/docs/Learn - Learn web development
-* https://github.com/microsoft/Web-Dev-For-Beginners/ - Web Development for Beginners (curriculum)
-* https://dataschool.com/ - Learn sql
-* https://thecodingtrain.com/
-* https://fireship.io/
-* https://academind.com/ - Tutorials
+* ~https://html.com/ - Html, Tags, Attributes, CSS, Tutorials, Guides~
+* ~https://css-tricks.com/ - CSS, Articles, Guides, Flexbox, Grid, Selectors, Properties~
+* ~https://rapidapi.com/learn - API~
+* ~https://devchallenges.io/ - Responsive, Frontend, Fullstack~
+* ~https://www.frontendpractice.com/ - Practice by recreating real websites~
+* ~https://www.theodinproject.com/ - Full stack~
+* ~https://humanebydesign.com/ - Design best practice~
+* ~https://www.useronboard.com/user-onboarding-teardowns/ - Best practice by popular apps teardown~
+* ~https://www.internetingishard.com - Friendly web development tutorials for complete beginners~
+* ~https://lab.github.com -~
+* ~https://www.freecodecamp.org/learn/responsive-web-design/ - Responsive Webdesign Course~
+* ~https://linuxjourney.com/ - Learn the ways of Linux-fu, for free.~
+* ~https://codepip.com/ - Learn to code playing games (html, css, js)~
+* ~https://fullstackopen.com/en/ - Deep Dive Into Modern Web Development~
+* ~https://github.com/freeCodeCamp/freeCodeCamp - FreeCodeCamp.org's open-source codebase and curriculum~
+* ~https://practicaltypography.com/ - But­t­er­ick’s Prac­ti­cal Ty­pog­ra­phy~
+* ~https://tutsplus.com - Tutorials, Guides~
+  * ~https://github.com/tutsplus~
+* ~https://www.internetingishard.com/ - Friendly web development tutorials for complete beginners (curriculum)~
+* ~https://www.codecademy.com/ - Learn to Code~
+* ~https://developer.mozilla.org/en-US/docs/Learn - Learn web development~
+* ~https://github.com/microsoft/Web-Dev-For-Beginners/ - Web Development for Beginners (curriculum)~
+* ~https://dataschool.com/ - Learn sql~
+* ~https://thecodingtrain.com/~
+* ~https://fireship.io/~
+* ~https://academind.com/ - Tutorials~
 
 
 ## Media
-* https://www.covermytunes.com - Largest CD Covers & iTunes Album Artwork Search Engine
-* https://fanart.tv - Logos, Backgrounds, Posters and more for your TV, Movie and Music collections
-* https://bendodson.com/projects/itunes-artwork-finder/ - iTunes Artwork Finder
+* ~https://www.covermytunes.com - Largest CD Covers & iTunes Album Artwork Search Engine~
+* ~https://fanart.tv - Logos, Backgrounds, Posters and more for your TV, Movie and Music collections~
+* ~https://bendodson.com/projects/itunes-artwork-finder/ - iTunes Artwork Finder~
 
 
 ## Mockups
@@ -555,19 +555,19 @@
 
 
 ## SEO
-* https://metatags.io/ - Meta Tags Generator
-* https://developers.google.com/speed/pagespeed/insights/ - Google Page Speed Analyzer
-* https://gtmetrix.com/reports/studiosoco.com/tpUOXLhG/ - Page Speed Analyzer
-* https://www.seoptimer.com/meta-tag-generator - Meta Tag Generator
-* https://websiteseochecker.com - DA PA Checker MOZ
-* https://neilpatel.com/ubersuggest/ - SEO Analyzer
-* https://nibbler.silktide.com/ - Test tool
+* ~https://metatags.io/ - Meta Tags Generator~
+* ~https://developers.google.com/speed/pagespeed/insights/ - Google Page Speed Analyzer~
+* ~https://gtmetrix.com/reports/studiosoco.com/tpUOXLhG/ - Page Speed Analyzer~
+* ~https://www.seoptimer.com/meta-tag-generator - Meta Tag Generator~
+* ~https://websiteseochecker.com - DA PA Checker MOZ~
+* ~https://neilpatel.com/ubersuggest/ - SEO Analyzer~
+* ~https://nibbler.silktide.com/ - Test tool~
 
 
 ## Styleguide
-* https://google.github.io/styleguide/ - Google Style Guides, shell, JavaScript, java, html, css
-* https://github.com/airbnb/javascript - JavaScript
-* https://cssguidelin.es - High-level advice and guidelines for writing sane, manageable, scalable CSS
+* ~https://google.github.io/styleguide/ - Google Style Guides, shell, JavaScript, java, html, css~
+* ~https://github.com/airbnb/javascript - JavaScript~
+* ~https://cssguidelin.es - High-level advice and guidelines for writing sane, manageable, scalable CSS~
 
 
 ## Stock Assets (Photos, Videos, Music)
