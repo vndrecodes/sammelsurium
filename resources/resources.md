@@ -257,7 +257,7 @@
 * ~https://www.isic-archive.com/ - The International Skin Imaging Collaboration~
 * ~https://www.mockaroo.com/ - JSON, SQL, XML, CSV mock data generator~
 * ~https://www.onlinedatagenerator.com - CSV, Json, SQL~
-* http://www.randat.com - CSV random data generator
+* ~http://www.randat.com - CSV random data generator~
 * ~https://www.generatedata.com - CSV, HTML, JSON, JS, SQL, XML~
 * ~https://www.databasetestdata.com - Mock Data JSON, XML, CSV~
 * ~https://random-data-api.com - random fake data~
@@ -265,60 +265,60 @@
 
 ## Design / Development - Resources / Tools
 ### Curated lists
-* https://github.com/sindresorhus/awesome - Repo
-* https://project-awesome.org - Web
-* https://awesome-indexed.mathew-davies.co.uk - Search
-* https://awesomelists.top - Search
-* https://awesome.digitalbunker.dev - Search
+* ~https://github.com/sindresorhus/awesome - Repo~
+* ~https://project-awesome.org - Web~
+* ~https://awesome-indexed.mathew-davies.co.uk - Search~
+* ~https://awesomelists.top - Search~
+* ~https://awesome.digitalbunker.dev - Search~
 
 ### Other resources
-* https://appydev.co/ - Find awesome developer tools
-* https://tiny-helpers.dev/ - A collection of free single-purpose online tools for web developers...
-* https://undesign.learn.uno/ - Collection of free design tools and resources for makers, developers and designers
-* https://github.com/sw-yx/spark-joy - Design Tools & Tips for Developers in a Hurry
-* https://www.evernote.design/ - All in One Bookmark Links for Designer
-* https://designvalley.club/ - Design tool repository
-* https://github.com/bradtraversy/design-resources-for-developers - Design & UI resources
-* https://github.com/mtdvio/web-development-resources - A list of useful resources for Web Developers!
-* https://www.designgems.co/ - A hand-selected collection of 200+ free tools and resources for designers
-* https://theprotoolbox.com/ - Useful Tools for Online Entrepreneurs
-* https://designresourc.es/ - Curated with the latest design resources
-* https://www.uxdatabase.io/ - Free learning & product design database
-* https://github.com/codingknite/frontend-development - Collection of resources for Frontend development.
-* https://airtable.com/shrlgNNCbUxvfQt5w/tbl5zRQrzxK5rq8cV/viwTshDGyfwtnCoo6 - UIUX resources
-* https://www.uigoodies.com/ - Designer resources
-* https://trolologuy.github.io/useful-tools/ - List of useful tools and programs for developpers, devops, admins, ...
-* https://free-for.dev/ - List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
-* https://webdevhome.github.io/ - Collection of basic tech links
-* https://github.com/cdterry87/Resources - Mostly web development stuff
-* https://github.com/lk-geimfari/awesomo - Open Source Projects list for different languages
-* https://github.com/ripienaar/free-for-dev - A list of SaaS, PaaS and IaaS
-* https://dev.to/kiranrajvjd/the-ultimate-web-developer-resources-list-200-resources-2gf5 - Huge List of Web Dev Resources
-* https://github.com/trimstray/the-book-of-secret-knowledge - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools
-* https://github.com/sdmg15/Best-websites-a-programmer-should-visit - Some useful websites for programmers.
-* https://webcode.tools - CSS Generators, HTML Generators, JSON-LD Generator, Meta Tags Generator
-* https://www.html-code-generator.com/ - CSS, HTML, Generators, Converters, Snippets, Editors, Tools
-* https://uigarage.net - UI inspiration, patterns, UI Kits, Tools
+* ~https://appydev.co/ - Find awesome developer tools~
+* ~https://tiny-helpers.dev/ - A collection of free single-purpose online tools for web developers...~
+* ~https://undesign.learn.uno/ - Collection of free design tools and resources for makers, developers and designers~
+* ~https://github.com/sw-yx/spark-joy - Design Tools & Tips for Developers in a Hurry~
+* ~https://www.evernote.design/ - All in One Bookmark Links for Designer~
+* ~https://designvalley.club/ - Design tool repository~
+* ~https://github.com/bradtraversy/design-resources-for-developers - Design & UI resources~
+* ~https://github.com/mtdvio/web-development-resources - A list of useful resources for Web Developers!~
+* ~https://www.designgems.co/ - A hand-selected collection of 200+ free tools and resources for designers~
+* ~https://theprotoolbox.com/ - Useful Tools for Online Entrepreneurs~
+* ~https://designresourc.es/ - Curated with the latest design resources~
+* ~https://www.uxdatabase.io/ - Free learning & product design database~
+* ~https://github.com/codingknite/frontend-development - Collection of resources for Frontend development.~
+* ~https://airtable.com/shrlgNNCbUxvfQt5w/tbl5zRQrzxK5rq8cV/viwTshDGyfwtnCoo6 - UIUX resources~
+* ~https://www.uigoodies.com/ - Designer resources~
+* ~https://trolologuy.github.io/useful-tools/ - List of useful tools and programs for developpers, devops, admins, ...~
+* ~https://free-for.dev/ - List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.~
+* ~https://webdevhome.github.io/ - Collection of basic tech links~
+* ~https://github.com/cdterry87/Resources - Mostly web development stuff~
+* ~https://github.com/lk-geimfari/awesomo - Open Source Projects list for different languages~
+* ~https://github.com/ripienaar/free-for-dev - A list of SaaS, PaaS and IaaS~
+* ~https://dev.to/kiranrajvjd/the-ultimate-web-developer-resources-list-200-resources-2gf5 - Huge List of Web Dev Resources~
+* ~https://github.com/trimstray/the-book-of-secret-knowledge - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools~
+* ~https://github.com/sdmg15/Best-websites-a-programmer-should-visit - Some useful websites for programmers.~
+* ~https://webcode.tools - CSS Generators, HTML Generators, JSON-LD Generator, Meta Tags Generator~
+* ~https://www.html-code-generator.com/ - CSS, HTML, Generators, Converters, Snippets, Editors, Tools~
+* ~https://uigarage.net - UI inspiration, patterns, UI Kits, Tools~
 
 
 ## Design resources
-* https://cssauthor.com - Templates, Mockup, Icons, UI, Wallpapers, Inspiration, Mockup, Icons, Images, Fonts, Tutorials, Typography, Print Design, Web Design Tools, UI Design, Vector Graphics, Website Templates, CSS, HTML, PHP, Bootstrap, Development Tools, WordPress, WordPress Themes, WordPress Plugins, Mockups, Bootstrap Templates
-* https://freedesignresources.net - Fonts, Mockups, Presentation, Print, Website Templates, Icons, UI Kits
-* https://medialoot.com - Mockups, Graphics, Templates, Themes: [HTML, CSS, Bootstrap, Wordpress], CSS Components, Icons, Fonts
-* https://freebiesbug.com - PSD, Icons, Mockups, UI kits, Templates, Fonts, HTML
-* https://www.productdesignresources.com - Inspiration, Illustrations, Icons, Mockups + Kits, Stock Photos, Typography, Learning, Blogs, Podcasts, Books, Talks, Community, Design Tools, UX Tools, Color Tools, Accessibility, Remote Tools, Dev Tools
-* https://html5up.net - Responsive html5 and css3 templates
-* https://www.html5xcss3.com - Free Responsive Css3 and Html5 Templates
-* https://startbootstrap.com - Bootstrap themes, templates, and UI tools
-* https://www.styleshout.com/free-templates/ - Website Templates
-* https://delesign.com/free-resources - Graphics, Email Templates, Social Media, Website, Branding, Prints
-* https://github.com/sandoche/awesome-landing-page - Landing page templates
-* https://servicedesigntools.org/ - Collection of tools and tutorials that helps dealing with complex design challenges.
-* https://www.html.am/ - HTML Codes, Editors, Generators, Templates: [Layout, CSS, HTML5, Website]
-* https://w3hubs.com/
-* https://ui8.net/ - Design freebies (figma, sketch, photoshop, xd, illustrator, after effects, keynote)
-* https://www.sketchappsources.com - Free design resources and plugins - Icons, UI Kits, Wireframes, Templates for Sketch
-* https://sketchrepo.com - Sketch App Resources - `#sketch` `#freebies` `#templates` `#resource`
+* ~https://cssauthor.com - Templates, Mockup, Icons, UI, Wallpapers, Inspiration, Mockup, Icons, Images, Fonts, Tutorials, Typography, Print Design, Web Design Tools, UI Design, Vector Graphics, Website Templates, CSS, HTML, PHP, Bootstrap, Development Tools, WordPress, WordPress Themes, WordPress Plugins, Mockups, Bootstrap Templates~
+* ~https://freedesignresources.net - Fonts, Mockups, Presentation, Print, Website Templates, Icons, UI Kits~
+* ~https://medialoot.com - Mockups, Graphics, Templates, Themes: [HTML, CSS, Bootstrap, Wordpress], CSS Components, Icons, Fonts~
+* ~https://freebiesbug.com - PSD, Icons, Mockups, UI kits, Templates, Fonts, HTML~
+* ~https://www.productdesignresources.com - Inspiration, Illustrations, Icons, Mockups + Kits, Stock Photos, Typography, Learning, Blogs, Podcasts, Books, Talks, Community, Design Tools, UX Tools, Color Tools, Accessibility, Remote Tools, Dev Tools~
+* ~https://html5up.net - Responsive html5 and css3 templates~
+* ~https://www.html5xcss3.com - Free Responsive Css3 and Html5 Templates~
+* ~https://startbootstrap.com - Bootstrap themes, templates, and UI tools~
+* ~https://www.styleshout.com/free-templates/ - Website Templates~
+* ~https://delesign.com/free-resources - Graphics, Email Templates, Social Media, Website, Branding, Prints~
+* ~https://github.com/sandoche/awesome-landing-page - Landing page templates~
+* ~https://servicedesigntools.org/ - Collection of tools and tutorials that helps dealing with complex design challenges.~
+* ~https://www.html.am/ - HTML Codes, Editors, Generators, Templates: [Layout, CSS, HTML5, Website]~
+* ~https://w3hubs.com/~
+* ~https://ui8.net/ - Design freebies (figma, sketch, photoshop, xd, illustrator, after effects, keynote)~
+* ~https://www.sketchappsources.com - Free design resources and plugins - Icons, UI Kits, Wireframes, Templates for Sketch~
+* ~https://sketchrepo.com - Sketch App Resources - `#sketch` `#freebies` `#templates` `#resource`~
 
 #### Templates / Boilerplates
 * ~https://www.zerotheme.com/ - html, css~
@@ -334,7 +334,7 @@
 * http://getskeleton.com - Responsive boilerplate
 * ~https://www.tailwindtoolbox.com/starter-templates - Tailwind templates~
 * ~https://www.quackit.com/html/templates - HTML, Flexbox, CSS Grid, Bootstrap, Layout Templates~
-* http://www.mashup-template.com - HTML5 Templates
+* ~http://www.mashup-template.com - HTML5 Templates~
 * ~https://cruip.com/free-templates/ - Free HTML landing pages for startups~
 * ~https://dopeui.co/ - Figma templates~
 
@@ -430,7 +430,7 @@
 * ~https://delesign.com/free-designs/graphics/~
 * ~https://www.manypixels.co/gallery~
 * ~https://icons8.com/illustrations~
-* ~https://lab.streamlinehq.com/ - 100,000 icons, illustrations and emoji for all your ~
+* ~https://lab.streamlinehq.com/ - 100,000 icons, illustrations and emoji for all your~
 * ~https://lucid.pixsellz.io/~
 * ~https://control.rocks/~
 * ~https://niceillustrations.com/free-illustrations/~
