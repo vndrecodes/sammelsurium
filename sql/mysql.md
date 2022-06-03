@@ -1,14 +1,14 @@
----
-id: mysql
-summary: mysql cheatsheet
-categories: sql
-tags: database, sql, mariadb, mysql
-published: 2021-05-08
-author: vndrecodes
-
----
-
 # Useful mysql stuff
+
+## Create Database and User
+```sql
+CREATE DATABASE <database_name>;
+
+-- @ '%' to allow remote access from anywhere
+GRANT all privileges ON <database_name>.* to '<user>'@'localhost' identified by '<password>';
+
+flush privileges;
+```
 
 ## Users
 
