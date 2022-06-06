@@ -18,4 +18,5 @@ option + left/right     collapse/expand folders
 cmd + A -> left/right   collapse/expand all folders
 cmd + opt + W           close all windows
 cmd + shift + .         show hidden files
+cmd + opt + C           copy path of selected folder
 ```
