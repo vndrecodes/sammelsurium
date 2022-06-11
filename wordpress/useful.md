@@ -15,6 +15,7 @@ php_value max_execution_time 300
 php_value max_input_time 300
 php_value max_input_vars 5000
 php_value upload_max_filesize 128M
+php_value memory_limit 256M
 ```
 
 * `php.ini`
