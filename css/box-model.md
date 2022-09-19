@@ -17,10 +17,18 @@ Outer display type: block
 The Box still behaves like a block box, but direct children inside the box become flex items
 Outer display type: block, inner display type flex
 
+### `display: inline-block`
+* prevents break onto new-line
+* preserves `width` and `height` of element
+* `padding`, `margin` and `border` will also be preserved
+
+
+
 
 * `padding` - space around **content**
 * `border` - solid line *outside* of **padding**
 * `margin` - space around the *outside* of the **border**
+   * **vertical** margins of two elements touching each other (adjacent or nested) collaps, **horizontal** not!
 
 * `width` (of an element) - `content-box` vs `border-box`
 * `color` - color of the elements **content** (usually text)
