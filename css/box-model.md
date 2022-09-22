@@ -14,7 +14,6 @@ Inline block boxes behave as follow:
 * The size of inline elements is just the size of their content
 Outer display type: block
 
-
 ### `display: flex`
 The Box still behaves like a block box, but direct children inside the box become flex items
 Outer display type: block, inner display type flex
@@ -23,7 +22,6 @@ Outer display type: block, inner display type flex
 * prevents break onto new-line
 * preserves `width` and `height` of element
 * `padding`, `margin` and `border` will also be preserved
-
 
 
 
@@ -36,6 +34,10 @@ Outer display type: block, inner display type flex
 * `color` - color of the elements **content** (usually text)
 * `background-color` - color behind **content** & **padding**
 
+
+### Margin
+* to right align box `margin-left: auto`
+* to center (horizontally) `maring: auto`
 
 ## Magic setup
 * Change standard box model to alternative box model
