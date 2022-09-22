@@ -11,7 +11,9 @@ Outer display type: block
 Inline block boxes behave as follow:
 * Box does not break onto new line
 * `width` and `height` properties are ignored
+* The size of inline elements is just the size of their content
 Outer display type: block
+
 
 ### `display: flex`
 The Box still behaves like a block box, but direct children inside the box become flex items
