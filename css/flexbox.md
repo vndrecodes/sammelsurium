@@ -33,4 +33,28 @@ this settings makes equally sized items
 ## `flex-basis`
 * `flex-basis` defaults to auto and sets the width to the content width (behaves similar to `width` attribute) 
 * set `0` for equally sized items
+* `flex-basis` refers to width when `flex-direction` is row, height when `flex-direction` is column
 
+
+## `flex-direction`
+
+### `row`
+* Blocklevel elements default to the full width of their parent, so flex grow, shrink, basis relates to width.
+
+### `column`
+* Flex grow, shrink, basis relates to height
+* Since Block level elements default height depends on their content height, one has to add a `height` property or content. Otherwise items collapse.
+```css
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.item {
+  height: 50px;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: auto; /* The items height value will be used from the height property */
+  flex-basis: 0; /* The items height will be like the content height */
+}
+```
