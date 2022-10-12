@@ -51,3 +51,13 @@ html {
   box-sizing: inherit;
 }
 ```
+
+## Width
+* `max-content` sets (blocklevel) with of box to content width
+```css
+li {
+  border: 1px solid red;
+  width: max-content;
+}
+```
+* `min-width` for text content, the box shrinkes to the minimum size of the longest word (wraps words)
