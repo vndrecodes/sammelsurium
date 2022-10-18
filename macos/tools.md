@@ -20,6 +20,9 @@ author: vndrecodes
 
 ## Essentials
 * git
-  ```shell
-  $ xcode-select --install
-  ```
+```shell
+$ xcode-select --install
+
+# Fix broken git after xcode update
+$ sudo xcode-select -switch /Library/Developer/CommandLineTools
+```
