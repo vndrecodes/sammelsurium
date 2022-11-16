@@ -50,10 +50,15 @@ $ pbcopy    # Copy to clipboard
 $ pbpaste   # Paste from clipboard
 ```
 
-
 * Delete all *Desktop Services Store* files
 ```shell
 $ sudo find / -name .DS_Store -delete; killall Finder
+```
+
+* Restart icloud sync
+```shell
+$ killall bird
+$ brctl log -w # Watch cloud daemon log
 ```
 
 
