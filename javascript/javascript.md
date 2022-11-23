@@ -41,6 +41,19 @@
 })();
 ```
 
+### Arguments
+```javascript
+function myUnknownArgSizeFunction(...args) {
+  console.log(arguments.length);
+
+  for (const arg of args) {
+    console.log(arg);
+  }
+}
+
+myUnknownArgSizeFunction('foo', 'bar', 'baz');
+```
+
 
 ## Classes
 ### Inheritance
