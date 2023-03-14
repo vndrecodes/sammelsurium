@@ -2,9 +2,11 @@
 
 #### Plugins
 * Elementor + Starter Theme
-* Essential Addons for Elementor
+* Elementor + OceanWP Theme
+  * Ocean Extra
+  * Essential Addons for Elementor
 * Astra - Starter Templates for Elementor, WordPress & Beaver Builder Templates 
-* Envato Elements – Photos & Elementor Templates 
+* Envato Elements – Photos & Elementor Templates
 
 ##### Configurations
 
@@ -25,6 +27,11 @@ max_execution_time 300
 max_input_time 300
 max_input_vars 5000
 upload_max_filesize 128M
+```
+
+* `wp-config.php`
+```php
+define('WP_MEMORY_LIMIT', '256M');
 ```
 
 #### Debug
