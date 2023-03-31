@@ -22,11 +22,11 @@ php_value memory_limit 256M
 
 * `php.ini`
 ```shell
-post_max_size 256M
-max_execution_time 300
-max_input_time 300
-max_input_vars 5000
-upload_max_filesize 128M
+post_max_size = 256M
+max_execution_time = 300
+max_input_time = 300
+max_input_vars = 5000
+upload_max_filesize = 128M
 ```
 
 * `wp-config.php`
