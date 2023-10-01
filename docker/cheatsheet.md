@@ -1,13 +1,3 @@
----
-id: docker-cheatsheet
-summary:
-categories: docker
-tags: docker, cheatsheet
-published: 2021-05-08
-author: vndrecodes
-
----
-
 # Cheatsheet
 
 ## Info
@@ -49,6 +39,15 @@ $ docker image prune
 ```shell
 $ docker system prune --volumes
 $ docker image prune -a
+```
+
+## Logs
+View container logs in any terminal
+```shell
+docker logs <my-container>
+
+# stream
+docker logs --follow <my-container>
 ```
 
 
