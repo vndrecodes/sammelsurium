@@ -52,3 +52,4 @@ $ info <command>      # Similar to man command
 * `nslookup` -
 * `whois` -
 * `traceroute` - print the route packets take to network host
+* `cat < /dev/tcp/localhost/80` - Check if a port is reachable on a host
