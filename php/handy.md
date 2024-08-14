@@ -1,5 +1,71 @@
 # Good to know php stuff
 
+## Basic
+### String interpolation
+```php
+
+// Concatination
+$myVar = $foo . " " . "Hello";
+
+// Interpolation
+$myVar = "$foo Hello";
+```
+
+### Echoing Variables
+```php
+<?php  echo("Hello World"); ?>
+
+// Short
+
+<?= "Hello World!"; ?>
+```
+
+### Wrap variable name
+```php
+<?php
+$myVar = "Hel";
+
+echo("{$myVar}lo World!");
+?>
+```
+
+### Alternative syntax for control structures
+```php
+<?php
+$myArr = ['foo', 'bar', 'baz'];
+?>
+
+<?php foreach($myArr as $item) : ?>
+  <div>
+    <?= $item; ?>
+  </div>
+<?php endforeach; ?>
+```
+
+### Associative arrays
+```php
+<?php
+$myArr = [
+  'name' => 'value',
+  'key' => 'value',
+  'foo' => 'bar',
+  ]
+?>
+```
+
+### Anonymous functions
+```php
+<?php
+$myFun = function (){
+
+};
+
+?>
+
+```
+
+
+
 ## php.ini
 Locate and alter `php.ini` file. If no file is present, copy one of the default files as a basis and edit as you need.
 
