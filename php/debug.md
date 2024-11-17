@@ -1,5 +1,10 @@
 # Debugging php
 
+## Log to console (buildin webserver)
+```php
+file_put_contents("php://stdout", "\n[LOG]: My log message\n");
+```
+
 ## xdebug
 
 ## laravel
