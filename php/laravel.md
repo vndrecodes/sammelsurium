@@ -1,5 +1,10 @@
 # laravel
 
+### Init dockerized project
+```bash
+curl -S https://laravel.build/<MY-PROJECT-NAME>
+```
+
 ### Read cached **env** values
 * Modifications to cached `.env` file have no effect
 * config files read values from `.env` which then can be accessed w. config helper
