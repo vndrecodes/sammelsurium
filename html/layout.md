@@ -1,5 +1,54 @@
 # HTML
 
+## Site Layout
+### Container Layout w/o width 100% + scrollbar issue
+```html
+
+<style>
+.container {
+  width: calc(100% - (2 * 16px));
+  max-width: 768px;
+  margin: 0 auto;
+}
+
+.overflowing-component {
+  width: 100%;
+}
+</style>
+
+<body>
+<section>
+  <div class="container">
+    <div class="overflowing-component">
+      </div>
+  </div>
+</section>
+</body>
+
+```
+
+### Prevent horizontal page overflowing
+
+```html
+<style>
+body {
+  max-with: 100vw;
+  overflow-x: hidden;
+}
+
+main {
+  max-width: 100vw;
+  width: 100%
+}
+
+
+</style>
+
+<body>
+<main></main>
+</body>
+```
+
 ## Centering
 
 ### Felxbox
