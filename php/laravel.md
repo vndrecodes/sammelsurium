@@ -5,6 +5,7 @@
 curl -S https://laravel.build/<MY-PROJECT-NAME>
 ```
 
+## Config (.env)
 ### Read cached **env** values
 * Modifications to cached `.env` file have no effect
 * config files read values from `.env` which then can be accessed w. config helper
@@ -22,4 +23,11 @@ return [
 
 # myController.php
 $mailRecipient = config('custom.mail_recipient_address');
+```
+
+### @production blade directives
+```php
+@production
+    // Production code
+@endproduction
 ```
